@@ -1552,7 +1552,7 @@ PetalburgCity_Gym_Text_MaryPostBadge: @ 8206ED8
 	.string "with our Pokémon.$"
 
 PetalburgCity_Gym_Text_AlexiaIntro: @ 8206F44
-	.string "The higher the DEFENSE, the more\n"
+	.string "The higher the Defense, the more\n"
 	.string "reckless I can be in attack.$"
 
 PetalburgCity_Gym_Text_AlexiaDefeat: @ 8206F82

@@ -207,7 +207,7 @@ IslandCave_Braille_RunLapAroundWall: @ 82A6CD4
 	.byte 3
 	.braille "STAY CLOSE\n"
 	.braille "TO THE WALL.\n"
-	.braille "Run AROUND\n"
+	.braille "RUN AROUND\n"
 	.braille "ONE LAP.$"
 
 AncientTomb_Braille_ShineInTheMiddle: @ 82A6D06

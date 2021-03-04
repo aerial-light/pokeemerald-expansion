@@ -203,7 +203,7 @@ CableClub_Text_CanMixRecords:: @ 8278831
 
 @ Unused
 CableClub_Text_GuideToVariousServices: @ 827886B
-	.string "A guide to the WIRELESS CLUB's\n"
+	.string "A guide to the Wireless Club's\n"
 	.string "various services.$"
 
 CableClub_Text_CancelSelectedItem:: @ 827889C
@@ -230,7 +230,7 @@ CableClub_Text_NoEnigmaBerryInUnionRoom: @ 827897B
 	.string "BERRY may enter the Union Room.$"
 
 CableClub_Text_UnionRoomAdapterNotConnected: @ 82789B5
-	.string "This is the Pokémon WIRELESS CLUB\n"
+	.string "This is the Pokémon Wireless Club\n"
 	.string "Union Room.\p"
 	.string "Unfortunately, your Wireless\n"
 	.string "Adapter is not connected properly.\p"
@@ -455,7 +455,7 @@ CableClub_Text_AskAboutLinking: @ 8279937
 
 CableClub_Text_ExplainWirelessClub: @ 82799AA
 	.string "Let me explain how the Pokémon\n"
-	.string "WIRELESS CLUB works.\p"
+	.string "Wireless Club works.\p"
 	.string "On this, the top floor, there are\n"
 	.string "two rooms.\p"
 	.string "First, the room on the left.\n"

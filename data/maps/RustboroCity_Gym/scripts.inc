@@ -214,7 +214,7 @@ RustboroCity_Gym_Text_ExplainRockTomb: @ 82138B1
 	.string "That TECHNICAL MACHINE, TM39,\n"
 	.string "contains Rock TOMB.\p"
 	.string "It not only inflicts damage by dropping\n"
-	.string "rocks, it also lowers SPEED.\p"
+	.string "rocks, it also lowers Speed.\p"
 	.string "If you use a TM, it instantly teaches\n"
 	.string "the move to a Pokémon.\p"
 	.string "Remember, a TM can be used only once,\n"

@@ -430,12 +430,12 @@ BattleFrontier_Lounge7_Text_ThunderWaveDesc:: @ 8265FAA
 BattleFrontier_Lounge7_Text_SwordsDanceDesc:: @ 8265FDD
 	.string "A fighting dance\n"
 	.string "that sharply\n"
-	.string "raises ATTACK.$"
+	.string "raises Attack.$"
 
 BattleFrontier_Lounge7_Text_DefenseCurlDesc:: @ 826600A
 	.string "Curls up to con-\n"
 	.string "ceal weak spots\n"
-	.string "and raise DEFENSE.$"
+	.string "and raise Defense.$"
 
 BattleFrontier_Lounge7_Text_SnoreDesc:: @ 826603E
 	.string "A loud attack\n"
@@ -455,7 +455,7 @@ BattleFrontier_Lounge7_Text_SwiftDesc:: @ 82660A6
 BattleFrontier_Lounge7_Text_IcyWindDesc:: @ 82660D0
 	.string "A chilling attack\n"
 	.string "that lowers the\n"
-	.string "foe's SPEED.$"
+	.string "foe's Speed.$"
 
 BattleFrontier_Lounge7_Text_EndureDesc:: @ 82660FF
 	.string "Endures any at-\n"

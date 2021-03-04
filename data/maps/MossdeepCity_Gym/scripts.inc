@@ -583,7 +583,7 @@ MossdeepCity_Gym_Text_ExplainCalmMind: @ 8221A40
 	.string "Tate: That TM04 contains…\n"
 	.string "Liza: CALM MIND!\p"
 	.string "Tate: It raises Sp. Atk and…\n"
-	.string "Liza: It raises SP. DEF!\p"
+	.string "Liza: It raises Sp. Def!\p"
 	.string "Tate: It's a move that's perfect…\n"
 	.string "Liza: For Psychic Pokémon!\p"
 	.string "… … … … … …$"

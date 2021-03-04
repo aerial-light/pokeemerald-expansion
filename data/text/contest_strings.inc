@@ -162,7 +162,7 @@ gText_Softboiled:: @ 827D48E
 	.string "SOFTBOILED$"
 
 gText_HornAttack:: @ 827D499
-	.string "HORN ATTACK$"
+	.string "HORN Attack$"
 
 gText_SwordsDance:: @ 827D4A5
 	.string "SWORDS DANCE$"

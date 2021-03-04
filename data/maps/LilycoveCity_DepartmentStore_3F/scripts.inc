@@ -60,8 +60,8 @@ LilycoveCity_DepartmentStore_3F_EventScript_Woman:: @ 821FCC8
 LilycoveCity_DepartmentStore_3F_Text_ItemsBestForTougheningPokemon: @ 821FCD1
 	.string "For quickly toughening up Pokémon,\n"
 	.string "items are the best.\p"
-	.string "Protein boosts ATTACK,\n"
-	.string "and Calcium raises SP. ATK.$"
+	.string "Protein boosts Attack,\n"
+	.string "and Calcium raises Sp. Atk.$"
 
 LilycoveCity_DepartmentStore_3F_Text_WantMoreEndurance: @ 821FD3B
 	.string "I want my Pokémon to have more\n"
