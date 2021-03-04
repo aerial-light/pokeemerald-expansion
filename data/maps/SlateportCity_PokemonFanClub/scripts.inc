@@ -342,7 +342,7 @@ SlateportCity_PokemonFanClub_Text_ExplainRedScarf: @ 820A827
 	.string "of that Pokémon!$"
 
 SlateportCity_PokemonFanClub_Text_ExplainBlueScarf: @ 820A880
-	.string "Let a Pokémon hold that BLUE SCARF.\p"
+	.string "Let a Pokémon hold that Blue SCARF.\p"
 	.string "Its beauty will be accentuated much\n"
 	.string "more than now!$"
 
@@ -352,7 +352,7 @@ SlateportCity_PokemonFanClub_Text_ExplainPinkScarf: @ 820A8D7
 	.string "the Pokémon some more!$"
 
 SlateportCity_PokemonFanClub_Text_ExplainGreenScarf: @ 820A933
-	.string "Let a Pokémon hold that GREEN SCARF.\p"
+	.string "Let a Pokémon hold that Green SCARF.\p"
 	.string "That will enhance the\n"
 	.string "smartness of Pokémon!$"
 

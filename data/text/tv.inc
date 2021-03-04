@@ -2335,7 +2335,7 @@ TVSecretBaseSecrets_Text_BrokeDoor:: @ 082895EB
 	.string "The visitor is laughing uproariously!$"
 
 TVSecretBaseSecrets_Text_UsedDoll:: @ 08289645
-	.string "The visitor is talking to a DOLL!\p"
+	.string "The visitor is talking to a Doll!\p"
 	.string "…It's a little creepy…$"
 
 TVSecretBaseSecrets_Text_UsedSlide:: @ 0828967E

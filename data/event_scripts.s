@@ -927,7 +927,7 @@ gText_UndergoingAdjustments:: @ 82730BC
 
 @ Unused
 gText_SorryTradeCenterInspections:: @ 82730E5
-	.string "I'm terribly sorry. The TRADE Center\n"
+	.string "I'm terribly sorry. The Trade Center\n"
 	.string "is undergoing inspections.$"
 
 @ Unused

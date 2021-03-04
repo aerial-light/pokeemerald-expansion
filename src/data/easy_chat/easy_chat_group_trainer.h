@@ -1,6 +1,6 @@
 const u8 gEasyChatWord_IChooseYou[] = _("I CHOOSE YOU");
 const u8 gEasyChatWord_Gotcha[] = _("GOTCHA");
-const u8 gEasyChatWord_Trade[] = _("TRADE");
+const u8 gEasyChatWord_Trade[] = _("Trade");
 const u8 gEasyChatWord_Sapphire[] = _("SAPPHIRE");
 const u8 gEasyChatWord_Evolve[] = _("EVOLVE");
 const u8 gEasyChatWord_Encyclopedia[] = _("ENCYCLOPEDIA");

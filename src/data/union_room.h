@@ -463,7 +463,7 @@ const u8 *const sCantTradeMonTexts[] = {
 };
 
 ALIGNED(4) const u8 sText_TradeOfferRejected[] = _("Your trade offer was rejected.\p");
-ALIGNED(4) const u8 sText_EggTrade[] = _("EGG TRADE");
+ALIGNED(4) const u8 sText_EggTrade[] = _("EGG Trade");
 ALIGNED(4) const u8 sText_ChooseJoinCancel[] = _("{DPAD_UPDOWN}CHOOSE  {A_BUTTON}JOIN  {B_BUTTON}Cancel");
 ALIGNED(4) const u8 sText_ChooseTrainer[] = _("Please choose a Trainer.");
 ALIGNED(4) const u8 sText_ChooseTrainerSingleBattle[] = _("Please choose a Trainer for\na SINGLE Battle.");

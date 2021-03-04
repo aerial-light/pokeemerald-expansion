@@ -161,7 +161,7 @@ LilycoveCity_DepartmentStore_5F_Text_PlaceFullOfCuteDolls: @ 82200C5
 
 LilycoveCity_DepartmentStore_5F_Text_GettingDollInsteadOfPokemon: @ 8220122
 	.string "I'm not big enough to raise Pokémon,\n"
-	.string "so I'm getting a cute DOLL instead.$"
+	.string "so I'm getting a cute Doll instead.$"
 
 LilycoveCity_DepartmentStore_5F_Text_SellManyCuteMatsHere: @ 822016B
 	.string "They sell many cute MATS here.\p"
