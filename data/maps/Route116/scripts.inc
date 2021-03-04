@@ -408,7 +408,7 @@ Route116_Text_ThankYouTokenOfAppreciation: @ 81F3317
 	.string "You're that person who not only helped\n"
 	.string "me in Petalburg Woods, but also got\l"
 	.string "back my stolen package and then even\l"
-	.string "graciously delivered it to SLATEPORT!\p"
+	.string "graciously delivered it to Slateport!\p"
 	.string "CAPT. STERN informed us that the\n"
 	.string "package arrived, too!\p"
 	.string "I thank you very, very much!\p"
@@ -424,7 +424,7 @@ Route116_Text_ThankYouTokenOfAppreciation: @ 81F3317
 
 Route116_Text_NewBallAvailableAtMart: @ 81F3521
 	.string "Our new Poké Ball will be available\n"
-	.string "at the Pokémon Mart in RUSTBORO.\p"
+	.string "at the Pokémon Mart in Rustboro.\p"
 	.string "Please do try it out!\n"
 	.string "Thank you and bye-bye!$"
 
@@ -464,12 +464,12 @@ Route116_Text_NotWhatImLookingFor: @ 81F375E
 	.string "They're not what I'm looking for…$"
 
 Route116_Text_RouteSignRustboro: @ 81F379D
-	.string "ROUTE 116\n"
+	.string "Route 116\n"
 	.string "{LEFT_ARROW} Rustboro City$"
 
 Route116_Text_RusturfTunnelSign: @ 81F37B7
 	.string "Rusturf Tunnel\n"
-	.string "“Linking RUSTBORO and Verdanturf\p"
+	.string "“Linking Rustboro and Verdanturf\p"
 	.string "“The tunnel project has been\n"
 	.string "canceled.”$"
 

@@ -45,9 +45,9 @@ MauvilleCity_House2_EventScript_DeclineTrade:: @ 8210CE4
 
 MauvilleCity_House2_Text_BuyHarborMailAtSlateport: @ 8210CEE
 	.string "If I had a BIKE, it'd be easy to cycle to\n"
-	.string "SLATEPORT for some shopping.\p"
+	.string "Slateport for some shopping.\p"
 	.string "I'd be able to buy HARBOR Mail at the\n"
-	.string "Pokémon Mart in SLATEPORT…$"
+	.string "Pokémon Mart in Slateport…$"
 
 MauvilleCity_House2_Text_TradeHarborMailForCoinCase: @ 8210D76
 	.string "Oh! You have HARBOR Mail?\n"

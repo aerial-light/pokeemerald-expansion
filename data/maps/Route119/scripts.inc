@@ -618,7 +618,7 @@ Route119_Text_CanYourMonMakeSecretBase: @ 81F52B9
 	.string "Secret Base?$"
 
 Route119_Text_RouteSignFortree: @ 81F530E
-	.string "ROUTE 119\n"
+	.string "Route 119\n"
 	.string "{RIGHT_ARROW} Fortree City$"
 
 Route119_Text_WeatherInstitute: @ 81F5327

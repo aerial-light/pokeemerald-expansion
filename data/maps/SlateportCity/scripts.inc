@@ -1015,7 +1015,7 @@ SlateportCity_Text_HowTownIsBornAndGrows: @ 81DD8A6
 SlateportCity_Text_SlateportWonderfulPlace: @ 81DD93D
 	.string "Shopping where you can breathe the\n"
 	.string "scent of the ocean…\p"
-	.string "SLATEPORT is such a wonderful place!$"
+	.string "Slateport is such a wonderful place!$"
 
 SlateportCity_Text_BuyBricksSoDecorWontGetDirty: @ 81DD999
 	.string "If you put DOLLS or CUSHIONS on\n"
@@ -1144,7 +1144,7 @@ SlateportCity_Text_CantChangeTradeMonName: @ 81DE16C
 
 SlateportCity_Text_BattleTentBuiltRecently: @ 81DE1EC
 	.string "Recently, a Battle TENT was built\n"
-	.string "in SLATEPORT.\p"
+	.string "in Slateport.\p"
 	.string "GYMS are fun, but the Battle TENT's\n"
 	.string "awesome in its own way.\p"
 	.string "You should go find tough Pokémon\n"
@@ -1211,7 +1211,7 @@ SlateportCity_Text_OhPlayerWeMadeDiscovery: @ 81DE64F
 	.string "We made a huge discovery on our last\n"
 	.string "seafloor exploration.\p"
 	.string "We found an underwater cavern on\n"
-	.string "ROUTE 128.\p"
+	.string "Route 128.\p"
 	.string "We think it's the habitat of a Pokémon\n"
 	.string "that's said to have been long extinct.$"
 
@@ -1242,7 +1242,7 @@ SlateportCity_Text_PleaseComeWithMe: @ 81DE8A0
 	.string "Please, come with me!$"
 
 SlateportCity_Text_BattleTentSign: @ 81DE8BC
-	.string "Battle TENT SLATEPORT SITE\n"
+	.string "Battle TENT Slateport SITE\n"
 	.string "“Find it! The ultimate Pokémon!”$"
 
 SlateportCity_Text_SternsShipyardWantedSign: @ 81DE8F8
@@ -1254,11 +1254,11 @@ SlateportCity_Text_SternsShipyardNearsCompletion: @ 81DE940
 	.string "STERN's SHIPYARD\p"
 	.string "“The ferry S.S. TIDAL nears\n"
 	.string "completion for serving the ports of\l"
-	.string "SLATEPORT and Lilycove.”$"
+	.string "Slateport and Lilycove.”$"
 
 SlateportCity_Text_SternsShipyardFerryComplete: @ 81DE9AA
 	.string "STERN's SHIPYARD\p"
-	.string "“Boarding of the SLATEPORT-Lilycove\n"
+	.string "“Boarding of the Slateport-Lilycove\n"
 	.string "ferry S.S. TIDAL is handled at the\l"
 	.string "HARBOR.”$"
 
@@ -1277,18 +1277,18 @@ SlateportCity_Text_CitySign: @ 81DEA6F
 	.string "cross paths.”$"
 
 SlateportCity_Text_MarketSign: @ 81DEAAF
-	.string "SLATEPORT MARKET\n"
+	.string "Slateport MARKET\n"
 	.string "“Unique items found nowhere else!”$"
 
 SlateportCity_Text_HarborFerryUnderConstruction: @ 81DEAE3
-	.string "SLATEPORT HARBOR\p"
+	.string "Slateport HARBOR\p"
 	.string "“The ferry S.S. TIDAL is under\n"
 	.string "construction in the SHIPYARD.\p"
 	.string "“Service is scheduled to begin\n"
 	.string "shortly.”$"
 
 SlateportCity_Text_HarborSign: @ 81DEB5A
-	.string "SLATEPORT HARBOR\p"
+	.string "Slateport HARBOR\p"
 	.string "“Enjoy a delightful cruise on\n"
 	.string "the ferry S.S. TIDAL.”$"
 

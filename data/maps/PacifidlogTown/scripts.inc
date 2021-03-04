@@ -29,7 +29,7 @@ PacifidlogTown_EventScript_TownSign:: @ 81EBADE
 
 PacifidlogTown_Text_FastRunningCurrent: @ 81EBAE7
 	.string "The sea between PACIFIDLOG and\n"
-	.string "SLATEPORT has a fast-running tide.\p"
+	.string "Slateport has a fast-running tide.\p"
 	.string "If you decide to SURF, you could end\n"
 	.string "up swept away somewhere else.$"
 

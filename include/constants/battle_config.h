@@ -38,6 +38,7 @@
 #endif
 
 // Items with peculiar battle effects.
+/* Do not use these since these are defined differently in items.h
 #ifndef ITEM_EXPANSION
     #define ITEM_CHOPLE_BERRY   177
     #define ITEM_KEBIA_BERRY    178
@@ -65,6 +66,7 @@
     #define ITEM_YACHE_BERRY    208
     #define ITEM_GRISEOUS_ORB   369
 #endif
+*/
 
 #ifndef GEN_3
     #define GEN_3 0

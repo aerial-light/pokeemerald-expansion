@@ -99,7 +99,7 @@ FallarborTown_PokemonCenter_1F_Text_LanetteGreeting: @ 8200C6B
 	.string "Honestly, I'm glad to meet you--it's\n"
 	.string "great you're using the Storage System.\p"
 	.string "If you could, please visit me at home.\n"
-	.string "My house is on ROUTE 114.$"
+	.string "My house is on Route 114.$"
 
 FallarborTown_PokemonCenter_1F_Text_FossilManiacEdgeOfTown: @ 8200E22
 	.string "I wonder what Pokémon looked like\n"

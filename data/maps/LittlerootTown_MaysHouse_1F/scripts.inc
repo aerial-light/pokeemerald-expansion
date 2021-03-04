@@ -359,7 +359,7 @@ RivalsHouse_1F_Text_TooBusyToNoticeVisit: @ 81F8D37
 	.string "to visit, {PLAYER}{KUN}.$"
 
 RivalsHouse_1F_Text_WentOutToRoute103: @ 81F8D93
-	.string "Oh, {RIVAL} went out to ROUTE 103\n"
+	.string "Oh, {RIVAL} went out to Route 103\n"
 	.string "just a little while ago.\p"
 	.string "Like father, like child.\n"
 	.string "{RIVAL} can't stay quietly at home.$"

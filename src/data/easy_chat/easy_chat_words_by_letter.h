@@ -1264,7 +1264,7 @@ const u16 gEasyChatWordsByLetter_P[] = {
     EC_MOVE(PSYCH_UP),
     -1, 2, // Doubled pokemon species name
     EC_WORD_PSYCHIC,
-    EC_MOVE(Psychic),
+    EC_MOVE(PSYCHIC),
     EC_MOVE(PSYCHO_BOOST),
     -1, 2, // Doubled pokemon species name
     EC_POKEMON(PSYDUCK),

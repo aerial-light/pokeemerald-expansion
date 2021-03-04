@@ -268,7 +268,7 @@ SlateportCity_OceanicMuseum_1F_Text_CanLearnForNefariousDeeds: @ 820B19C
 
 SlateportCity_OceanicMuseum_1F_Text_RustboroBungled: @ 820B1D4
 	.string "If our goons didn't bungle things\n"
-	.string "in RUSTBORO, we wouldn't be here!$"
+	.string "in Rustboro, we wouldn't be here!$"
 
 SlateportCity_OceanicMuseum_1F_Text_DidntHaveMoney: @ 820B218
 	.string "I didn't have ¥50, so it took a long\n"

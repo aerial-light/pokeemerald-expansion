@@ -598,7 +598,7 @@ BattleFrontier_ExchangeServiceCorner_Text_ConfirmFocusBand: @ 825FDB9
 	.string "Is that correct?$"
 
 BattleFrontier_ExchangeServiceCorner_Text_ConfirmScopeLens: @ 825FDE8
-	.string "You've chosen the SCOPE LENS.\n"
+	.string "You've chosen the Scope LENS.\n"
 	.string "Is that correct?$"
 
 BattleFrontier_ExchangeServiceCorner_Text_ConfirmLeftovers: @ 825FE17

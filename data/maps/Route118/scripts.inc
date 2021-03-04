@@ -304,10 +304,10 @@ Route118_Text_CanCrossRiversWithSurf: @ 81F4367
 	.string "much!$"
 
 Route118_Text_RouteSignMauville: @ 81F43F4
-	.string "ROUTE 118\n"
+	.string "Route 118\n"
 	.string "{LEFT_ARROW} Mauville City$"
 
 Route118_Text_RouteSign119: @ 81F440E
-	.string "ROUTE 118\n"
-	.string "{UP_ARROW} ROUTE 119$"
+	.string "Route 118\n"
+	.string "{UP_ARROW} Route 119$"
 

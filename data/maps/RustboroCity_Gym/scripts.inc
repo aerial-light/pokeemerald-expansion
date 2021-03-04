@@ -179,7 +179,7 @@ RustboroCity_Gym_Text_MarcPostBattle: @ 82135C0
 	.string "pick the Rock type at her young age.$"
 
 RustboroCity_Gym_Text_RoxanneIntro: @ 821362A
-	.string "Hello, I am Roxanne, the RUSTBORO\n"
+	.string "Hello, I am Roxanne, the Rustboro\n"
 	.string "Pokémon Gym Leader.\p"
 	.string "I became a Gym Leader so that I might\n"
 	.string "apply what I learned at the Pokémon\l"

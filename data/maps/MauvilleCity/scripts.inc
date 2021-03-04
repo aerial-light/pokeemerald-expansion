@@ -603,7 +603,7 @@ MauvilleCity_Text_WattsonWontBeChallenge: @ 81E0154
 	.string "Wattson: Don't you worry about it.\n"
 	.string "It won't be a challenge to you.\p"
 	.string "The entrance to New Mauville is just\n"
-	.string "a short SURF away from ROUTE 110.\p"
+	.string "a short SURF away from Route 110.\p"
 	.string "That's it, then, you have my trust!\n"
 	.string "Wahahahaha!$"
 

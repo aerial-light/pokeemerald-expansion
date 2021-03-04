@@ -282,7 +282,7 @@ SlateportCity_OceanicMuseum_2F_Text_ThankYouForTheParts: @ 820BD8D
 	.string "Yes? If you're looking for STERN,\n"
 	.string "that would be me.\p"
 	.string "Ah! Those must be the parts I ordered\n"
-	.string "from MR. Stone of DEVON.\p"
+	.string "from MR. Stone of Devon.\p"
 	.string "Thank you! That's great!\n"
 	.string "We can prepare for our expedition now.$"
 
@@ -359,7 +359,7 @@ SlateportCity_OceanicMuseum_2F_Text_SternThankYouForSavingUs: @ 820C2BE
 	.string "Anyway, that was a tense situation!\n"
 	.string "Thank you for saving us!\p"
 	.string "Oh, yes, I almost forgot that you\n"
-	.string "even brought the parts from DEVON!$"
+	.string "even brought the parts from Devon!$"
 
 SlateportCity_OceanicMuseum_2F_Text_SternIveGotToGo: @ 820C36C
 	.string "CAPT. STERN: Whoops!\n"

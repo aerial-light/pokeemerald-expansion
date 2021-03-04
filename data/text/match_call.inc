@@ -1102,7 +1102,7 @@ MatchCall_PersonalizedText39:: @ 82AE489
 	.string "I just put on some suntan oil.\p"
 	.string "So my PokéNav went whoopsy\n"
 	.string "out of my hand into the water!\p"
-	.string "But, boy, DEVON's PokéNav is built\n"
+	.string "But, boy, Devon's PokéNav is built\n"
 	.string "tough. It survived that dunking!\p"
 	.string "Anyways, I'm busy sunbathing,\n"
 	.string "so let's chat another time.$"
@@ -1366,13 +1366,13 @@ MatchCall_PersonalizedText62:: @ 82AF8F7
 MatchCall_PersonalizedText63:: @ 82AFA39
 	.string "Ahoy there!\n"
 	.string "It's me, {STR_VAR_1}!\l"
-	.string "I'm out on ROUTE 108 now!\l"
+	.string "I'm out on Route 108 now!\l"
 	.string "In other words, where I always am!\p"
 	.string "Today, a gorgeous SWIMMER \n"
 	.string "swam by me!\p"
 	.string "So I startled her with a shout!\p"
 	.string "And she gave me a nasty glare!\p"
-	.string "That's all from ROUTE 108!\n"
+	.string "That's all from Route 108!\n"
 	.string "Brought to you by {STR_VAR_1}!$"
 
 MatchCall_PersonalizedText64:: @ 82AFB26
@@ -2059,11 +2059,11 @@ MatchCall_Text_Roxanne2:: @ 82B250E
 MatchCall_Text_Roxanne3:: @ 82B25C1
 	.string "Roxanne: {PLAYER}!\n"
 	.string "My Gym is ready!\p"
-	.string "Please visit RUSTBORO whenever\n"
+	.string "Please visit Rustboro whenever\n"
 	.string "you can!$"
 
 MatchCall_Text_Roxanne4:: @ 82B2607
-	.string "Roxanne: At the RUSTBORO GYM,\n"
+	.string "Roxanne: At the Rustboro GYM,\n"
 	.string "the fact that we battled, {PLAYER},\l"
 	.string "is a matter of pride.$"
 
@@ -2347,14 +2347,14 @@ MatchCall_Text_May2:: @ 2B3B3F
 	.string "You know how little towns like\n"
 	.string "Petalburg and DEWFORD have GYMS?\p"
 	.string "For some reason, the big port of\n"
-	.string "SLATEPORT doesn't have a GYM.\p"
+	.string "Slateport doesn't have a GYM.\p"
 	.string "When they finally build a Gym there,\n"
 	.string "I should apply to be the Leader.$"
 
 MatchCall_Text_May3:: @ 2B3C13
 	.string "May: Hi, {PLAYER}{KUN}!\p"
 	.string "Do you remember a man named\n"
-	.string "the CUTTER in RUSTBORO?\l"
+	.string "the CUTTER in Rustboro?\l"
 	.string "He had a house there, remember?\p"
 	.string "Well, I found out his younger\n"
 	.string "brother lives in Mauville.\p"
@@ -2367,11 +2367,11 @@ MatchCall_Text_May4:: @ 2B3CF3
 	.string "May: {PLAYER}{KUN}?\p"
 	.string "Rusturf Tunnel…\n"
 	.string "They named it that because it\l"
-	.string "joins RUSTBORO and Verdanturf.$"
+	.string "joins Rustboro and Verdanturf.$"
 
 MatchCall_Text_May5:: @ 2B3D4B
 	.string "May: {PLAYER}{KUN}, how are you?\p"
-	.string "I'm out on ROUTE 111 now.\p"
+	.string "I'm out on Route 111 now.\p"
 	.string "I'm going to get a rest at an old\n"
 	.string "lady's house.\p"
 	.string "She lives just north of\n"
@@ -2387,7 +2387,7 @@ MatchCall_Text_May6:: @ 2B3DD1
 
 MatchCall_Text_May7:: @ 2B3E69
 	.string "May: {PLAYER}{KUN}, yahoo!\n"
-	.string "I'm on ROUTE 119 now.\p"
+	.string "I'm on Route 119 now.\p"
 	.string "There's a big river here, and\n"
 	.string "it often rains.\p"
 	.string "I got soaked!$"
@@ -2473,14 +2473,14 @@ MatchCall_Text_Brendan2:: @ 2B4486
 	.string "I don't get how little towns like\n"
 	.string "Petalburg and DEWFORD have GYMS.\p"
 	.string "I mean, not when the big port of\n"
-	.string "SLATEPORT doesn't have a GYM.\p"
+	.string "Slateport doesn't have a GYM.\p"
 	.string "When they finally build a Gym there,\n"
 	.string "I should apply to be the Leader.$"
 
 MatchCall_Text_Brendan3:: @ 2B4560
 	.string "Brendan: Yo, {PLAYER}!\p"
 	.string "Do you remember a guy named\n"
-	.string "the CUTTER in RUSTBORO?\l"
+	.string "the CUTTER in Rustboro?\l"
 	.string "He had a house there, right?\p"
 	.string "Well, it turns out his little\n"
 	.string "brother lives in Mauville.\p"
@@ -2492,13 +2492,13 @@ MatchCall_Text_Brendan3:: @ 2B4560
 MatchCall_Text_Brendan4:: @ 2B463F
 	.string "Brendan: This voice… {PLAYER}?\p"
 	.string "They gave Rusturf Tunnel its name\n"
-	.string "because it joins RUSTBORO and\l"
+	.string "because it joins Rustboro and\l"
 	.string "Verdanturf.\p"
 	.string "Did you know that?$"
 
 MatchCall_Text_Brendan5:: @ 2B46B7
 	.string "Brendan: {PLAYER}, what's up?\p"
-	.string "Hey, I'm out on ROUTE 111 now.\p"
+	.string "Hey, I'm out on Route 111 now.\p"
 	.string "I'm going to rest up at an old\n"
 	.string "lady's house north of the desert.\p"
 	.string "If you're in the area, you should\n"
@@ -2514,7 +2514,7 @@ MatchCall_Text_Brendan6:: @ 2B4761
 
 MatchCall_Text_Brendan7:: @ 2B47F4
 	.string "Brendan: Who's this? Oh, {PLAYER}?\n"
-	.string "Guess what? I'm on ROUTE 119 now.\p"
+	.string "Guess what? I'm on Route 119 now.\p"
 	.string "There's a big river here, and\n"
 	.string "it rains all the time.\p"
 	.string "I got soaked to the bone!$"
@@ -2652,7 +2652,7 @@ MatchCall_Text_Scott1:: @ 2B5184
 	.string "everywhere, too. Busy, busy!$"
 
 MatchCall_Text_Scott2:: @ 2B5275
-	.string "SCOTT: I'm on ROUTE 119 right now.\n"
+	.string "SCOTT: I'm on Route 119 right now.\n"
 	.string "It's teeming with Trainers!\p"
 	.string "It's also overgrown with tall grass\n"
 	.string "everywhere, it seems.\p"
@@ -2710,7 +2710,7 @@ MatchCall_Text_Scott7:: @ 2B56CA
 	.string "the PokéNav's service area…$"
 
 MatchCall_Text_Norman1:: @ 82B5719
-	.string "DAD: In RUSTBORO, there's a man\n"
+	.string "DAD: In Rustboro, there's a man\n"
 	.string "that goes by the odd name of\l"
 	.string "the CUTTER.\p"
 	.string "If you're in the area, you should\n"
@@ -2873,7 +2873,7 @@ MatchCall_Text_MrStone2:: @ 82B61E6
 	.string "I need you to deliver my letter\n"
 	.string "to Steven in DEWFORD.\p"
 	.string "After that, deliver our parcel to\n"
-	.string "CAPT. STERN in SLATEPORT.\p"
+	.string "CAPT. STERN in Slateport.\p"
 	.string "You remember, don't you?\p"
 	.string "Now, since I am a busy PRESIDENT,\n"
 	.string "I have to go! Bye-bye!$"
@@ -2882,13 +2882,13 @@ MatchCall_Text_MrStone3:: @ 82B6302
 	.string "MR. Stone: Oh! {PLAYER}{KUN}!\p"
 	.string "Ah, so you've met Steven!\n"
 	.string "I'd better reward you, then!\p"
-	.string "When you visit RUSTBORO again,\n"
+	.string "When you visit Rustboro again,\n"
 	.string "come see me at my office.\p"
 	.string "I'll be waiting for you!$"
 
 MatchCall_Text_MrStone4:: @ 82B63A0
 	.string "MR. Stone: Oh! {PLAYER}{KUN}!\p"
-	.string "Did you know that DEVON was\n"
+	.string "Did you know that Devon was\n"
 	.string "digging the Rusturf Tunnel?\p"
 	.string "But we shut down the operation to\n"
 	.string "protect the Pokémon in the area.\p"
@@ -2914,7 +2914,7 @@ MatchCall_Text_MrStone6:: @ 82B6526
 
 MatchCall_Text_MrStone7:: @ 82B65BB
 	.string "Hello!\n"
-	.string "This is DEVON CORPORATI…\l"
+	.string "This is Devon CORPORATI…\l"
 	.string "Oh, hello, {PLAYER}!\p"
 	.string "Our PRESIDENT was here a little\n"
 	.string "while ago, but he's gone out.\p"
@@ -2950,5 +2950,5 @@ MatchCall_Text_MrStone11:: @ 82B67ED
 	.string "Is this maybe {PLAYER}{KUN}?\p"
 	.string "Your voice is so full of confidence,\n"
 	.string "I didn't recognize you right off!\p"
-	.string "Hm! You must come visit us at DEVON\n"
+	.string "Hm! You must come visit us at Devon\n"
 	.string "sometime!$"

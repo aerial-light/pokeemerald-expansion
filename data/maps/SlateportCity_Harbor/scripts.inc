@@ -466,7 +466,7 @@ SlateportCity_Harbor_Text_SubTooSmallForMe: @ 820D194
 SlateportCity_Harbor_Text_SameThugsTriedToRobAtMuseum: @ 820D232
 	.string "CAPT. STERN: Those thugs…\p"
 	.string "They're the same lot who tried to rob\n"
-	.string "the DEVON GOODS at the MUSEUM.$"
+	.string "the Devon GOODS at the MUSEUM.$"
 
 SlateportCity_Harbor_Text_ArchieYouAgainHideoutInLilycove: @ 820D291
 	.string "ARCHIE: Oh?\n"

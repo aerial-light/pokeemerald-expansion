@@ -23,7 +23,7 @@ RustboroCity_Flat2_2F_EventScript_GavePremierBall:: @ 8216010
 	end
 
 RustboroCity_Flat2_2F_Text_DevonWasTinyInOldDays: @ 821601A
-	.string "Way back in the old days, DEVON was just\n"
+	.string "Way back in the old days, Devon was just\n"
 	.string "a teeny, tiny company.$"
 
 RustboroCity_Flat2_2F_Text_MyDaddyMadeThisYouCanHaveIt: @ 821605A
@@ -34,5 +34,5 @@ RustboroCity_Flat2_2F_Text_MyDaddyMadeThisYouCanHaveIt: @ 821605A
 RustboroCity_Flat2_2F_Text_GoingToWorkAtDevonToo: @ 82160BD
 	.string "My daddy's working at the CORPORATION.\p"
 	.string "When I grow up, I'm going to work for\n"
-	.string "DEVON, too.$"
+	.string "Devon, too.$"
 

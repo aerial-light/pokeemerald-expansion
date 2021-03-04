@@ -46,7 +46,7 @@ RustboroCity_CuttersHouse_Text_ExplainCut: @ 8215D33
 
 RustboroCity_CuttersHouse_Text_DadHelpedClearLandOfTrees: @ 8215E39
 	.string "When they were expanding the city of\n"
-	.string "RUSTBORO, my dad helped out.\p"
+	.string "Rustboro, my dad helped out.\p"
 	.string "He made his Pokémon use CUT to clear\n"
 	.string "the land of trees.$"
 

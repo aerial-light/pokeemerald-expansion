@@ -368,7 +368,7 @@ PlayersHouse_1F_Text_DontPushYourselfTooHard: @ 81F7DBE
 
 PlayersHouse_1F_Text_IsThatAPokenav: @ 81F7E0E
 	.string "MOM: What is that, honey? A PokéNav?\n"
-	.string "Someone from DEVON gave it to you?\p"
+	.string "Someone from Devon gave it to you?\p"
 	.string "Well, honey, how about registering\n"
 	.string "your mom?\p"
 	.string "… … …$"
@@ -415,7 +415,7 @@ PlayersHouse_1F_Text_TicketFromBrineyCameForYou: @ 81F800E
 PlayersHouse_1F_Text_PortsInSlateportLilycove: @ 81F80FE
 	.string "DAD: Hm, a TICKET for a ferry?\p"
 	.string "If I recall, there are ferry ports in\n"
-	.string "SLATEPORT and Lilycove.$"
+	.string "Slateport and Lilycove.$"
 
 PlayersHouse_1F_Text_BetterGetBackToGym: @ 81F815B
 	.string "I'd better get back to Petalburg GYM.\p"

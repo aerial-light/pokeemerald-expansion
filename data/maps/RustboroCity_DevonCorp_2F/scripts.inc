@@ -313,7 +313,7 @@ RustboroCity_DevonCorp_2F_Text_WeFinallyMadeNewBalls: @ 8211C99
 	.string "The TIMER BALL gets better at catching\n"
 	.string "Pokémon the longer a battle runs.\p"
 	.string "Both are proudly developed by\n"
-	.string "the DEVON CORPORATION.\p"
+	.string "the Devon CORPORATION.\p"
 	.string "Please give them a try!$"
 
 RustboroCity_DevonCorp_2F_Text_IMadePokenav: @ 8211D9F
@@ -353,7 +353,7 @@ RustboroCity_DevonCorp_2F_Text_WantToBringFossilBackToLife: @ 8211FA6
 
 RustboroCity_DevonCorp_2F_Text_OhIsThatSo: @ 8212046
 	.string "Oh, is that so?\p"
-	.string "DEVON's technological expertise\n"
+	.string "Devon's technological expertise\n"
 	.string "is outstanding, I tell you.$"
 
 RustboroCity_DevonCorp_2F_Text_TwoFossilsPickOne: @ 8212092
@@ -368,7 +368,7 @@ RustboroCity_DevonCorp_2F_Text_HandedFossilToResearcher: @ 8212153
 	.string "Excellent!\n"
 	.string "Let's do this right away.\p"
 	.string "{PLAYER} handed the {STR_VAR_1} to\n"
-	.string "the DEVON RESEARCHER.$"
+	.string "the Devon RESEARCHER.$"
 
 RustboroCity_DevonCorp_2F_Text_FossilRegeneratorTakesTime: @ 82121A2
 	.string "The FOSSIL REGENERATOR, which I made,\n"
@@ -387,7 +387,7 @@ RustboroCity_DevonCorp_2F_Text_FossilizedMonBroughtBackToLife: @ 8212251
 
 RustboroCity_DevonCorp_2F_Text_ReceivedMonFromResearcher: @ 82122CB
 	.string "{PLAYER} received {STR_VAR_2} from\n"
-	.string "the DEVON RESEARCHER.$"
+	.string "the Devon RESEARCHER.$"
 
 @ Unused
 RustboroCity_DevonCorp_2F_Text_TooManyPokemon: @ 82122F5

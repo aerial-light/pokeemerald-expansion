@@ -453,7 +453,7 @@ LilycoveCity_Text_MayWontBeBeaten: @ 81E3234
 LilycoveCity_Text_MayDefeat: @ 81E3275
 	.string "… … … … … … … …\p"
 	.string "I remember the battle I had with you,\n"
-	.string "{PLAYER}{KUN}, on ROUTE 103.\p"
+	.string "{PLAYER}{KUN}, on Route 103.\p"
 	.string "That battle helped you become this\n"
 	.string "strong, {PLAYER}{KUN}, didn't it?$"
 
@@ -752,7 +752,7 @@ LilycoveCity_Text_HeardTowerCalledSkyPillar: @ 81E48A5
 
 LilycoveCity_Text_SawTallTowerOnRoute131: @ 81E4902
 	.string "I saw this tall tower somewhere\n"
-	.string "around ROUTE 131.\p"
+	.string "around Route 131.\p"
 	.string "Could that possibly be…?$"
 
 LilycoveCity_Text_JustArrivedAndSawRarePokemon: @ 81E494D

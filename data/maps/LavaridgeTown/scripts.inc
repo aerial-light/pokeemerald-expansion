@@ -305,7 +305,7 @@ LavaridgeTown_Text_MayNiceBadgesTakeThis: @ 81EA7C0
 LavaridgeTown_Text_MayExplainGoGogglesChallengeDad: @ 81EA897
 	.string "May: With those GO-GOGGLES, you'll\n"
 	.string "have no trouble getting through the\l"
-	.string "desert near ROUTE 111.\p"
+	.string "desert near Route 111.\p"
 	.string "But, wow, {PLAYER}{KUN}…\n"
 	.string "Challenging GYMS…\p"
 	.string "You're trying hard because you don't\n"
@@ -325,7 +325,7 @@ LavaridgeTown_Text_BrendanNiceBadgesTakeThis: @ 81EA9A2
 LavaridgeTown_Text_BrendanExplainGoGogglesChallengeDad: @ 81EAA2E
 	.string "Brendan: Keep those with you if you're\n"
 	.string "planning on going into that desert near\l"
-	.string "ROUTE 111.\p"
+	.string "Route 111.\p"
 	.string "There should be some Pokémon that\n"
 	.string "are exclusively desert-dwellers.\l"
 	.string "You might look around for those.\p"
@@ -410,12 +410,12 @@ LavaridgeTown_Text_HotSpringsClaims: @ 81EB092
 	.string "money…$"
 
 LavaridgeTown_Text_TownSign: @ 81EB12B
-	.string "LAVARIDGE TOWN\p"
+	.string "LAVARIDGE Town\p"
 	.string "“Pokémon Center HOT SPRINGS\n"
 	.string "An excellent place for relaxing!”$"
 
 LavaridgeTown_Text_GymSign: @ 81EB178
-	.string "LAVARIDGE TOWN Pokémon GYM\n"
+	.string "LAVARIDGE Town Pokémon GYM\n"
 	.string "Leader: Flannery\l"
 	.string "“One with a fiery passion that burns!”$"
 

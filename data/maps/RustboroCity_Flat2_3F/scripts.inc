@@ -10,7 +10,7 @@ RustboroCity_Flat2_3F_EventScript_Woman:: @ 8216120
 	end
 
 RustboroCity_Flat2_3F_Text_PresidentCollectsRareStones: @ 8216129
-	.string "DEVON's PRESIDENT likes to collect\n"
+	.string "Devon's PRESIDENT likes to collect\n"
 	.string "rare stones.$"
 
 RustboroCity_Flat2_3F_Text_PresidentsSonAlsoCollectsRareStones: @ 8216159

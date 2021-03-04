@@ -991,7 +991,7 @@ Route110_TrickHousePuzzle5_Text_Mechadoll1Intro: @ 826D6CE
 Route110_TrickHousePuzzle5_Text_Mechadoll1Quiz1: @ 826D757
 	.string "MECHADOLL 1 QUIZ.\p"
 	.string "One of these Pokémon is not found\n"
-	.string "on ROUTE 110. Which one is it?$"
+	.string "on Route 110. Which one is it?$"
 
 Route110_TrickHousePuzzle5_Text_Mechadoll1Quiz2: @ 826D7AA
 	.string "MECHADOLL 1 QUIZ.\p"
@@ -1071,7 +1071,7 @@ Route110_TrickHousePuzzle5_Text_Mechadoll4Quiz1: @ 826DB94
 
 Route110_TrickHousePuzzle5_Text_Mechadoll4Quiz2: @ 826DBD7
 	.string "MECHADOLL 4 QUIZ.\p"
-	.string "In LAVARIDGE TOWN, were there more\n"
+	.string "In LAVARIDGE Town, were there more\n"
 	.string "elderly men or elderly women?$"
 
 Route110_TrickHousePuzzle5_Text_Mechadoll4Quiz3: @ 826DC2A
@@ -1087,7 +1087,7 @@ Route110_TrickHousePuzzle5_Text_Mechadoll5Intro: @ 826DC78
 
 Route110_TrickHousePuzzle5_Text_Mechadoll5Quiz1: @ 826DCCB
 	.string "MECHADOLL 5 QUIZ.\p"
-	.string "In SLATEPORT's Pokémon Fan Club,\n"
+	.string "In Slateport's Pokémon Fan Club,\n"
 	.string "how many Pokémon were there?$"
 
 Route110_TrickHousePuzzle5_Text_Mechadoll5Quiz2: @ 826DD1B

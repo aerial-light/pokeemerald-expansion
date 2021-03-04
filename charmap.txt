@@ -410,7 +410,7 @@ B_DEF_TEAM2 = FD 3B
 B_ACTIVE_NAME = FD 3C
 B_ACTIVE_NAME2 = FD 3D @ no Illusion check
 
-@ indicates the end of a town/city name (before " TOWN" or " CITY")
+@ indicates the end of a town/city name (before " Town" or " City")
 NAME_END = FC 00
 
 @ special 0xF7 character

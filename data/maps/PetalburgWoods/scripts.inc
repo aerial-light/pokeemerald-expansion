@@ -338,7 +338,7 @@ PetalburgWoods_Text_IWasGoingToAmbushYou: @ 822E3AA
 	.string "I got sick of waiting, so here I am!$"
 
 PetalburgWoods_Text_HandOverThosePapers: @ 822E428
-	.string "You! DEVON RESEARCHER!\p"
+	.string "You! Devon RESEARCHER!\p"
 	.string "Hand over those papers!$"
 
 PetalburgWoods_Text_YouHaveToHelpMe: @ 822E457
@@ -363,7 +363,7 @@ PetalburgWoods_Text_YouveGotSomeNerve: @ 822E563
 	.string "I wish I could say that, but I'm out of\n"
 	.string "Pokémon…\p"
 	.string "And, hey, we of Team Aqua are also\n"
-	.string "after something in RUSTBORO.\p"
+	.string "after something in Rustboro.\p"
 	.string "I'll let you go today!$"
 
 PetalburgWoods_Text_ThatWasAwfullyClose: @ 822E63D
@@ -377,7 +377,7 @@ PetalburgWoods_Text_ThatWasAwfullyClose: @ 822E63D
 PetalburgWoods_Text_TeamAquaAfterSomethingInRustboro: @ 822E6C7
 	.string "Didn't that Team Aqua thug say\n"
 	.string "they were after something in\l"
-	.string "RUSTBORO, too?$"
+	.string "Rustboro, too?$"
 
 PetalburgWoods_Text_ICantBeWastingTime: @ 822E712
 	.string "Uh-oh! It's a crisis!\n"
@@ -448,7 +448,7 @@ PetalburgWoods_Text_HiddenItemsExplanation: @ 822EA8B
 
 PetalburgWoods_Text_TryUsingThisItem: @ 822EAFE
 	.string "Oh, neat!\n"
-	.string "That's the Badge from RUSTBORO GYM!\p"
+	.string "That's the Badge from Rustboro GYM!\p"
 	.string "You must be a Trainer.\n"
 	.string "You should try using this item.$"
 

@@ -201,14 +201,14 @@ RustboroCity_DevonCorp_3F_EventScript_RareRocksDisplay:: @ 8212600
 
 RustboroCity_DevonCorp_3F_Text_MrStoneIHaveFavor: @ 8212609
 	.string "I'm MR. Stone, the PRESIDENT of\n"
-	.string "the DEVON CORPORATION.\p"
+	.string "the Devon CORPORATION.\p"
 	.string "I'd just got word about you!\p"
 	.string "You saved our staff not just once,\n"
 	.string "but twice!\p"
 	.string "I have a favor to ask of an amazing\n"
 	.string "person like you.\p"
 	.string "I understand that you're delivering\n"
-	.string "a package to SLATEPORT's SHIPYARD.\p"
+	.string "a package to Slateport's SHIPYARD.\p"
 	.string "Well, on the way, could you stop off in\n"
 	.string "Dewford Town?\p"
 	.string "I was hoping that you'd deliver a\n"
@@ -232,7 +232,7 @@ RustboroCity_DevonCorp_3F_Text_MrStoneExplainPokenavRestUp: @ 8212837
 	.string "Trainer on an adventure.\p"
 	.string "It has a map of the HOENN region.\p"
 	.string "You can check the locations of\n"
-	.string "DEWFORD and SLATEPORT easily!\p"
+	.string "DEWFORD and Slateport easily!\p"
 	.string "By the way, I've heard that sinister\n"
 	.string "criminals--MAGMA and AQUA, I believe--\l"
 	.string "have been making trouble far and wide.\p"
@@ -270,7 +270,7 @@ RustboroCity_DevonCorp_3F_Text_NotFamiliarWithTrends: @ 8212B78
 	.string "Trainers in the Pokémon League?$"
 
 RustboroCity_DevonCorp_3F_Text_ThisIs3rdFloorWaitHere: @ 8212C37
-	.string "This is the DEVON CORPORATION's\n"
+	.string "This is the Devon CORPORATION's\n"
 	.string "third floor.\p"
 	.string "Our PRESIDENT's OFFICE is on\n"
 	.string "this floor.\p"
@@ -279,7 +279,7 @@ RustboroCity_DevonCorp_3F_Text_ThisIs3rdFloorWaitHere: @ 8212C37
 	.string "Um… By the way, that parcel\n"
 	.string "you got back for us…\p"
 	.string "Could I get you to deliver that to\n"
-	.string "the SHIPYARD in SLATEPORT?\p"
+	.string "the SHIPYARD in Slateport?\p"
 	.string "It would be awful if those robbers\n"
 	.string "tried to take it again.\p"
 	.string "Uh… Hehehe, so, uh, could I count\n"
@@ -296,11 +296,11 @@ RustboroCity_DevonCorp_3F_Text_PleaseGoAhead: @ 8212E2F
 	.string "Please, go ahead.$"
 
 RustboroCity_DevonCorp_3F_Text_VisitCaptSternShipyard: @ 8212E41
-	.string "If you visit the SHIPYARD in SLATEPORT,\n"
+	.string "If you visit the SHIPYARD in Slateport,\n"
 	.string "you should go see CAPT. STERN.$"
 
 RustboroCity_DevonCorp_3F_Text_RepeatAndTimerHugelyPopular: @ 8212E88
-	.string "DEVON's new products, the REPEAT BALL\n"
+	.string "Devon's new products, the REPEAT BALL\n"
 	.string "and TIMER BALL, have become hugely\l"
 	.string "popular among Trainers.$"
 

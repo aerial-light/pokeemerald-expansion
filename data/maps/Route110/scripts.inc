@@ -777,7 +777,7 @@ Route110_Text_WeCantTalkAboutAquaActivities: @ 81EFB5D
 	.string "We can't talk about them yet.$"
 
 Route110_Text_KickUpARuckus: @ 81EFB93
-	.string "I want to get going to SLATEPORT and\n"
+	.string "I want to get going to Slateport and\n"
 	.string "kick up a ruckus!$"
 
 Route110_Text_MyFirstJobInAqua: @ 81EFBCA
@@ -926,7 +926,7 @@ Route110_Text_ChallengeReactionWorst: @ 81F05CE
 Route110_Text_RatedForNumberOfCollisions: @ 81F0661
 	.string "This is CYCLING ROAD.\p"
 	.string "If you were to ride from Mauville to\n"
-	.string "SLATEPORT on a MACH BIKE, you would\l"
+	.string "Slateport on a MACH BIKE, you would\l"
 	.string "be rated for the number of collisions\l"
 	.string "and your total time.$"
 
@@ -943,7 +943,7 @@ Route110_Text_AcroBikesDoNotQualify: @ 81F0755
 	.string "They are easy to turn, so it's not fair.$"
 
 Route110_Text_SlateportCitySign: @ 81F0812
-	.string "ROUTE 110\n"
+	.string "Route 110\n"
 	.string "{DOWN_ARROW} Slateport City$"
 
 Route110_Text_CyclingRoadSign: @ 81F082D
@@ -957,14 +957,14 @@ Route110_Text_AquaWasHere: @ 81F0842
 	.string "says now.$"
 
 Route110_Text_Route103Sign: @ 81F08CD
-	.string "ROUTE 110\n"
-	.string "{LEFT_ARROW} ROUTE 103$"
+	.string "Route 110\n"
+	.string "{LEFT_ARROW} Route 103$"
 
 Route110_Text_SeasideParkingSign: @ 81F08E3
 	.string "SEASIDE PARKING$"
 
 Route110_Text_MauvilleCitySign: @ 81F08F3
-	.string "ROUTE 110\n"
+	.string "Route 110\n"
 	.string "{UP_ARROW} Mauville City$"
 
 Route110_Text_TrainerTipsPrlzSleep: @ 81F090D
