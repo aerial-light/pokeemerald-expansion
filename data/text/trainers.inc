@@ -3148,7 +3148,7 @@ Route121_Text_VanessaDefeat: @ 829F11F
 Route121_Text_VanessaPostBattle: @ 829F138
 	.string "I'm going to a Contest in Lilycove.\p"
 	.string "My Pokémon should have no problem\n"
-	.string "sweeping the MASTER CLASS.$"
+	.string "sweeping the Master Class.$"
 
 Route121_Text_WalterIntro: @ 829F199
 	.string "With my Pokémon, I have traveled\n"
@@ -3370,7 +3370,7 @@ Route123_Text_VioletDefeat: @ 829FD53
 	.string "I smell the bitter scent of misery…$"
 
 Route123_Text_VioletPostBattle: @ 829FD7B
-	.string "The Berry MASTER's garden is filled\n"
+	.string "The Berry Master's garden is filled\n"
 	.string "with uplifting fragrances.$"
 
 Route123_Text_CameronIntro: @ 829FDBA

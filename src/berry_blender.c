@@ -259,12 +259,12 @@ static const u8 sUnusedText_LinkPartnerNotFound[] = _("Link partner(s) not found
 static const u8 sText_BerryBlenderStart[] = _("Starting up the Berry BLENDER.\pPlease select a Berry from your Bag\nto put in the Berry BLENDER.\p");
 static const u8 sText_NewParagraph[] = _("\p");
 static const u8 sText_WasMade[] = _(" was made!");
-static const u8 sText_Mister[] = _("MISTER");
-static const u8 sText_Laddie[] = _("LADDIE");
-static const u8 sText_Lassie[] = _("LASSIE");
-static const u8 sText_Master[] = _("MASTER");
-static const u8 sText_Dude[] = _("DUDE");
-static const u8 sText_Miss[] = _("MISS");
+static const u8 sText_Mister[] = _("Mister");
+static const u8 sText_Laddie[] = _("Laddie");
+static const u8 sText_Lassie[] = _("Lassie");
+static const u8 sText_Master[] = _("Master");
+static const u8 sText_Dude[] = _("Dude");
+static const u8 sText_Miss[] = _("Miss");
 
 static const u8* const sBlenderOpponentsNames[] =
 {
