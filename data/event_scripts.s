@@ -851,7 +851,7 @@ gText_MomOrDadMightLikeThisProgram:: @ 8272BCF
 	.string "Better get going!$"
 
 gText_WhichFloorWouldYouLike:: @ 8272C1D
-	.string "Welcome to LILYCOVE DEPARTMENT STORE.\p"
+	.string "Welcome to Lilycove Department STORE.\p"
 	.string "Which floor would you like?$"
 
 gText_SandstormIsVicious:: @ 8272C5F
@@ -932,7 +932,7 @@ gText_SorryTradeCenterInspections:: @ 82730E5
 
 @ Unused
 gText_SorryRecordCornerPreparation:: @ 8273125
-	.string "I'm terribly sorry. The RECORD CORNER\n"
+	.string "I'm terribly sorry. The RECORD Corner\n"
 	.string "is under preparation.$"
 
 gText_PlayerHandedOverTheItem:: @ 8273161

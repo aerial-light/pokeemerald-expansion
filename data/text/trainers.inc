@@ -1498,7 +1498,7 @@ Route111_Text_HaydenPostBattle: @ 82996C5
 	.string "Maybe I can grill some Berries…$"
 
 Route111_Text_BiancaIntro: @ 82996FE
-	.string "Did you come from MAUVILLE?\n"
+	.string "Did you come from Mauville?\n"
 	.string "Then you should be full of energy!$"
 
 Route111_Text_BiancaDefeat: @ 829973D
@@ -3146,7 +3146,7 @@ Route121_Text_VanessaDefeat: @ 829F11F
 	.string "This isn't what I meant!$"
 
 Route121_Text_VanessaPostBattle: @ 829F138
-	.string "I'm going to a Contest in LILYCOVE.\p"
+	.string "I'm going to a Contest in Lilycove.\p"
 	.string "My Pokémon should have no problem\n"
 	.string "sweeping the MASTER CLASS.$"
 
@@ -3298,7 +3298,7 @@ Route121_Text_CaleDefeat: @ 829F97B
 
 Route121_Text_CalePostBattle: @ 829F9AE
 	.string "I bought too much stuff at\n"
-	.string "the LILYCOVE DEPT. STORE.\p"
+	.string "the Lilycove DEPT. STORE.\p"
 	.string "It's up the road from here.\n"
 	.string "I wish I had a Bag like yours.$"
 
@@ -4644,7 +4644,7 @@ Route133_Text_BeckDefeat: @ 82A439C
 	.string "You're stunningly cool!$"
 
 Route133_Text_BeckPostBattle: @ 82A43B9
-	.string "I'd like to go back to FORTREE,\n"
+	.string "I'd like to go back to Fortree,\n"
 	.string "but I've grown to like this place, too.$"
 
 Route133_Text_MollieIntro: @ 82A4401

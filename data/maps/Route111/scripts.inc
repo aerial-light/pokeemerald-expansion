@@ -737,11 +737,11 @@ Route111_Text_RootFossilDisappeared: @ 81F1C9F
 
 Route111_Text_MauvilleUncleToldMeToTakeRockSmash: @ 81F1CCA
 	.string "Oh, no!\p"
-	.string "My uncle in MAUVILLE told me to take\n"
+	.string "My uncle in Mauville told me to take\n"
 	.string "Rock Smash with me if I was going to\l"
 	.string "ROUTE 111!\p"
 	.string "My uncle? He lives across from\n"
-	.string "the bike shop in MAUVILLE.$"
+	.string "the bike shop in Mauville.$"
 
 Route111_Text_TrainerHillSign: @ 81F1D61
 	.string "{RIGHT_ARROW} Trainer Hill ENTRANCE\p"

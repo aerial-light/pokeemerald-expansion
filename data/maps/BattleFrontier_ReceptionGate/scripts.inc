@@ -410,7 +410,7 @@ BattleFrontier_ReceptionGate_Text_RankingHallInfo: @ 8266D1C
 	.string "the Battle Frontier.$"
 
 BattleFrontier_ReceptionGate_Text_ExchangeCornerInfo: @ 8266DCB
-	.string "The EXCHANGE SERVICE CORNER is near\n"
+	.string "The EXCHANGE SERVICE Corner is near\n"
 	.string "the Battle Tower.\p"
 	.string "The Battle Points you have earned in\n"
 	.string "the Battle Frontier may be exchanged\l"
@@ -506,5 +506,5 @@ BattleFrontier_ReceptionGate_Text_BattlePointsInfo: @ 826761C
 	.string "at the Battle Frontier.\p"
 	.string "You may trade in your Battle Points\n"
 	.string "for prizes at the EXCHANGE SERVICE\l"
-	.string "CORNER.$"
+	.string "Corner.$"
 

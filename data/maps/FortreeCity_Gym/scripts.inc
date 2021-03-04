@@ -203,7 +203,7 @@ FortreeCity_Gym_Text_AshleyDefeat: @ 8216B51
 
 FortreeCity_Gym_Text_AshleyPostBattle: @ 8216B5F
 	.string "Thanks to Winona, the people of\n"
-	.string "FORTREE can live without fear.$"
+	.string "Fortree can live without fear.$"
 
 FortreeCity_Gym_Text_HumbertoIntro: @ 8216B9E
 	.string "When Winona takes to battle, her face\n"
@@ -235,7 +235,7 @@ FortreeCity_Gym_Text_DariusPostBattle: @ 8216D0F
 
 FortreeCity_Gym_Text_WinonaIntro: @ 8216D75
 	.string "I am Winona. I am the Leader of\n"
-	.string "the FORTREE Pokémon GYM.\p"
+	.string "the Fortree Pokémon GYM.\p"
 	.string "I have become one with BIRD Pokémon\n"
 	.string "and have soared the skies…\p"
 	.string "However grueling the battle, we have\n"

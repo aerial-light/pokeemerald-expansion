@@ -1082,7 +1082,7 @@ BattleFrontier_BattleTowerLobby_Text_CanLeaveUntilLossOrSevenWins: @ 823FB26
 @ Unused
 BattleFrontier_BattleTowerLobby_Text_DoubleBattleRoomConstruction: @ 823FBCE
 	.string "Welcome to the Battle Tower\n"
-	.string "DOUBLE Battle CORNER!\p"
+	.string "DOUBLE Battle Corner!\p"
 	.string "Unfortunately, the Battle ROOMS\n"
 	.string "are still under construction.\p"
 	.string "Please come back when the work\n"
@@ -1091,7 +1091,7 @@ BattleFrontier_BattleTowerLobby_Text_DoubleBattleRoomConstruction: @ 823FBCE
 @ Unused
 BattleFrontier_BattleTowerLobby_Text_MultiBattleRoomConstruction: @ 823FC6B
 	.string "Welcome to the Battle Tower\n"
-	.string "MULTI Battle CORNER!\p"
+	.string "MULTI Battle Corner!\p"
 	.string "Unfortunately, the Battle ROOMS\n"
 	.string "are still under construction.\p"
 	.string "Please come back when the work\n"

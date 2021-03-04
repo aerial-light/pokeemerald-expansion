@@ -64,8 +64,8 @@ Roulette_Text_BoardWillBeCleared:: @ 82A5C21
 
 @ Unused
 Roulette_Text_YouDontHaveACoinCase:: @ 82A5C45
-	.string "You don't have a COIN CASE.$"
+	.string "You don't have a Coin Case.$"
 
 Roulette_Text_CoinCaseIsFull:: @ 82A5C61
-	.string "Your COIN CASE is full!\n"
+	.string "Your Coin Case is full!\n"
 	.string "Coins can be exchanged for prizes.$"

@@ -17,7 +17,7 @@ struct LandmarkList
 
 static const u8 LandmarkName_FlowerShop[] = _("FLOWER SHOP");
 static const u8 LandmarkName_PetalburgWoods[] = _("Petalburg Woods");
-static const u8 LandmarkName_MrBrineysCottage[] = _("MR. BRINEY's COTTAGE");
+static const u8 LandmarkName_MrBrineysCottage[] = _("Mr. Briney's COTTAGE");
 static const u8 LandmarkName_AbandonedShip[] = _("Abandoned Ship");
 static const u8 LandmarkName_SeashoreHouse[] = _("SEASHORE HOUSE");
 static const u8 LandmarkName_SlateportBeach[] = _("SLATEPORT BEACH");

@@ -789,7 +789,7 @@ Route110_Text_AquaActionsBringSmiles: @ 81EFC0D
 	.string "smiles to people's faces!$"
 
 Route110_Text_MayLetsBattle: @ 81EFC48
-	.string ": Hi, {PLAYER}{KUN}, long time no see!\p"
+	.string "May: Hi, {PLAYER}{KUN}, long time no see!\p"
 	.string "While I was searching for other\n"
 	.string "Pokémon, my Pokémon grew stronger.\p"
 	.string "So…\n"
@@ -800,13 +800,13 @@ Route110_Text_MayDefeated: @ 81EFCCB
 	.string "You're better than I expected!$"
 
 Route110_Text_MayTakeThis: @ 81EFCF1
-	.string ": {PLAYER}{KUN}, you've been busy\n"
+	.string "May: {PLAYER}{KUN}, you've been busy\n"
 	.string "training, too, haven't you?\p"
 	.string "I think you deserve a reward!\n"
 	.string "This is from me!$"
 
 Route110_Text_MayExplainItemfinder: @ 81EFD58
-	.string ": That's an ITEMFINDER.\p"
+	.string "May: That's an ITEMFINDER.\p"
 	.string "Try it out. If there is an item that's\n"
 	.string "not visible, it emits a sound.\p"
 	.string "Okay, {PLAYER}{KUN}, let's meet again!\p"
@@ -815,7 +815,7 @@ Route110_Text_MayExplainItemfinder: @ 81EFD58
 	.string "harder for the next time.$"
 
 Route110_Text_BrendanLetsBattle: @ 81EFE3F
-	.string ": Hey, {PLAYER}.\n"
+	.string "Brendan: Hey, {PLAYER}.\n"
 	.string "So this is where you were.\l"
 	.string "How's it going?\p"
 	.string "Have you been raising your Pokémon?\n"
@@ -826,13 +826,13 @@ Route110_Text_BrendanDefeated: @ 81EFEB4
 	.string "You're pretty good.$"
 
 Route110_Text_BrendanTakeThis: @ 81EFECD
-	.string ": {PLAYER}, you've trained\n"
+	.string "Brendan: {PLAYER}, you've trained\n"
 	.string "without me noticing…\p"
 	.string "Good enough!\n"
 	.string "Here, take this.$"
 
 Route110_Text_BrendanExplainItemfinder: @ 81EFF1C
-	.string ": That's an ITEMFINDER.\p"
+	.string "Brendan: That's an ITEMFINDER.\p"
 	.string "Use it to root around for items that\n"
 	.string "aren't visible.\p"
 	.string "If it senses something, it emits\n"
@@ -883,7 +883,7 @@ Route110_Text_BikeTechniques: @ 81F030E
 
 Route110_Text_WhichShouldIChoose: @ 81F0390
 	.string "Which should I choose?\p"
-	.string "Make a beeline for MAUVILLE on\n"
+	.string "Make a beeline for Mauville on\n"
 	.string "CYCLING ROAD, or take the low road\l"
 	.string "and look for Pokémon?$"
 
@@ -925,7 +925,7 @@ Route110_Text_ChallengeReactionWorst: @ 81F05CE
 
 Route110_Text_RatedForNumberOfCollisions: @ 81F0661
 	.string "This is CYCLING ROAD.\p"
-	.string "If you were to ride from MAUVILLE to\n"
+	.string "If you were to ride from Mauville to\n"
 	.string "SLATEPORT on a MACH BIKE, you would\l"
 	.string "be rated for the number of collisions\l"
 	.string "and your total time.$"

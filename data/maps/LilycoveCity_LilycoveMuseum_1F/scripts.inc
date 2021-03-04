@@ -166,7 +166,7 @@ LilycoveCity_LilycoveMuseum_1F_EventScript_FatMan:: @ 8218E42
 	end
 
 LilycoveCity_LilycoveMuseum_1F_Text_WelcomeToLilycoveMuseum: @ 8218E4B
-	.string "Welcome to LILYCOVE MUSEUM.\p"
+	.string "Welcome to Lilycove MUSEUM.\p"
 	.string "Please take the time to enjoy our\n"
 	.string "collection of fantastic artwork\l"
 	.string "featuring Pokémon.$"
@@ -233,7 +233,7 @@ LilycoveCity_LilycoveMuseum_Text_BirdPokemonSculptureReplica: @ 8219260
 	.string "It depicts an ancient BIRD Pokémon.$"
 
 LilycoveCity_LilycoveMuseum_1F_Text_BigPokeBallCarvedFromStone: @ 82192AA
-	.string "It's a big POKé BALL carved from\n"
+	.string "It's a big Poké Ball carved from\n"
 	.string "a black stone.\p"
 	.string "It was apparently used in festivals\n"
 	.string "in the olden days.$"

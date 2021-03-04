@@ -152,10 +152,10 @@ LilycoveCity_DepartmentStore_1F_EventScript_FloorNamesSign:: @ 821F85D
 	end
 
 LilycoveCity_DepartmentStore_1F_Text_WelcomeToDeptStore: @ 821F866
-	.string "Welcome to LILYCOVE DEPARTMENT STORE.$"
+	.string "Welcome to Lilycove Department STORE.$"
 
 LilycoveCity_DepartmentStore_1F_Text_IBuyAllSortsOfThings: @ 821F88C
-	.string "Whenever I come to the DEPARTMENT\n"
+	.string "Whenever I come to the Department\n"
 	.string "STORE, I always end up buying all sorts\l"
 	.string "of things because it's so fun.$"
 
@@ -168,16 +168,16 @@ LilycoveCity_DepartmentStore_1F_Text_BuyingSomethingForAzumarill: @ 821F92B
 	.string "as a reward for winning a Contest.$"
 
 LilycoveCity_DepartmentStore_1F_Text_Azumarill: @ 821F974
-	.string "AZUMARILL: Maririroo!$"
+	.string "Azumarill: Maririroo!$"
 
 LilycoveCity_DepartmentStore_1F_Text_FloorNamesSign: @ 821F98A
-	.string "1F: SERVICE COUNTER\n"
-	.string "    LOTTERY CORNER\p"
-	.string "2F: Trainer's ZONE\p"
-	.string "3F: Battle COLLECTION\p"
-	.string "4F: TM CORNER\p"
-	.string "5F: POKé DOLL FLOOR\p"
-	.string "ROOFTOP: ROOFTOP PLAZA$"
+	.string "1F: Service Counter\n"
+	.string "    Lottery Corner\p"
+	.string "2F: Trainer's Zone\p"
+	.string "3F: Battle Collection\p"
+	.string "4F: TM Corner\p"
+	.string "5F: Pokeé Doll Floor\p"
+	.string "Rooftop: Rooftop Plaza$"
 
 @ Unused
 LilycoveCity_DepartmentStore_1F_Text_WirelessCommIsFun: @ 821FA13

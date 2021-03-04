@@ -424,7 +424,7 @@ LilycoveCity_EventScript_DontKnowAboutBerryBlender:: @ 81E3058
 	return
 
 LilycoveCity_Text_MayShoppingLetsBattle: @ 81E3061
-	.string ": Oh, hey?\n"
+	.string "May: Oh, hey?\n"
 	.string "{PLAYER}{KUN}, are you shopping, too?\p"
 	.string "I bought a whole bunch of DOLLS and\n"
 	.string "POSTERS.\p"
@@ -437,17 +437,17 @@ LilycoveCity_Text_MayShoppingLetsBattle: @ 81E3061
 	.string "me your Pokémon, {PLAYER}{KUN}.$"
 
 LilycoveCity_Text_MayNotRaisingPokemon: @ 81E318D
-	.string ": Oh, why? {PLAYER}{KUN}, haven't you\n"
+	.string "May: Oh, why? {PLAYER}{KUN}, haven't you\n"
 	.string "been raising your Pokémon?\p"
 	.string "That's not a very good showing as a\n"
 	.string "TRAINER…$"
 
 LilycoveCity_Text_MayBattleMe: @ 81E31F5
-	.string ": Come on, battle with me, so I can\n"
+	.string "May: Come on, battle with me, so I can\n"
 	.string "check out your Pokémon!$"
 
 LilycoveCity_Text_MayWontBeBeaten: @ 81E3234
-	.string ": The Pokémon I raised won't be\n"
+	.string "May: The Pokémon I raised won't be\n"
 	.string "beaten by your Pokémon, {PLAYER}{KUN}!$"
 
 LilycoveCity_Text_MayDefeat: @ 81E3275
@@ -458,7 +458,7 @@ LilycoveCity_Text_MayDefeat: @ 81E3275
 	.string "strong, {PLAYER}{KUN}, didn't it?$"
 
 LilycoveCity_Text_MayGoingBackToLittleroot: @ 81E32FB
-	.string ": I'm thinking of going back to\n"
+	.string "May: I'm thinking of going back to\n"
 	.string "LITTLEROOT soon.\p"
 	.string "I've caught a decent group of Pokémon,\n"
 	.string "and my Pokédex is coming along, so\l"
@@ -494,7 +494,7 @@ LilycoveCity_Text_MayYouGoingToBattleFrontier: @ 81E353A
 	.string "See you!$"
 
 LilycoveCity_Text_BrendanShoppingLetsBattle: @ 81E3608
-	.string ": Oh, hey, it's {PLAYER}.\p"
+	.string "Brendan: Oh, hey, it's {PLAYER}.\p"
 	.string "I'm running an errand for my dad.\n"
 	.string "No, I'm not buying any DOLLS.\p"
 	.string "Anyways, it's been a while.\p"
@@ -502,15 +502,15 @@ LilycoveCity_Text_BrendanShoppingLetsBattle: @ 81E3608
 	.string "raising Pokémon better?$"
 
 LilycoveCity_Text_BrendanNoConfidence: @ 81E36BF
-	.string ": Oh, what's the matter?\n"
+	.string "Brendan: Oh, what's the matter?\n"
 	.string "Don't have the confidence?$"
 
 LilycoveCity_Text_BrendanBattleMe: @ 81E36FA
-	.string ": Want to battle to see who's\n"
+	.string "Brendan: Want to battle to see who's\n"
 	.string "been raising Pokémon better?$"
 
 LilycoveCity_Text_BrendanWontBeBeaten: @ 81E373C
-	.string ": Aww, but you know I'm not\n"
+	.string "Brendan: Aww, but you know I'm not\n"
 	.string "going to lose to no {PLAYER}.$"
 
 LilycoveCity_Text_BrendanDefeat: @ 81E3777
@@ -520,7 +520,7 @@ LilycoveCity_Text_BrendanDefeat: @ 81E3777
 	.string "on you as a TRAINER…$"
 
 LilycoveCity_Text_BrendanGoingBackToLittleroot: @ 81E37D7
-	.string ": I…\n"
+	.string "Brendan: I…\n"
 	.string "I plan on going home to LITTLEROOT.\p"
 	.string "You know I'm helping out my dad on his\n"
 	.string "Pokédex. It's coming together pretty\l"
@@ -689,15 +689,15 @@ LilycoveCity_Text_ContestHallSign: @ 81E44C3
 LilycoveCity_Text_MotelSign: @ 81E44FC
 	.string "COVE LILY MOTEL\p"
 	.string "“Remember us as COVE LILY of\n"
-	.string "LILYCOVE.”$"
+	.string "Lilycove.”$"
 
 LilycoveCity_Text_MuseumSign: @ 81E4534
-	.string "LILYCOVE MUSEUM\p"
+	.string "Lilycove MUSEUM\p"
 	.string "“Pokémon Masterpiece Collection\n"
 	.string "on exhibit!”$"
 
 LilycoveCity_Text_MuseumSignPlayersExhibit: @ 81E4571
-	.string "LILYCOVE MUSEUM\p"
+	.string "Lilycove MUSEUM\p"
 	.string "“{PLAYER}'s Pokémon Collection\n"
 	.string "on exhibit!”$"
 
@@ -719,7 +719,7 @@ LilycoveCity_Text_TrainerFanClubSign: @ 81E466E
 	.string "all over the sign…$"
 
 LilycoveCity_Text_DepartmentStoreSign: @ 81E46BE
-	.string "LILYCOVE DEPARTMENT STORE\p"
+	.string "Lilycove Department STORE\p"
 	.string "“Overflowing with great merchandise\n"
 	.string "and excitement!\p"
 	.string "“A great place to find that something\n"

@@ -1254,11 +1254,11 @@ SlateportCity_Text_SternsShipyardNearsCompletion: @ 81DE940
 	.string "STERN's SHIPYARD\p"
 	.string "“The ferry S.S. TIDAL nears\n"
 	.string "completion for serving the ports of\l"
-	.string "SLATEPORT and LILYCOVE.”$"
+	.string "SLATEPORT and Lilycove.”$"
 
 SlateportCity_Text_SternsShipyardFerryComplete: @ 81DE9AA
 	.string "STERN's SHIPYARD\p"
-	.string "“Boarding of the SLATEPORT-LILYCOVE\n"
+	.string "“Boarding of the SLATEPORT-Lilycove\n"
 	.string "ferry S.S. TIDAL is handled at the\l"
 	.string "HARBOR.”$"
 
@@ -1315,7 +1315,7 @@ SlateportCity_Text_ExplainBerryPowder: @ 81DED27
 	.string "I recently had machines installed at\n"
 	.string "Pokémon CenterS for crushing Berries.\p"
 	.string "The Berry Crush machines are at\n"
-	.string "the DIRECT CORNER upstairs.\p"
+	.string "the DIRECT Corner upstairs.\p"
 	.string "Did you know?\p"
 	.string "Could you make Berry Powder for\n"
 	.string "me using those machines?\p"

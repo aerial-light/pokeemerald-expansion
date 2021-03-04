@@ -68,7 +68,7 @@ LilycoveCity_CoveLilyMotel_2F_EventScript_MetScott:: @ 821876A
 	end
 
 LilycoveCity_CoveLilyMotel_2F_Text_ShowMeCompletedDex: @ 8218774
-	.string "I'm the GAME DESIGNER.\p"
+	.string "I'm the Game DESIGNER.\p"
 	.string "Oh, is that right?\n"
 	.string "You're working on a Pokédex?\p"
 	.string "It's tough trying to complete it,\n"
@@ -111,7 +111,7 @@ LilycoveCity_CoveLilyMotel_2F_Text_NeverLeaveWithoutGameBoy: @ 8218A5B
 	.string "You never know when and where\n"
 	.string "people will challenge you.\p"
 	.string "That's why I never leave home without\n"
-	.string "my GAME BOY ADVANCE.$"
+	.string "my Game Boy Advance.$"
 
 LilycoveCity_CoveLilyMotel_2F_Text_SnoozingPreferBattles: @ 8218ACF
 	.string "SCOTT: … … … … …\n"

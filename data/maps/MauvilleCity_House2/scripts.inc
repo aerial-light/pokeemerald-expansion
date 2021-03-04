@@ -51,18 +51,18 @@ MauvilleCity_House2_Text_BuyHarborMailAtSlateport: @ 8210CEE
 
 MauvilleCity_House2_Text_TradeHarborMailForCoinCase: @ 8210D76
 	.string "Oh! You have HARBOR MAIL?\n"
-	.string "Will you trade it for a COIN CASE?$"
+	.string "Will you trade it for a Coin Case?$"
 
 MauvilleCity_House2_Text_IllTradeYouCoinCase: @ 8210DB3
 	.string "Oh, I'm so happy!\n"
-	.string "Okay, I'll trade you a COIN CASE!$"
+	.string "Okay, I'll trade you a Coin Case!$"
 
 MauvilleCity_House2_Text_UseCoinCaseAtGameCorner: @ 8210DE7
-	.string "That COIN CASE can be used\n"
-	.string "at the GAME CORNER.$"
+	.string "That Coin Case can be used\n"
+	.string "at the Game Corner.$"
 
 MauvilleCity_House2_Text_ThatsDisappointing: @ 8210E16
 	.string "Oh, that's disappointing.\p"
-	.string "A COIN CASE is needed for the\n"
-	.string "GAME CORNER.$"
+	.string "A Coin Case is needed for the\n"
+	.string "Game Corner.$"
 

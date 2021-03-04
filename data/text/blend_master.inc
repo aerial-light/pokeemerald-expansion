@@ -81,5 +81,5 @@ BerryBlender_Text_QualitiesOfBlendMaster: @ 82C46B1
 BerryBlender_Text_MasterWorksOnSkillsInMountains: @ 82C4763
 	.string "The BLEND MASTER's supposed to work\n"
 	.string "on his skills deep in the mountains.\p"
-	.string "Sometimes, he comes to LILYCOVE\n"
+	.string "Sometimes, he comes to Lilycove\n"
 	.string "to blend Berries all day long.$"

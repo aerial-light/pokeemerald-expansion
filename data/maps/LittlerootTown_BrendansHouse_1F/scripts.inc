@@ -410,12 +410,12 @@ PlayersHouse_1F_Text_TicketFromBrineyCameForYou: @ 81F800E
 	.string "But your old man hasn't given up yet!\p"
 	.string "Oh, yes, I have something for you.\n"
 	.string "This came to you from someone named\l"
-	.string "MR. BRINEY.$"
+	.string "Mr. Briney.$"
 
 PlayersHouse_1F_Text_PortsInSlateportLilycove: @ 81F80FE
 	.string "DAD: Hm, a TICKET for a ferry?\p"
 	.string "If I recall, there are ferry ports in\n"
-	.string "SLATEPORT and LILYCOVE.$"
+	.string "SLATEPORT and Lilycove.$"
 
 PlayersHouse_1F_Text_BetterGetBackToGym: @ 81F815B
 	.string "I'd better get back to Petalburg GYM.\p"

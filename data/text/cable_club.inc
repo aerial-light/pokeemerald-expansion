@@ -17,7 +17,7 @@ CableClub_Text_BattleUsingLinkCable:: @ 8277F5A
 	.string "using a GBA Game Link cable.$"
 
 CableClub_Text_RecordCornerUsingLinkCable:: @ 8277F96
-	.string "You can use the RECORD CORNER with\n"
+	.string "You can use the RECORD Corner with\n"
 	.string "others using a GBA Game Link cable.$"
 
 @ Unused
@@ -333,7 +333,7 @@ MossdeepCity_GameCorner_1F_Text_RetryPlease: @ 8278FE0
 
 CableClub_Text_WelcomeWhichDirectCornerRoom: @ 8279013
 	.string "Welcome to the Pokémon WIRELESS\n"
-	.string "CLUB DIRECT CORNER.\p"
+	.string "CLUB DIRECT Corner.\p"
 	.string "You may interact directly with\n"
 	.string "your friends here.\p"
 	.string "Which room would you like to\n"
@@ -348,7 +348,7 @@ CableClub_Text_PlayWhichBattleMode: @ 82790BE
 
 CableClub_Text_AccessRecordCorner: @ 82790E8
 	.string "Would you like to access\n"
-	.string "the RECORD CORNER?$"
+	.string "the RECORD Corner?$"
 
 CableClub_Text_UseBerryCrush: @ 8279114
 	.string "Would you like to use the\n"
@@ -435,14 +435,14 @@ CableClub_Text_ExplainWirelessClubFirstTime: @ 8279718
 	.string "With them, you may do things like\n"
 	.string "chat, battle, and trade.\p"
 	.string "Second, the room on the right is\n"
-	.string "the DIRECT CORNER.\p"
+	.string "the DIRECT Corner.\p"
 	.string "You may trade or battle Pokémon\n"
 	.string "with your friends in this room.\p"
 	.string "If the Wireless Adapter isn't\n"
 	.string "connected, you may still link up\l"
 	.string "using a GBA Game Link cable.\p"
 	.string "If that is the case, you must go\n"
-	.string "to the DIRECT CORNER.\p"
+	.string "to the DIRECT Corner.\p"
 	.string "I hope you enjoy the Wireless \n"
 	.string "Communication System.$"
 
@@ -466,19 +466,19 @@ CableClub_Text_ExplainWirelessClub: @ 82799AA
 	.string "With them, you may do things like\n"
 	.string "chat, battle, and trade.\p"
 	.string "Second, the room on the right is\n"
-	.string "the DIRECT CORNER.\p"
+	.string "the DIRECT Corner.\p"
 	.string "You may trade or battle Pokémon\n"
 	.string "with your friends in this room.\p"
 	.string "Sometimes, you may not be able to\n"
 	.string "find your friends in the Union Room\l"
-	.string "or the DIRECT CORNER.\p"
+	.string "or the DIRECT Corner.\p"
 	.string "In that case, please move closer\n"
 	.string "to your friends.\p"
 	.string "If the Wireless Adapter isn't\n"
 	.string "connected, you may still link up\l"
 	.string "using a GBA Game Link cable.\p"
 	.string "If that is the case, you must go\n"
-	.string "to the DIRECT CORNER.\p"
+	.string "to the DIRECT Corner.\p"
 	.string "I hope you enjoy the Wireless \n"
 	.string "Communication System.$"
 
