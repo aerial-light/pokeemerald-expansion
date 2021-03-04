@@ -118,6 +118,7 @@ struct Weather
 extern struct Weather gWeather;
 extern struct Weather *const gWeatherPtr;
 extern const u16 gUnknown_083970E8[];
+void Task_WeatherMain(u8 taskId);
 
 // field_weather_effect.c
 extern const u8 gWeatherFogHorizontalTiles[];

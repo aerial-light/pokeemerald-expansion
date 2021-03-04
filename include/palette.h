@@ -46,7 +46,9 @@ extern struct PaletteFadeControl gPaletteFade;
 extern u32 gPlttBufferTransferPending;
 extern u8 gPaletteDecompressionBuffer[];
 extern u16 gPlttBufferUnfaded[];
+extern u16 gPlttBufferUnfaded2[];
 extern u16 gPlttBufferFaded[];
+extern u16 gPlttBufferFaded2[];
 
 void LoadCompressedPalette(const u32 *, u16, u16);
 void LoadPalette(const void *, u16, u16);

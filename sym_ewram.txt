@@ -45,6 +45,7 @@
 	.include "src/start_menu.o"
 	.include "src/tileset_anims.o"
 	.include "src/palette.o"
+	.include "src/dns.o"
 	.include "src/sound.o"
 	.include "src/battle_anim.o"
 	.include "src/battle_anim_mons.o"

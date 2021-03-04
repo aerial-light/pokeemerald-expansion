@@ -60,7 +60,7 @@ static bool8 FadeInScreen_FogHorizontal(void);
 static void FadeInScreenWithWeather(void);
 static void DoNothing(void);
 static void Task_WeatherInit(u8 taskId);
-static void Task_WeatherMain(u8 taskId);
+void Task_WeatherMain(u8 taskId);
 static void None_Init(void);
 static void None_Main(void);
 static u8 None_Finish(void);
@@ -230,7 +230,7 @@ static void Task_WeatherInit(u8 taskId)
     }
 }
 
-static void Task_WeatherMain(u8 taskId)
+void Task_WeatherMain(u8 taskId)
 {
     if (gWeatherPtr->currWeather != gWeatherPtr->nextWeather)
     {

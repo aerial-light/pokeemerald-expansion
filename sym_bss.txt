@@ -25,6 +25,7 @@
 	.include "src/scrcmd.o"
 	.include "src/tileset_anims.o"
 	.include "src/palette.o"
+	.include "src/dns.o"
 	.include "src/sound.o"
 	.include "src/field_weather.o"
 	.include "src/field_effect.o"

@@ -1,6 +1,7 @@
 #include "global.h"
 #include "battle_pyramid.h"
 #include "bg.h"
+#include "dns.h"
 #include "fieldmap.h"
 #include "fldeff.h"
 #include "fldeff_misc.h"
@@ -1023,7 +1024,10 @@ void LoadTilesetPalette(struct Tileset const *tileset, u16 destOffset, u16 size)
             LoadCompressedPalette((u32*)tileset->palettes, destOffset, size);
             nullsub_3(destOffset, size >> 1);
         }
-    }
+        memset(gIgnoredDNSPalIndices, 0, sizeof(bool8) * 16 * 32);
+		gLastRecordedFadeCoeff = 0xFF; //So the colours can be reloaded on map re-entry
+		gLastRecordedFadeColour = 0;
+	}
 }
 
 void CopyPrimaryTilesetToVram(struct MapLayout const *mapLayout)

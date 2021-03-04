@@ -56,7 +56,7 @@ static void Task_ReturnToShopMenu(u8 taskId);
 static void ShowShopMenuAfterExitingBuyOrSellMenu(u8 taskId);
 static void BuyMenuDrawGraphics(void);
 static void BuyMenuAddScrollIndicatorArrows(void);
-static void Task_BuyMenu(u8 taskId);
+void Task_BuyMenu(u8 taskId);
 static void BuyMenuBuildListMenuTemplate(void);
 static void BuyMenuInitBgs(void);
 static void BuyMenuInitWindows(void);
@@ -906,7 +906,7 @@ static bool8 BuyMenuCheckForOverlapWithMenuBg(int x, int y)
     return FALSE;
 }
 
-static void Task_BuyMenu(u8 taskId)
+void Task_BuyMenu(u8 taskId)
 {
     s16 *data = gTasks[taskId].data;
 
