@@ -224,7 +224,7 @@ RustboroCity_PokemonSchool_Text_ExplainParalysis: @ 82141D8
 	.string "It may also not be able to move while\n"
 	.string "it is in battle.\p"
 	.string "Paralysis remains after battle.\n"
-	.string "Cure it using a PARLYZ HEAL.$"
+	.string "Cure it using a PARLYZ Heal.$"
 
 RustboroCity_PokemonSchool_Text_ExplainSleep: @ 821427D
 	.string "If a Pokémon falls asleep, it will be\n"
@@ -238,13 +238,13 @@ RustboroCity_PokemonSchool_Text_ExplainBurn: @ 8214336
 	.string "A burn reduces Attack power, and it\n"
 	.string "steadily reduces the victim's HP.\p"
 	.string "A burn lingers after battle.\n"
-	.string "Cure a burn using a BURN HEAL.$"
+	.string "Cure a burn using a BURN Heal.$"
 
 RustboroCity_PokemonSchool_Text_ExplainFreeze: @ 82143B8
 	.string "If a Pokémon is frozen, it becomes\n"
 	.string "completely helpless.\p"
 	.string "It will remain frozen after battle.\n"
-	.string "Thaw it out using an Ice HEAL.$"
+	.string "Thaw it out using an Ice Heal.$"
 
 RustboroCity_PokemonSchool_Text_StudentsWhoDontStudyGetQuickClaw: @ 8214433
 	.string "Students who don't study get a little\n"
@@ -294,7 +294,7 @@ RustboroCity_PokemonSchool_Text_PokemonHealItselfWithBerry: @ 8214719
 RustboroCity_PokemonSchool_Text_StudentsNotes: @ 82147A2
 	.string "It's this student's notebook…\p"
 	.string "Pokémon are to be caught using\n"
-	.string "POKé BALLS.\p"
+	.string "Poké Balls.\p"
 	.string "Up to six Pokémon can accompany\n"
 	.string "a Trainer.\p"
 	.string "A Trainer is someone who catches\n"
@@ -310,7 +310,7 @@ RustboroCity_PokemonSchool_Text_ScottMetAlreadyCut: @ 82148C0
 	.string "Let me introduce myself.\n"
 	.string "My name's SCOTT.\p"
 	.string "I've been traveling everywhere in\n"
-	.string "search of outstanding TRAINERS.\p"
+	.string "search of outstanding Trainers.\p"
 	.string "More specifically, I'm looking for\n"
 	.string "Pokémon battle experts.\p"
 	.string "So, what brings you to this School?\n"
@@ -340,7 +340,7 @@ RustboroCity_PokemonSchool_Text_ScottMetAlreadyStoneBadge: @ 8214B8A
 	.string "Let me introduce myself.\n"
 	.string "My name's SCOTT.\p"
 	.string "I've been traveling everywhere in\n"
-	.string "search of outstanding TRAINERS.\p"
+	.string "search of outstanding Trainers.\p"
 	.string "More specifically, I'm looking for\n"
 	.string "Pokémon battle experts.\p"
 	.string "Oh, what's that?\n"

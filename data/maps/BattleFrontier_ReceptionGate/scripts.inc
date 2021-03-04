@@ -479,7 +479,7 @@ BattleFrontier_ReceptionGate_Text_LearnAboutWhich1: @ 826737C
 BattleFrontier_ReceptionGate_Text_SymbolsInfo: @ 82673A1
 	.string "There are seven facilities at\n"
 	.string "the Battle Frontier.\p"
-	.string "TRAINERS who gain recognition for\n"
+	.string "Trainers who gain recognition for\n"
 	.string "their abilities may be rewarded with\l"
 	.string "symbols from each of the facilities.\p"
 	.string "To earn a symbol, Trainers may need\n"
@@ -502,7 +502,7 @@ BattleFrontier_ReceptionGate_Text_RecordedBattleInfo: @ 82674F3
 
 BattleFrontier_ReceptionGate_Text_BattlePointsInfo: @ 826761C
 	.string "Battle Points are rewards given to\n"
-	.string "TRAINERS who battled outstandingly\l"
+	.string "Trainers who battled outstandingly\l"
 	.string "at the Battle Frontier.\p"
 	.string "You may trade in your Battle Points\n"
 	.string "for prizes at the EXCHANGE SERVICE\l"

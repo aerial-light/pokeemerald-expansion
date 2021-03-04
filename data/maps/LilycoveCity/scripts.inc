@@ -605,7 +605,7 @@ LilycoveCity_Text_StrangeCaveInCove: @ 81E3E3C
 LilycoveCity_Text_GoingToMoveDeleterForHMs: @ 81E3E7D
 	.string "I'm going to teach my Pokémon some new\n"
 	.string "moves for entering a Contest.\p"
-	.string "So, I'm going to see the MOVE DELETER\n"
+	.string "So, I'm going to see the Move Deleter\n"
 	.string "and make it forget HM moves.$"
 
 LilycoveCity_Text_ImFromKanto: @ 81E3F05
@@ -684,7 +684,7 @@ LilycoveCity_Text_CitySign: @ 81E448B
 
 LilycoveCity_Text_ContestHallSign: @ 81E44C3
 	.string "Pokémon Contest Hall\n"
-	.string "“The gathering place for TRAINERS!”$"
+	.string "“The gathering place for Trainers!”$"
 
 LilycoveCity_Text_MotelSign: @ 81E44FC
 	.string "COVE LILY MOTEL\p"
@@ -726,7 +726,7 @@ LilycoveCity_Text_DepartmentStoreSign: @ 81E46BE
 	.string "you need!”$"
 
 LilycoveCity_Text_MoveDeletersHouseSign: @ 81E473D
-	.string "MOVE DELETER's House\p"
+	.string "Move Deleter's House\p"
 	.string "“Unwanted Pokémon moves deleted.”$"
 
 LilycoveCity_Text_DoYouKnowAboutBerryBlender: @ 81E4774

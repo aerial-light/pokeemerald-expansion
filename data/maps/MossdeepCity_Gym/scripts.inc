@@ -613,7 +613,7 @@ MossdeepCity_Gym_Text_GymStatue: @ 8221CB0
 
 MossdeepCity_Gym_Text_GymStatueCertified: @ 8221CCA
 	.string "Mossdeep City Pokémon GYM\p"
-	.string "Liza AND Tate's CERTIFIED TRAINERS:\n"
+	.string "Liza AND Tate's CERTIFIED Trainers:\n"
 	.string "{PLAYER}$"
 
 MossdeepCity_Gym_Text_TateAndLizaPreRematch: @ 8221D0B

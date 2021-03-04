@@ -158,7 +158,7 @@ Route109_SeashoreHouse_Text_DwaynePostBattle: @ 826989D
 Route109_SeashoreHouse_Text_JohannaIntro: @ 82698E3
 	.string "Boring battles aren't worth the effort.\p"
 	.string "Fiery hot battles are what toughen up\n"
-	.string "TRAINERS and Pokémon!$"
+	.string "Trainers and Pokémon!$"
 
 Route109_SeashoreHouse_Text_JohannaDefeated: @ 8269947
 	.string "That's hot!$"

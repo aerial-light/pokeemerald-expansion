@@ -29,7 +29,7 @@ sText_MysteryGiftBattleCountCard:
 	.string "GIFT System.\p"
 	.string "Your Battle COUNT CARD keeps\n"
 	.string "track of your battle record against\l"
-	.string "TRAINERS with the same CARD.\p"
+	.string "Trainers with the same CARD.\p"
 	.string "Look for and battle Trainers who\n"
 	.string "have the same CARD as you.\p"
 	.string "You may check the overall rankings\n"

@@ -223,7 +223,7 @@ RustboroCity_Gym_Text_ExplainRockTomb: @ 82138B1
 RustboroCity_Gym_Text_RoxannePostBattle: @ 82139A7
 	.string "Since you are so strong, you should\n"
 	.string "challenge other Gym LEADERS.\p"
-	.string "By battling many TRAINERS, you should\n"
+	.string "By battling many Trainers, you should\n"
 	.string "learn many things.$"
 
 RustboroCity_Gym_Text_GymStatue: @ 8213A21
@@ -231,7 +231,7 @@ RustboroCity_Gym_Text_GymStatue: @ 8213A21
 
 RustboroCity_Gym_Text_GymStatueCertified: @ 8213A3B
 	.string "Rustboro City Pokémon GYM\p"
-	.string "Roxanne's CERTIFIED TRAINERS:\n"
+	.string "Roxanne's CERTIFIED Trainers:\n"
 	.string "{PLAYER}$"
 
 RustboroCity_Gym_Text_RoxanneRegisterCall: @ 8213A76
@@ -241,7 +241,7 @@ RustboroCity_Gym_Text_RoxanneRegisterCall: @ 8213A76
 	.string "This is Roxanne of Rustboro City.\p"
 	.string "I heard from Brawly that you're\n"
 	.string "moving up through the ranks of\l"
-	.string "TRAINERS at an incredible clip.\p"
+	.string "Trainers at an incredible clip.\p"
 	.string "Well, I'd rather not think that\n"
 	.string "I can't beat you.\p"
 	.string "I promise, I will shape up my GYM\n"

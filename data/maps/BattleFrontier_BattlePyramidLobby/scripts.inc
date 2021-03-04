@@ -850,7 +850,7 @@ BattleFrontier_BattlePyramidLobby_Text_TrainersNoticeRunning: @ 82524DA
 	.string "Did you know?\p"
 	.string "If you run fast, Trainers may notice\n"
 	.string "and come after you for a battle.\p"
-	.string "So, if you want to avoid TRAINERS,\n"
+	.string "So, if you want to avoid Trainers,\n"
 	.string "don't catch their eyes, but sneak\l"
 	.string "cautiously and quietly past them.$"
 
@@ -885,10 +885,10 @@ BattleFrontier_BattlePyramidLobby_Text_ExplainMonRules: @ 82526FC
 	.string "of wild Pokémon you may encounter.$"
 
 BattleFrontier_BattlePyramidLobby_Text_ExplainTrainerRules: @ 82527A9
-	.string "TRAINERS are lying in wait for you\n"
+	.string "Trainers are lying in wait for you\n"
 	.string "inside the Pyramid.\p"
 	.string "On each floor, there are up to\n"
-	.string "eight TRAINERS.\p"
+	.string "eight Trainers.\p"
 	.string "When you defeat a Trainer, you will\n"
 	.string "get a helpful hint for your adventure.$"
 

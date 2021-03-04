@@ -60,7 +60,7 @@ const u8 gEasyChatWord_TooWeak[] = _("TOO WEAK");
 const u8 gEasyChatWord_Pushover[] = _("PUSHOVER");
 const u8 gEasyChatWord_Leader[] = _("Leader");
 const u8 gEasyChatWord_Rule[] = _("RULE");
-const u8 gEasyChatWord_Move[] = _("MOVE");
+const u8 gEasyChatWord_Move[] = _("Move");
 
 const struct EasyChatWordInfo gEasyChatGroup_Battle[] = {
     {

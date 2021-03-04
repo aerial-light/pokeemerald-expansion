@@ -473,6 +473,6 @@ BattleFrontier_Lounge3_Text_KnowWinnerWhenISeeOne:: @ 826351D
 	.string "I know a winner when I see one!$"
 
 BattleFrontier_Lounge3_Text_ShouldBeTakingChallenges:: @ 8263545
-	.string "Those TRAINERS…\n"
+	.string "Those Trainers…\n"
 	.string "What are they doing?\l"
 	.string "They should be taking challenges.$"

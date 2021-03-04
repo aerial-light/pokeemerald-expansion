@@ -254,7 +254,7 @@ MauvilleCity_PokemonCenter_1F_EventScript_NoRoomForDecor:: @ 828E5EC
 MauvilleCity_PokemonCenter_1F_Text_WillYouHearMyTale: @ 828E5F6
 	.string "I'm the STORYTELLER.\n"
 	.string "I'll tell you tales of legendary\l"
-	.string "TRAINERS.\p"
+	.string "Trainers.\p"
 	.string "Will you hear my tale?$"
 
 MauvilleCity_PokemonCenter_1F_Text_StorytellerFeelingTheBlues: @ 828E64D
@@ -266,7 +266,7 @@ MauvilleCity_PokemonCenter_1F_Text_WhichTaleToTell: @ 828E673
 	.string "Which tale will you have me tell?$"
 
 MauvilleCity_PokemonCenter_1F_Text_IKnowNoTales: @ 828E6AE
-	.string "But, I know of no legendary TRAINERS.\n"
+	.string "But, I know of no legendary Trainers.\n"
 	.string "Hence, I know no tales.\p"
 	.string "Where does one find a Trainer worthy\n"
 	.string "of a legendary tale?$"
@@ -303,7 +303,7 @@ MauvilleCity_PokemonCenter_1F_Text_NotWorthyOfLegend: @ 828E881
 MauvilleCity_PokemonCenter_1F_Text_IWishMorePeopleWereInterested: @ 828E8D9
 	.string "I wish more people would be interested\n"
 	.string "in hearing my epic tales of legendary\l"
-	.string "TRAINERS.$"
+	.string "Trainers.$"
 
 MauvilleCity_PokemonCenter_1F_Text_SavedGameTitle:: @ 828E930
 	.string "The Save-Happy Trainer$"
@@ -700,15 +700,15 @@ MauvilleCity_PokemonCenter_1F_Text_ReceivedRibbonsTitle:: @ 828FBC4
 	.string "The Ribbon Collector$"
 
 MauvilleCity_PokemonCenter_1F_Text_ReceivedRibbonsAction:: @ 828FBD9
-	.string "Received RIBBONS$"
+	.string "Received Ribbons$"
 
 MauvilleCity_PokemonCenter_1F_Text_ReceivedRibbonsStory:: @ 828FBEA
 	.string "This is a tale of a Trainer\n"
 	.string "named {STR_VAR_3}.\p"
-	.string "This Trainer received RIBBONS\n"
+	.string "This Trainer received Ribbons\n"
 	.string "{STR_VAR_1} times!\p"
 	.string "{STR_VAR_3} must be a Trainer who\n"
-	.string "loves to collect RIBBONS!$"
+	.string "loves to collect Ribbons!$"
 
 MauvilleCity_PokemonCenter_1F_Text_LedgesJumpedTitle:: @ 828FC6B
 	.string "The Ledge-Jumping Trainer$"
@@ -952,7 +952,7 @@ MauvilleCity_PokemonCenter_1F_EventScript_ToldEnoughTales:: @ 8290384
 	end
 
 MauvilleCity_PokemonCenter_1F_Text_WouldYouLikeToHearMySong: @ 829038E
-	.string "Hi, I'm the BARD.\n"
+	.string "Hi, I'm the Bard.\n"
 	.string "Would you like to hear my song?$"
 
 MauvilleCity_PokemonCenter_1F_Text_BardFeelingTheBlues1: @ 82903C0

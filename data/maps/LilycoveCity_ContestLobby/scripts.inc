@@ -1065,7 +1065,7 @@ LilycoveCity_ContestLobby_Text_TakeMementoOfPainting: @ 821B030
 	.string "Pokémon, please take this.$"
 
 LilycoveCity_ContestLobby_Text_ReceivedARibbon: @ 821B07E
-	.string "{PLAYER} received a RIBBON.$"
+	.string "{PLAYER} received a Ribbon.$"
 
 LilycoveCity_ContestLobby_Text_PutTheRibbonOnMon: @ 821B094
 	.string "{PLAYER} put the Ribbon on\n"

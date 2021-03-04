@@ -53,10 +53,10 @@ gTrickHouse_Mechadoll_Carvanha:: @ 27ED46
 	.string "CARVANHA$"
 
 gTrickHouse_Mechadoll_BurnHeal:: @ 27ED4F
-	.string "BURN HEAL$"
+	.string "BURN Heal$"
 
 gTrickHouse_Mechadoll_HarborMail:: @ 27ED59
-	.string "HARBOR MAIL$"
+	.string "HARBOR Mail$"
 
 gTrickHouse_Mechadoll_SamePrice:: @ 27ED65
 	.string "Same price$"

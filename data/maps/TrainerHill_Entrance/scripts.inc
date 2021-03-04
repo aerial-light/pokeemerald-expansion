@@ -303,7 +303,7 @@ TrainerHill_Entrance_Pokemart_Expanded: @ 8268414
 TrainerHill_Entrance_Text_StillGettingReady: @ 8268430
 	.string "This is the Trainer Hill where\n"
 	.string "you may enjoy tag battles with many\l"
-	.string "TRAINERS.\p"
+	.string "Trainers.\p"
 	.string "Unfortunately, we're still getting\n"
 	.string "things ready. Please come back later!$"
 
@@ -311,7 +311,7 @@ TrainerHill_Entrance_Text_WelcomeToTrainerHill: @ 82684C6
 	.string "Welcome!\p"
 	.string "This is the Trainer Hill where\n"
 	.string "you may enjoy tag battles with many\l"
-	.string "TRAINERS!$"
+	.string "Trainers!$"
 
 TrainerHill_Entrance_Text_SaveGameBeforeEnter: @ 826851C
 	.string "Is this your first visit here?\p"
@@ -331,7 +331,7 @@ TrainerHill_Entrance_Text_TrainersInEveryRoom: @ 826859E
 
 TrainerHill_Entrance_Text_LikeToChallengeTrainers: @ 82685F8
 	.string "Would you like to challenge the\n"
-	.string "waiting TRAINERS?$"
+	.string "waiting Trainers?$"
 
 TrainerHill_Entrance_Text_TimeProgessGetSetGo: @ 826862A
 	.string "I will time your progress.\n"

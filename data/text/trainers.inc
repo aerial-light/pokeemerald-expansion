@@ -91,7 +91,7 @@ Route103_Text_AmyDefeated: @ 8294A3D
 Route103_Text_AmyPostBattle: @ 8294A52
 	.string "AMY: You have to think about all\n"
 	.string "kinds of things when you're battling\l"
-	.string "against two TRAINERS.$"
+	.string "against two Trainers.$"
 
 Route103_Text_AmyNotEnoughPokemon: @ 8294AAE
 	.string "AMY: Uh-oh, you have only one\n"
@@ -131,7 +131,7 @@ Route103_Text_AmyRematchDefeated: @ 8294C6D
 Route103_Text_AmyRematchPostBattle: @ 8294C93
 	.string "AMY: You have to think about all\n"
 	.string "kinds of things when you're battling\l"
-	.string "against two TRAINERS.$"
+	.string "against two Trainers.$"
 
 Route103_Text_AmyRematchNotEnoughPokemon: @ 8294CEF
 	.string "AMY: Uh-oh, you have only one\n"
@@ -774,7 +774,7 @@ Route108_Text_CoryPostBattle: @ 8296FB0
 	.string "It uplifts me!$"
 
 Route108_Text_CoryRegister: @ 8296FD8
-	.string "I love tough TRAINERS, too!\n"
+	.string "I love tough Trainers, too!\n"
 	.string "Register me in your PokéNav!$"
 
 Route108_Text_CoryRematchIntro: @ 8297011
@@ -1556,7 +1556,7 @@ Route112_Text_TrentRematchDefeat: @ 82999F7
 
 Route112_Text_TrentRematchPostBattle: @ 8299A0F
 	.string "I hear there are some seriously tough\n"
-	.string "TRAINERS on top of Mt. Chimney.\p"
+	.string "Trainers on top of Mt. Chimney.\p"
 	.string "I intend to get up there and give them\n"
 	.string "a challenge!$"
 
@@ -1715,7 +1715,7 @@ Route113_Text_ToriDefeat: @ 829A29D
 
 Route113_Text_ToriPostBattle: @ 829A2DE
 	.string "TORI: How much ash do we have?\n"
-	.string "Enough for a WHITE FLUTE, I hope.$"
+	.string "Enough for a White Flute, I hope.$"
 
 Route113_Text_ToriNotEnoughMons: @ 829A31F
 	.string "TORI: We want to battle 2-on-2.\n"
@@ -1731,7 +1731,7 @@ Route113_Text_TiaDefeat: @ 829A397
 
 Route113_Text_TiaPostBattle: @ 829A3DA
 	.string "TIA: We have a lot of ashes!\n"
-	.string "I think enough for a WHITE FLUTE!$"
+	.string "I think enough for a White Flute!$"
 
 Route113_Text_TiaNotEnoughMons: @ 829A419
 	.string "TIA: We want to battle 2-on-2.\n"
@@ -2233,13 +2233,13 @@ Route116_Text_JerryPostBattle: @ 829BD92
 
 Route116_Text_JerryRegister1: @ 829BDEF
 	.string "I learned at the Trainer's School\n"
-	.string "that a PokéNav can register TRAINERS.\p"
+	.string "that a PokéNav can register Trainers.\p"
 	.string "I don't really get what that means,\n"
 	.string "so can I just try it?$"
 
 Route116_Text_JerryRegister2: @ 829BE71
 	.string "I learned at the Trainer's School\n"
-	.string "that a PokéNav can register TRAINERS.\p"
+	.string "that a PokéNav can register Trainers.\p"
 	.string "I don't really get what that means,\n"
 	.string "so can I just try it?$"
 
@@ -2643,7 +2643,7 @@ Route118_Text_BarnyPostBattle: @ 829D587
 
 Route118_Text_WadeIntro: @ 829D5DF
 	.string "For FISHERMEN, equipment is the key.\p"
-	.string "But for TRAINERS, the key ingredients\n"
+	.string "But for Trainers, the key ingredients\n"
 	.string "are Pokémon and heart, of course!$"
 
 Route118_Text_WadeDefeat: @ 829D64C
@@ -2916,7 +2916,7 @@ Route119_Text_FabianPostBattle: @ 829E492
 
 Route119_Text_DaytonIntro: @ 829E4DF
 	.string "Hohoho!\n"
-	.string "I like kid TRAINERS!\l"
+	.string "I like kid Trainers!\l"
 	.string "Let's have a good one!$"
 
 Route119_Text_DaytonDefeat: @ 829E513
@@ -2926,7 +2926,7 @@ Route119_Text_DaytonDefeat: @ 829E513
 Route119_Text_DaytonPostBattle: @ 829E532
 	.string "Hohoho!\n"
 	.string "I'll try emulating the pep of kid\l"
-	.string "TRAINERS like you!$"
+	.string "Trainers like you!$"
 
 Route119_Text_RachelIntro: @ 829E56F
 	.string "Wherever and whenever I may be,\n"
@@ -3637,7 +3637,7 @@ Route124_Text_JennyRegister: @ 82A0C14
 
 Route124_Text_JennyRematchIntro: @ 82A0C60
 	.string "If you just float in the sea like this,\n"
-	.string "TRAINERS challenge you!$"
+	.string "Trainers challenge you!$"
 
 Route124_Text_JennyRematchDefeat: @ 82A0CA0
 	.string "That's strange…\n"
@@ -4494,7 +4494,7 @@ Route132_Text_GilbertDefeat: @ 82A3BAC
 	.string "I crave more power…$"
 
 Route132_Text_GilbertPostBattle: @ 82A3BC0
-	.string "TRAINERS travel the fields and\n"
+	.string "Trainers travel the fields and\n"
 	.string "mountains, so they must be fit, too.$"
 
 Route132_Text_DanaIntro: @ 82A3C04
@@ -4766,7 +4766,7 @@ Route134_Text_ReynaPostBattle: @ 82A4A34
 	.string "Haha!\n"
 	.string "You won, all right!\p"
 	.string "I'll work my way back up by taking on\n"
-	.string "TRAINERS I happen to meet!$"
+	.string "Trainers I happen to meet!$"
 
 Route134_Text_HudsonIntro: @ 82A4A8F
 	.string "Listen, have you seen another SAILOR\n"

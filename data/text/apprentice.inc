@@ -2294,7 +2294,7 @@ gText_ApprenticeWinSpeechThanks6:: @ 82C1DC1
 	.string "…Listen, I think I'm getting decent\n"
 	.string "at this, huh?\p"
 	.string "So, I'm thinking of challenging other\n"
-	.string "TRAINERS from now on.\p"
+	.string "Trainers from now on.\p"
 	.string "{PLAYER}, your advice really helped me.\p"
 	.string "Maybe one day, there'll be a time when\n"
 	.string "we battle!\p"

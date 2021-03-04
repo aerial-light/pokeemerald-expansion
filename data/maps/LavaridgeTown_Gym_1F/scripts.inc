@@ -235,7 +235,7 @@ LavaridgeTown_Gym_B1F_Text_KeeganIntro: @ 81FEC31
 	.string "wouldn't you?\p"
 	.string "But you should know that maintaining\n"
 	.string "your willpower is an important ability\l"
-	.string "for all TRAINERS.$"
+	.string "for all Trainers.$"
 
 LavaridgeTown_Gym_B1F_Text_KeeganDefeat: @ 81FECE3
 	.string "Play with fire, and be burned…$"
@@ -371,7 +371,7 @@ LavaridgeTown_Gym_1F_Text_GymStatue: @ 81FF5A9
 
 LavaridgeTown_Gym_1F_Text_GymStatueCertified: @ 81FF5C4
 	.string "LAVARIDGE TOWN Pokémon GYM\p"
-	.string "Flannery's CERTIFIED TRAINERS:\n"
+	.string "Flannery's CERTIFIED Trainers:\n"
 	.string "{PLAYER}$"
 
 LavaridgeTown_Gym_1F_Text_FlanneryPreRematch: @ 81FF601

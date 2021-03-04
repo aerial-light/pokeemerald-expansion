@@ -525,32 +525,32 @@ BattlePyramid_Text_ZeroItemsRemaining6:: @ 825422B
 BattlePyramid_Text_SevenTrainersRemaining1:: @ 825427A
 	.string "You were really awesome!\p"
 	.string "But there are still seven tough\n"
-	.string "TRAINERS other than me!$"
+	.string "Trainers other than me!$"
 
 BattlePyramid_Text_SixTrainersRemaining1:: @ 82542CB
 	.string "You were really awesome!\p"
 	.string "But there are still six tough\n"
-	.string "TRAINERS other than me!$"
+	.string "Trainers other than me!$"
 
 BattlePyramid_Text_FiveTrainersRemaining1:: @ 825431A
 	.string "You were really awesome!\p"
 	.string "But there are still five tough\n"
-	.string "TRAINERS other than me!$"
+	.string "Trainers other than me!$"
 
 BattlePyramid_Text_FourTrainersRemaining1:: @ 825436A
 	.string "You were really awesome!\p"
 	.string "But there are still four tough\n"
-	.string "TRAINERS other than me!$"
+	.string "Trainers other than me!$"
 
 BattlePyramid_Text_ThreeTrainersRemaining1:: @ 82543BA
 	.string "You were really awesome!\p"
 	.string "But there are still three tough\n"
-	.string "TRAINERS other than me!$"
+	.string "Trainers other than me!$"
 
 BattlePyramid_Text_TwoTrainersRemaining1:: @ 825440B
 	.string "You were really awesome!\p"
 	.string "But there are still two tough\n"
-	.string "TRAINERS other than me!$"
+	.string "Trainers other than me!$"
 
 BattlePyramid_Text_OneTrainersRemaining1:: @ 825445A
 	.string "You were really awesome!\p"
@@ -709,27 +709,27 @@ BattlePyramid_Text_ZeroTrainersRemaining5:: @ 8254E6E
 
 BattlePyramid_Text_SevenTrainersRemaining6:: @ 8254ED3
 	.string "Can you keep winning against\n"
-	.string "the seven remaining TRAINERS?$"
+	.string "the seven remaining Trainers?$"
 
 BattlePyramid_Text_SixTrainersRemaining6:: @ 8254F0E
 	.string "Can you keep winning against\n"
-	.string "the six remaining TRAINERS?$"
+	.string "the six remaining Trainers?$"
 
 BattlePyramid_Text_FiveTrainersRemaining6:: @ 8254F47
 	.string "Can you keep winning against\n"
-	.string "the five remaining TRAINERS?$"
+	.string "the five remaining Trainers?$"
 
 BattlePyramid_Text_FourTrainersRemaining6:: @ 8254F81
 	.string "Can you keep winning against\n"
-	.string "the four remaining TRAINERS?$"
+	.string "the four remaining Trainers?$"
 
 BattlePyramid_Text_ThreeTrainersRemaining6:: @ 8254FBB
 	.string "Can you keep winning against\n"
-	.string "the three remaining TRAINERS?$"
+	.string "the three remaining Trainers?$"
 
 BattlePyramid_Text_TwoTrainersRemaining6:: @ 8254FF6
 	.string "Can you keep winning against\n"
-	.string "the two remaining TRAINERS?$"
+	.string "the two remaining Trainers?$"
 
 BattlePyramid_Text_OneTrainersRemaining6:: @ 825502F
 	.string "Can you keep winning against\n"

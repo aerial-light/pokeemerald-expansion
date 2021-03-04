@@ -294,7 +294,7 @@ SlateportCity_PokemonFanClub_Text_AllowMeToExamineYourPokemon: @ 820A445
 	.string "Please! Allow me to examine how you\n"
 	.string "have raised your Pokémon.\p"
 	.string "It delights me no end to see Pokémon\n"
-	.string "raised by other TRAINERS.\p"
+	.string "raised by other Trainers.\p"
 	.string "The happy expressions of Pokémon\n"
 	.string "raised with proper care…\p"
 	.string "The kindly eyes of the Trainer that\n"
@@ -337,7 +337,7 @@ SlateportCity_PokemonFanClub_Text_MonMostImpressiveGiveItThis: @ 820A795
 	.string "it would grow even better! Indeed!$"
 
 SlateportCity_PokemonFanClub_Text_ExplainRedScarf: @ 820A827
-	.string "Let a Pokémon hold that RED SCARF.\p"
+	.string "Let a Pokémon hold that Red SCARF.\p"
 	.string "Everyone will recognize the coolness\n"
 	.string "of that Pokémon!$"
 
@@ -357,7 +357,7 @@ SlateportCity_PokemonFanClub_Text_ExplainGreenScarf: @ 820A933
 	.string "smartness of Pokémon!$"
 
 SlateportCity_PokemonFanClub_Text_ExplainYellowScarf: @ 820A984
-	.string "Let a Pokémon hold that YELLOW SCARF.\p"
+	.string "Let a Pokémon hold that Yellow SCARF.\p"
 	.string "It will bolster your Pokémon's\n"
 	.string "toughness so much more!$"
 
@@ -370,9 +370,9 @@ SlateportCity_PokemonFanClub_Text_NothingElseToGiveYou: @ 820A9E1
 
 SlateportCity_PokemonFanClub_Text_ShowMePokemonThatLoveYou: @ 820AA77
 	.string "I love seeing Pokémon that love\n"
-	.string "their TRAINERS.\p"
+	.string "their Trainers.\p"
 	.string "Pokémon are very sensitive to\n"
-	.string "the feelings of their TRAINERS.\p"
+	.string "the feelings of their Trainers.\p"
 	.string "If you treat your Pokémon with love\n"
 	.string "and care, they'll love you back.\p"
 	.string "When your Pokémon grow to love you,\n"
@@ -385,7 +385,7 @@ SlateportCity_PokemonFanClub_Text_PokemonAdoresYou: @ 820AB63
 
 SlateportCity_PokemonFanClub_Text_TreatPokemonWithLove: @ 820ABC4
 	.string "Pokémon are very sensitive to\n"
-	.string "the feelings of their TRAINERS.\p"
+	.string "the feelings of their Trainers.\p"
 	.string "If you treat your Pokémon with love\n"
 	.string "and care, they'll love you back.$"
 
@@ -401,7 +401,7 @@ SlateportCity_PokemonFanClub_Text_MonEnjoyedProtein: @ 820ACF9
 	.string "Do Pokémon enjoy having items used\n"
 	.string "on them?\p"
 	.string "Mine acted really happy when I gave\n"
-	.string "it some PROTEIN.$"
+	.string "it some Protein.$"
 
 SlateportCity_PokemonFanClub_Text_Skitty: @ 820AD5A
 	.string "SKITTY: Fffnyaaaah…$"

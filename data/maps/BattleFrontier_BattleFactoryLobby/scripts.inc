@@ -558,5 +558,5 @@ BattleFrontier_BattleFactoryLobby_Text_ExplainSwapNotesRules: @ 8259920
 
 BattleFrontier_BattleFactoryLobby_Text_ExplainOpenLvRules: @ 8259A5E
 	.string "In the Open Level, the rental Pokémon\n"
-	.string "and the opposing TRAINERS' Pokémon\l"
+	.string "and the opposing Trainers' Pokémon\l"
 	.string "are all Level 100.$"

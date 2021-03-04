@@ -546,11 +546,11 @@ BattleFrontier_ExchangeServiceCorner_Text_ConfirmBlastoiseDoll: @ 825FB68
 	.string "Is that correct?$"
 
 BattleFrontier_ExchangeServiceCorner_Text_ConfirmProtein: @ 825FB9B
-	.string "You've chosen the PROTEIN.\n"
+	.string "You've chosen the Protein.\n"
 	.string "Is that correct?$"
 
 BattleFrontier_ExchangeServiceCorner_Text_ConfirmCalcium: @ 825FBC7
-	.string "You've chosen the CALCIUM.\n"
+	.string "You've chosen the Calcium.\n"
 	.string "Is that correct?$"
 
 BattleFrontier_ExchangeServiceCorner_Text_ConfirmIron: @ 825FBF3
@@ -558,15 +558,15 @@ BattleFrontier_ExchangeServiceCorner_Text_ConfirmIron: @ 825FBF3
 	.string "Is that correct?$"
 
 BattleFrontier_ExchangeServiceCorner_Text_ConfirmZinc: @ 825FC1C
-	.string "You've chosen the ZINC.\n"
+	.string "You've chosen the Zinc.\n"
 	.string "Is that correct?$"
 
 BattleFrontier_ExchangeServiceCorner_Text_ConfirmCarbos: @ 825FC45
-	.string "You've chosen the CARBOS.\n"
+	.string "You've chosen the Carbos.\n"
 	.string "Is that correct?$"
 
 BattleFrontier_ExchangeServiceCorner_Text_ConfirmHPUp: @ 825FC70
-	.string "You've chosen the HP UP.\n"
+	.string "You've chosen the HP Up.\n"
 	.string "Is that correct?$"
 
 BattleFrontier_ExchangeServiceCorner_Text_ConfirmBrightpowder: @ 825FC9A
@@ -574,7 +574,7 @@ BattleFrontier_ExchangeServiceCorner_Text_ConfirmBrightpowder: @ 825FC9A
 	.string "Is that correct?$"
 
 BattleFrontier_ExchangeServiceCorner_Text_ConfirmWhiteHerb: @ 825FCCB
-	.string "You've chosen the WHITE HERB.\n"
+	.string "You've chosen the WHITE Herb.\n"
 	.string "Is that correct?$"
 
 BattleFrontier_ExchangeServiceCorner_Text_ConfirmQuickClaw: @ 825FCFA
@@ -582,7 +582,7 @@ BattleFrontier_ExchangeServiceCorner_Text_ConfirmQuickClaw: @ 825FCFA
 	.string "Is that correct?$"
 
 BattleFrontier_ExchangeServiceCorner_Text_ConfirmMentalHerb: @ 825FD29
-	.string "You've chosen the MENTAL HERB.\n"
+	.string "You've chosen the MENTAL Herb.\n"
 	.string "Is that correct?$"
 
 BattleFrontier_ExchangeServiceCorner_Text_ConfirmChoiceBand: @ 825FD59

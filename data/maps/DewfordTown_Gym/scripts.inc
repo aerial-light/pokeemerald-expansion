@@ -443,7 +443,7 @@ DewfordTown_Gym_Text_GymStatue: @ 81FD272
 
 DewfordTown_Gym_Text_GymStatueCertified: @ 81FD28B
 	.string "Dewford Town Pokémon GYM\p"
-	.string "Brawly's CERTIFIED TRAINERS:\n"
+	.string "Brawly's CERTIFIED Trainers:\n"
 	.string "{PLAYER}$"
 
 DewfordTown_Gym_Text_BrawlyPreRematch: @ 81FD2C4

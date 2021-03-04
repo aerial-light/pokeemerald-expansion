@@ -39,7 +39,7 @@ FortreeCity_PokemonCenter_1F_Text_RecordCornerIsNeat: @ 821746D
 	.string "Have you done anything at\n"
 	.string "the RECORD Corner?\p"
 	.string "It's pretty neat. It mixes and matches\n"
-	.string "the records of TRAINERS.\p"
+	.string "the records of Trainers.\p"
 	.string "I don't know quite how it works,\n"
 	.string "but it's cool. It's exciting, even!$"
 

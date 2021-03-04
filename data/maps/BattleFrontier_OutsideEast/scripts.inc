@@ -299,7 +299,7 @@ BattleFrontier_OutsideEast_Text_DidScottBringYouHere: @ 8243230
 	.string "Did SCOTT bring you here, too?\n"
 	.string "What is it with that guy?\p"
 	.string "It sounds like he really does know\n"
-	.string "how to spot talented TRAINERS, but…\p"
+	.string "how to spot talented Trainers, but…\p"
 	.string "I've never seen him battling in person\n"
 	.string "ever.$"
 
@@ -415,7 +415,7 @@ BattleFrontier_OutsideEast_Text_PowerOfOurLoveWillOvercome: @ 8243A53
 
 BattleFrontier_OutsideEast_Text_FrontierNotExclusivelyForToughTrainers: @ 8243B68
 	.string "The Battle Frontier isn't exclusively\n"
-	.string "for tough TRAINERS.\p"
+	.string "for tough Trainers.\p"
 	.string "Many people with special abilities\n"
 	.string "have been invited, it seems.\p"
 	.string "That man SCOTT…\p"

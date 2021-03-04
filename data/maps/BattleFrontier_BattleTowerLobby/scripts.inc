@@ -982,7 +982,7 @@ BattleFrontier_BattleTowerLobby_Text_DidntSaveBeforeQuitting: @ 823F583
 
 BattleFrontier_BattleTowerLobby_Text_CongratsBeatenSeven: @ 823F60D
 	.string "Congratulations!\n"
-	.string "You've beaten all seven TRAINERS!\p"
+	.string "You've beaten all seven Trainers!\p"
 	.string "$"
 
 @ Unused
@@ -1021,17 +1021,17 @@ BattleFrontier_BattleTowerLobby_Text_AboutToFace50thTrainer: @ 823F79D
 	.string "You're finally about to face the\n"
 	.string "50th Trainer.\p"
 	.string "From here on, every time you beat seven\n"
-	.string "TRAINERS in a row, your Pokémon will\l"
-	.string "receive a commemorative RIBBON.\p"
+	.string "Trainers in a row, your Pokémon will\l"
+	.string "receive a commemorative Ribbon.\p"
 	.string "Good luck!$"
 
 BattleFrontier_BattleTowerLobby_Text_HereAreSomeRibbons: @ 823F844
-	.string "Here are some RIBBONS for beating\n"
+	.string "Here are some Ribbons for beating\n"
 	.string "seven tough Trainers in a row.\p"
-	.string "{PLAYER} received some RIBBONS!$"
+	.string "{PLAYER} received some Ribbons!$"
 
 BattleFrontier_BattleTowerLobby_Text_PutRibbonOnMons: @ 823F89F
-	.string "{PLAYER} put the RIBBONS on\n"
+	.string "{PLAYER} put the Ribbons on\n"
 	.string "the challenger Pokémon.$"
 
 BattleFrontier_BattleTowerLobby_Text_DescribeFeelingsAboutBattleTower: @ 823F8CD
@@ -1285,7 +1285,7 @@ BattleFrontier_BattleTowerLobby_Text_ExplainMultisChallenge: @ 8240B3E
 	.string "with two Pokémon each.\p"
 	.string "Inside the Tower is a room named\n"
 	.string "the Battle SALON where you may meet\l"
-	.string "other TRAINERS.\p"
+	.string "other Trainers.\p"
 	.string "There, you must find a Trainer to act\n"
 	.string "as your partner in MULTI BATTLES.\p"
 	.string "Once you have partnered up, you will\n"
@@ -1389,7 +1389,7 @@ BattleFrontier_BattleTowerLobby_Text_SaveGameBeforeShowingIn: @ 824144D
 BattleFrontier_BattleTowerLobby_Text_CongratsDefeatedMaiden: @ 8241486
 	.string "Congratulations!\n"
 	.string "You have defeated the Salon Maiden\l"
-	.string "and swept seven TRAINERS!$"
+	.string "and swept seven Trainers!$"
 
 BattleFrontier_BattleTowerLobby_Text_AwardYouTheseBattlePoints: @ 82414D4
 	.string "In recognition of your infinite talent,\n"
@@ -1428,7 +1428,7 @@ BattleFrontier_BattleTowerLobby_Text_ExplainSalonRules: @ 8241777
 	.string "find a partner to form a tag team for\l"
 	.string "the MULTI Battle ROOM challenge.\p"
 	.string "Choose the best partner for you by\n"
-	.string "examining other TRAINERS'\l"
+	.string "examining other Trainers'\l"
 	.string "Pokémon and their moves.\p"
 	.string "You may choose a new tag partner\n"
 	.string "after winning seven straight matches.$"

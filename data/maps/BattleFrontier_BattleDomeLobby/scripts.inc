@@ -482,7 +482,7 @@ BattleFrontier_BattleDomeLobby_Text_ExplainSinglesChallenge: @ 8249F8E
 	.string "Choose the two battling Pokémon after\n"
 	.string "examining the opponent's trio.\p"
 	.string "You win the tournament by defeating\n"
-	.string "four TRAINERS.\p"
+	.string "four Trainers.\p"
 	.string "Battle Points are awarded to\n"
 	.string "the tournament winner.\p"
 	.string "If you want to interrupt your\n"
@@ -590,7 +590,7 @@ BattleFrontier_BattleDomeLobby_Text_ExplainDoublesChallenge: @ 824A721
 	.string "Choose the two battling Pokémon after\n"
 	.string "examining the opponent's trio.\p"
 	.string "You win the tournament by defeating\n"
-	.string "four TRAINERS.\p"
+	.string "four Trainers.\p"
 	.string "Battle Points are awarded to\n"
 	.string "the tournament winner.\p"
 	.string "If you want to interrupt your\n"
@@ -682,9 +682,9 @@ BattleFrontier_BattleDomeLobby_Text_ReadWhichHeading: @ 824AE8B
 BattleFrontier_BattleDomeLobby_Text_ExplainMatchupRules: @ 824AEAE
 	.string "The tournament matchups are drawn up\n"
 	.string "based on the toughness of Pokémon\l"
-	.string "held by TRAINERS.\p"
+	.string "held by Trainers.\p"
 	.string "The matchups avoid having tough\n"
-	.string "TRAINERS face each other right away.$"
+	.string "Trainers face each other right away.$"
 
 BattleFrontier_BattleDomeLobby_Text_ExplainTourneyTree: @ 824AF4C
 	.string "The tournament chart, or as we call it,\n"
@@ -694,8 +694,8 @@ BattleFrontier_BattleDomeLobby_Text_ExplainTourneyTree: @ 824AF4C
 	.string "several kinds of data.\p"
 	.string "The data on view includes the previous\n"
 	.string "tournament's results, the Pokémon held\l"
-	.string "by TRAINERS, and the battle styles of\l"
-	.string "TRAINERS.$"
+	.string "by Trainers, and the battle styles of\l"
+	.string "Trainers.$"
 
 BattleFrontier_BattleDomeLobby_Text_ExplainDoubleKORules: @ 824B073
 	.string "If battling Pokémon faint at the same\n"

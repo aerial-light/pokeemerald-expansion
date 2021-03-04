@@ -964,7 +964,7 @@ SlateportCity_EventScript_BerryCrushRankingsSign:: @ 81DD643
 	end
 
 SlateportCity_Text_EnergyGuruSellWhatYouNeed: @ 81DD64A
-	.string "I'm the ENERGY GURU! I'll go for it and\n"
+	.string "I'm the Energy Guru! I'll go for it and\n"
 	.string "sell you what you need!$"
 
 SlateportCity_Text_OhYourPokemon: @ 81DD68A
@@ -974,13 +974,13 @@ SlateportCity_Text_OhYourPokemon: @ 81DD68A
 SlateportCity_Text_PleaseGiveItThisEffortRibbon: @ 81DD697
 	.string "Went for it stupendously!\p"
 	.string "As its reward, please give it this\n"
-	.string "EFFORT RIBBON.$"
+	.string "EFFORT Ribbon.$"
 
 SlateportCity_Text_ReceivedEffortRibbon: @ 81DD6E3
-	.string "{PLAYER} received the EFFORT RIBBON.$"
+	.string "{PLAYER} received the EFFORT Ribbon.$"
 
 SlateportCity_Text_PutEffortRibbonOnMon: @ 81DD702
-	.string "{PLAYER} put the EFFORT RIBBON\n"
+	.string "{PLAYER} put the EFFORT Ribbon\n"
 	.string "on {STR_VAR_1}.$"
 
 SlateportCity_Text_GoForItLittleHarder: @ 81DD722
@@ -990,7 +990,7 @@ SlateportCity_Text_GoForItLittleHarder: @ 81DD722
 
 SlateportCity_Text_EffortRibbonLooksGoodOnIt: @ 81DD77B
 	.string "Oh! Your {STR_VAR_1}, that EFFORT\n"
-	.string "RIBBON looks good on it!$"
+	.string "Ribbon looks good on it!$"
 
 SlateportCity_Text_WonderIfLighthouseStartlesPokemon: @ 81DD7AD
 	.string "The light of the lighthouse reaches\n"

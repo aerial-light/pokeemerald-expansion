@@ -285,7 +285,7 @@ SootopolisCity_Gym_1F_Text_GymStatue: @ 82258FA
 
 SootopolisCity_Gym_1F_Text_GymStatueCertified: @ 8225916
 	.string "Sootopolis City Pokémon GYM\p"
-	.string "Juan's CERTIFIED TRAINERS:\n"
+	.string "Juan's CERTIFIED Trainers:\n"
 	.string "{PLAYER}$"
 
 SootopolisCity_Gym_1F_Text_JuanPreRematch: @ 8225950

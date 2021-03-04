@@ -64,7 +64,7 @@ FallarborTown_MoveRelearnersHouse_EventScript_ComeBackWithHeartScale:: @ 8201452
 	end
 
 FallarborTown_MoveRelearnersHouse_Text_ImTheMoveTutor: @ 820145C
-	.string "I'm the MOVE TUTOR.\p"
+	.string "I'm the Move TUTOR.\p"
 	.string "I know all the moves that Pokémon\n"
 	.string "learn--every one of them--and I can\l"
 	.string "teach Pokémon those moves.\p"

@@ -85,9 +85,9 @@ EverGrandeCity_DrakesRoom_Text_PostBattleSpeech: @ 82288B0
 	.string "Yes, what a Trainer needs is a\n"
 	.string "virtuous heart.\p"
 	.string "Pokémon touch the good hearts of\n"
-	.string "TRAINERS and learn good from wrong.\p"
+	.string "Trainers and learn good from wrong.\p"
 	.string "They touch the good hearts of\n"
-	.string "TRAINERS and grow strong.\p"
+	.string "Trainers and grow strong.\p"
 	.string "Go! Go onwards!\n"
 	.string "The CHAMPION is waiting!$"
 

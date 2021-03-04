@@ -90,6 +90,6 @@ FallarborTown_Text_TownSign: @ 81EB4FE
 	.string "“A farm community with small gardens.”$"
 
 FallarborTown_Text_MoveTutorSign: @ 81EB534
-	.string "MOVE TUTOR's House\n"
+	.string "Move TUTOR's House\n"
 	.string "“New moves taught to Pokémon.”$"
 

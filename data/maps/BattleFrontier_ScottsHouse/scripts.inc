@@ -241,7 +241,7 @@ BattleFrontier_ScottsHouse_Text_HowMuchEffortItTookToMakeReal: @ 8263B29
 	.string "On reflection, it was a terribly long\n"
 	.string "journey…\p"
 	.string "I left home alone on a quest to find\n"
-	.string "strong TRAINERS.\p"
+	.string "strong Trainers.\p"
 	.string "No one can imagine how much effort\n"
 	.string "or time it took to make this real.$"
 
@@ -279,7 +279,7 @@ BattleFrontier_ScottsHouse_Text_WhyIGoSeekingTrainers: @ 8263DDD
 	.string "I love the purity of battle,\n"
 	.string "where everyone is equal.\p"
 	.string "That's why I go everywhere seeking\n"
-	.string "TRAINERS who are serious about\l"
+	.string "Trainers who are serious about\l"
 	.string "battling, and invite them here.$"
 
 BattleFrontier_ScottsHouse_Text_HaveYouMetFrontierBrain: @ 8263F12

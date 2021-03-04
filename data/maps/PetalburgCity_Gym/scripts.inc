@@ -1420,7 +1420,7 @@ PetalburgCity_Gym_Text_GymGuideAdvice: @ 8206542
 	.string "Hey, how's it going, CHAMPION-\n"
 	.string "bound {PLAYER}?\p"
 	.string "The doors in this Gym open when you\n"
-	.string "beat the awaiting TRAINERS.\p"
+	.string "beat the awaiting Trainers.\p"
 	.string "Whoops! The doors in this room are\n"
 	.string "already open, so don't attack me!\p"
 	.string "The Trainers of Petalburg GYM\n"
@@ -1539,7 +1539,7 @@ PetalburgCity_Gym_Text_MaryDefeat: @ 8206E0D
 
 PetalburgCity_Gym_Text_MaryPostBattle: @ 8206E26
 	.string "There are some even stronger\n"
-	.string "TRAINERS waiting for you.\p"
+	.string "Trainers waiting for you.\p"
 	.string "The left is the Defense Room, and\n"
 	.string "the right is the RECOVERY Room.\p"
 	.string "Your Pokémon's Attack power will be\n"
@@ -1547,7 +1547,7 @@ PetalburgCity_Gym_Text_MaryPostBattle: @ 8206E26
 
 PetalburgCity_Gym_Text_MaryPostBadge: @ 8206ED8
 	.string "Do you know what we're trying to\n"
-	.string "achieve as TRAINERS?\p"
+	.string "achieve as Trainers?\p"
 	.string "We're striving to become soul mates\n"
 	.string "with our Pokémon.$"
 
@@ -1641,7 +1641,7 @@ PetalburgCity_Gym_Text_GymStatue: @ 820744C
 
 PetalburgCity_Gym_Text_GymStatueCertified: @ 8207467
 	.string "Petalburg City Pokémon GYM\p"
-	.string "Norman's CERTIFIED TRAINERS:\n"
+	.string "Norman's CERTIFIED Trainers:\n"
 	.string "{PLAYER}$"
 
 PetalburgCity_Gym_Text_NormanPreRematch: @ 82074A2

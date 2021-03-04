@@ -732,7 +732,7 @@ Route111_Text_ClawFossilDisappeared: @ 81F1C74
 	.string "the sand…$"
 
 Route111_Text_RootFossilDisappeared: @ 81F1C9F
-	.string "The ROOT FOSSIL disappeared into\n"
+	.string "The Root FOSSIL disappeared into\n"
 	.string "the sand…$"
 
 Route111_Text_MauvilleUncleToldMeToTakeRockSmash: @ 81F1CCA
@@ -746,5 +746,5 @@ Route111_Text_MauvilleUncleToldMeToTakeRockSmash: @ 81F1CCA
 Route111_Text_TrainerHillSign: @ 81F1D61
 	.string "{RIGHT_ARROW} Trainer Hill ENTRANCE\p"
 	.string "“Scale the heights, you hot-blooded\n"
-	.string "TRAINERS!”$"
+	.string "Trainers!”$"
 

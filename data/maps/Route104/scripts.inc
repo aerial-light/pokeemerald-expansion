@@ -1038,7 +1038,7 @@ Route104_Text_ThrowBallAtWeakenedPokemon: @ 81ED6A2
 Route104_Text_OnlyThrowBallAtWildPokemon: @ 81ED735
 	.string "You're a thief if you try to steal\n"
 	.string "someone else's Pokémon.\p"
-	.string "You should throw POKé BALLS only at\n"
+	.string "You should throw Poké Balls only at\n"
 	.string "wild Pokémon.$"
 
 Route104_Text_ImNotATrainer: @ 81ED7A2
@@ -1067,7 +1067,7 @@ Route104_Text_DontNeedThisTakeIt: @ 81ED96A
 	.string "saplings recently.\p"
 	.string "It made me so happy, I went overboard\n"
 	.string "shopping.\p"
-	.string "I don't need this WHITE HERB anymore.\n"
+	.string "I don't need this WHITE Herb anymore.\n"
 	.string "Would you take it, please?$"
 
 Route104_Text_FlowerShopSellingSaplings: @ 81EDA0F

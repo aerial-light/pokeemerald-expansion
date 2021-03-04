@@ -43,7 +43,7 @@ LavaridgeTown_HerbShop_EventScript_ExplainCharcoal:: @ 81FE534
 	end
 
 LavaridgeTown_HerbShop_Text_WelcomeToHerbShop: @ 81FE53E
-	.string "Welcome to the HERB SHOP, home of\n"
+	.string "Welcome to the Herb SHOP, home of\n"
 	.string "effective and inexpensive medicine!$"
 
 LavaridgeTown_HerbShop_Text_YouveComeToLookAtHerbalMedicine: @ 81FE584

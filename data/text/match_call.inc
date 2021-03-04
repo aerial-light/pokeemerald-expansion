@@ -2286,7 +2286,7 @@ MatchCall_Text_Drake:: @ 82B368B
 	.string "I understand that there is now\n"
 	.string "a facility called the Battle\l"
 	.string "Frontier that tests the skills of\l"
-	.string "TRAINERS.\p"
+	.string "Trainers.\p"
 	.string "However, if you wish to have real\n"
 	.string "battles, there is no substitute for\l"
 	.string "the Pokémon League!\p"
@@ -2647,13 +2647,13 @@ MatchCall_Text_Scott1:: @ 2B5184
 	.string "Like in the mountains, in the sea,\n"
 	.string "in tall grass anywhere?\p"
 	.string "Just like Pokémon, you can find\n"
-	.string "TRAINERS everywhere, too.\p"
+	.string "Trainers everywhere, too.\p"
 	.string "As a result, I have to hurry\n"
 	.string "everywhere, too. Busy, busy!$"
 
 MatchCall_Text_Scott2:: @ 2B5275
 	.string "SCOTT: I'm on ROUTE 119 right now.\n"
-	.string "It's teeming with TRAINERS!\p"
+	.string "It's teeming with Trainers!\p"
 	.string "It's also overgrown with tall grass\n"
 	.string "everywhere, it seems.\p"
 	.string "Walking around in shorts here\n"
@@ -2787,7 +2787,7 @@ MatchCall_Text_Steven1:: @ 82B5B95
 MatchCall_Text_Steven2:: @ 82B5C53
 	.string "Steven: Hi, {PLAYER}{KUN}!\p"
 	.string "I've met a lot of different\n"
-	.string "TRAINERS so far.\p"
+	.string "Trainers so far.\p"
 	.string "But you're one of a kind.\n"
 	.string "You're not like anyone else.$"
 

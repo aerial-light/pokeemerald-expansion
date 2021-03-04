@@ -153,7 +153,7 @@ gText_Rage:: @ 827D473
 	.string "RAGE$"
 
 gText_FocusEnergy:: @ 827D478
-	.string "FOCUS ENERGY$"
+	.string "FOCUS Energy$"
 
 gText_Hypnosis:: @ 827D485
 	.string "HYPNOSIS$"

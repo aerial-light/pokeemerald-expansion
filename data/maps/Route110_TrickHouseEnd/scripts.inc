@@ -330,7 +330,7 @@ Route110_TrickHouseEnd_Text_DefeatedMePreferWhichTent: @ 826B485
 	.string "that is myself, I demand that you take\l"
 	.string "this keepsake!\p"
 	.string "Actually there are two--\n"
-	.string "a RED TENT and a BLUE TENT.\l"
+	.string "a Red TENT and a BLUE TENT.\l"
 	.string "Which do you prefer?$"
 
 Route110_TrickHouseEnd_Text_NoRoomInPC: @ 826B615

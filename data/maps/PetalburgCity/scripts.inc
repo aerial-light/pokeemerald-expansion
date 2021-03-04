@@ -779,5 +779,5 @@ PetalburgCity_Text_WellMaybeNot: @ 81DCB82
 
 PetalburgCity_Text_ImLookingForTalentedTrainers: @ 81DCC09
 	.string "I'm roaming the land in search of\n"
-	.string "talented TRAINERS.\p"
+	.string "talented Trainers.\p"
 	.string "I'm sorry to have taken your time.$"

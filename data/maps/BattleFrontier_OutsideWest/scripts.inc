@@ -333,7 +333,7 @@ BattleFrontier_OutsideWest_Text_BattlePikeSign: @ 823D772
 
 BattleFrontier_OutsideWest_Text_ThisIsBattleTower: @ 823D7A6
 	.string "This is the Battle Tower.\p"
-	.string "TRAINERS bring their best-raised\n"
+	.string "Trainers bring their best-raised\n"
 	.string "Pokémon for elimination-style matches.$"
 
 BattleFrontier_OutsideWest_Text_MayISeeYourTicket: @ 823D808
@@ -517,7 +517,7 @@ BattleFrontier_OutsideWest_Text_DomeAceIsMine: @ 823E37E
 BattleFrontier_OutsideWest_Text_FansOverThereUsedToBeTrainers: @ 823E410
 	.string "Those people squabbling over there…\p"
 	.string "It's hard to believe, but they once\n"
-	.string "were TRAINERS, and good ones, too.\p"
+	.string "were Trainers, and good ones, too.\p"
 	.string "They used to be incredibly tough,\n"
 	.string "and they were famous, too.\p"
 	.string "But they were obliterated by this\n"

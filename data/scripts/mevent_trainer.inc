@@ -27,7 +27,7 @@ sText_MysteryGiftVisitingTrainerInstructions:
 	.string "may take part in a survey at a\l"
 	.string "Pokémon Mart.\p"
 	.string "Use these surveys to invite\n"
-	.string "TRAINERS to Sootopolis City.\p"
+	.string "Trainers to Sootopolis City.\p"
 	.string "…Let me give you a secret\n"
 	.string "password for a survey:\p"
 	.string "“GIVE ME\n"

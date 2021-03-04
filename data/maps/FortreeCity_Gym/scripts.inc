@@ -176,7 +176,7 @@ FortreeCity_Gym_Text_EdwardoDefeat: @ 82169C7
 
 FortreeCity_Gym_Text_EdwardoPostBattle: @ 82169F1
 	.string "The world is huge, and there are\n"
-	.string "countless tough TRAINERS.\p"
+	.string "countless tough Trainers.\p"
 	.string "I'm going to keep training and make\n"
 	.string "myself even stronger.$"
 
@@ -282,7 +282,7 @@ FortreeCity_Gym_Text_GymStatue: @ 82170AE
 
 FortreeCity_Gym_Text_GymStatueCertified: @ 82170C7
 	.string "Fortree City Pokémon GYM\p"
-	.string "Winona's CERTIFIED TRAINERS:\n"
+	.string "Winona's CERTIFIED Trainers:\n"
 	.string "{PLAYER}$"
 
 FortreeCity_Gym_Text_WinonaPreRematch: @ 8217100

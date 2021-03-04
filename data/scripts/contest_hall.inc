@@ -1513,7 +1513,7 @@ LilycoveCity_ContestLobby_Text_WhichTopic1: @ 827AF5E
 
 LilycoveCity_ContestLobby_Text_ExplainContests: @ 827AF7A
 	.string "A Pokémon Contest involves four\n"
-	.string "TRAINERS entering one Pokémon each\l"
+	.string "Trainers entering one Pokémon each\l"
 	.string "in competitive judging.\p"
 	.string "A Contest has two stages of judging,\n"
 	.string "primary and secondary.\p"
@@ -1578,7 +1578,7 @@ LilycoveCity_ContestLobby_Text_MonInNoConditionForContest: @ 827B501
 	.string "condition to take part in a Contest…$"
 
 LilycoveCity_ContestLobby_Text_AlreadyWonEnterAnyway: @ 827B547
-	.string "Oh, but that RIBBON…\p"
+	.string "Oh, but that Ribbon…\p"
 	.string "Your Pokémon has won this Contest\n"
 	.string "before, hasn't it?\p"
 	.string "Would you like to enter it in this\n"
@@ -1680,11 +1680,11 @@ ContestHall_Text_AcceptYourPrize: @ 827BBA8
 	.string "Please accept your prize!$"
 
 ContestHall_Text_ConferRibbonAsPrize: @ 827BBD4
-	.string "We confer on you this RIBBON\n"
+	.string "We confer on you this Ribbon\n"
 	.string "as your prize!$"
 
 ContestHall_Text_ReceivedRibbon: @ 827BC00
-	.string "{PLAYER} received a RIBBON.$"
+	.string "{PLAYER} received a Ribbon.$"
 
 ContestHall_Text_PutRibbonOnMon: @ 827BC16
 	.string "{PLAYER} put the Ribbon on\n"
@@ -1842,7 +1842,7 @@ LilycoveCity_ContestLobby_Text_ExplainEMode: @ 827C5B1
 	.string "other using Wireless Adapters or\l"
 	.string "GBA Game Link cables.\p"
 	.string "If there are fewer than four players,\n"
-	.string "TRAINERS in the hall will join to fill\l"
+	.string "Trainers in the hall will join to fill\l"
 	.string "the 4-player Contest lineup.\p"
 	.string "Please be aware that E-MODE is not\n"
 	.string "available in Pokémon Ruby or Sapphire.$"
