@@ -114,7 +114,7 @@ SootopolisCity_LotadAndSeedotHouse_EventScript_LotadSizeRecord:: @ 822735B
 	end
 
 SootopolisCity_LotadAndSeedotHouse_Text_PleaseShowMeBigSeedot: @ 8227369
-	.string "Do you know the POKéMON SEEDOT?\n"
+	.string "Do you know the Pokémon SEEDOT?\n"
 	.string "It's hardly ever seen in SOOTOPOLIS.\p"
 	.string "Anyway, I love big SEEDOT.\n"
 	.string "The bigger the better.\p"
@@ -139,7 +139,7 @@ SootopolisCity_LotadAndSeedotHouse_Text_ReceivedPotion1: @ 822750E
 
 SootopolisCity_LotadAndSeedotHouse_Text_BagCrammedFull1: @ 8227524
 	.string "Hunh?\n"
-	.string "Your BAG is crammed full.$"
+	.string "Your Bag is crammed full.$"
 
 SootopolisCity_LotadAndSeedotHouse_Text_SeenBiggerSeedot: @ 8227544
 	.string "{STR_VAR_2} inches, is it?\p"
@@ -163,7 +163,7 @@ SootopolisCity_LotadAndSeedotHouse_Text_BiggestSeedotInHistory: @ 8227617
 	.string "always wanted!$"
 
 SootopolisCity_LotadAndSeedotHouse_Text_PleaseShowMeBigLotad: @ 8227676
-	.string "Do you know the POKéMON LOTAD?\n"
+	.string "Do you know the Pokémon LOTAD?\n"
 	.string "It's rarely seen in SOOTOPOLIS.\p"
 	.string "I love, I mean love, big LOTAD!\p"
 	.string "My big brother says that SEEDOT is\n"
@@ -187,7 +187,7 @@ SootopolisCity_LotadAndSeedotHouse_Text_ReceivedPotion2: @ 82277F4
 
 SootopolisCity_LotadAndSeedotHouse_Text_BagCrammedFull2: @ 822780A
 	.string "Hunh?\n"
-	.string "Your BAG is crammed full.$"
+	.string "Your Bag is crammed full.$"
 
 SootopolisCity_LotadAndSeedotHouse_Text_SeenBiggerLotad: @ 822782A
 	.string "{STR_VAR_2} inches?\p"

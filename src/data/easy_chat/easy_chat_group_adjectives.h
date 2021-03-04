@@ -1,6 +1,6 @@
 const u8 gEasyChatWord_Wandering[] = _("WANDERING");
 const u8 gEasyChatWord_Rickety[] = _("RICKETY");
-const u8 gEasyChatWord_RockSolid[] = _("ROCK-SOLID");
+const u8 gEasyChatWord_RockSolid[] = _("Rock-SOLID");
 const u8 gEasyChatWord_Hungry[] = _("HUNGRY");
 const u8 gEasyChatWord_Tight[] = _("TIGHT");
 const u8 gEasyChatWord_Ticklish[] = _("TICKLISH");

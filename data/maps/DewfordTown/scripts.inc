@@ -654,32 +654,32 @@ DewfordTown_Text_TinyIslandCommunity: @ 81E99A8
 	.string "everyone picks up on it right away.$"
 
 DewfordTown_Text_TownSign: @ 81E9A0F
-	.string "DEWFORD TOWN\n"
+	.string "Dewford Town\n"
 	.string "“A tiny island in the blue sea.”$"
 
 DewfordTown_Text_GymSign: @ 81E9A3D
-	.string "DEWFORD TOWN POKéMON GYM\n"
-	.string "LEADER: BRAWLY\l"
+	.string "Dewford Town Pokémon GYM\n"
+	.string "Leader: Brawly\l"
 	.string "“A big wave in fighting!”$"
 
 DewfordTown_Text_HallSign: @ 81E9A7F
-	.string "DEWFORD HALL\n"
+	.string "DEWFORD Hall\n"
 	.string "“Everyone's information exchange!”$"
 
 Route104_Text_LandedInDewfordDeliverLetter: @ 81E9AAF
 	.string "MR. BRINEY: Ahoy!\n"
 	.string "We've hit land in DEWFORD.\p"
 	.string "I suppose you're off to deliver that\n"
-	.string "LETTER to, who was it now, STEVEN!$"
+	.string "LETTER to, who was it now, Steven!$"
 
 DewfordTown_Text_SetSailBackToPetalburg: @ 81E9B24
 	.string "MR. BRINEY: Have you delivered your\n"
 	.string "LETTER?\p"
 	.string "Or were you meaning to sail back to\n"
-	.string "PETALBURG?$"
+	.string "Petalburg?$"
 
 DewfordTown_Text_PetalburgWereSettingSail2: @ 81E9B7F
-	.string "MR. BRINEY: PETALBURG it is, then!\p"
+	.string "MR. BRINEY: Petalburg it is, then!\p"
 	.string "Anchors aweigh!\n"
 	.string "PEEKO, we're setting sail, my darling!$"
 
@@ -699,7 +699,7 @@ DewfordTown_Text_WhereAreWeBound: @ 81E9C8A
 	.string "Now, my friend, where are we bound?$"
 
 DewfordTown_Text_PetalburgWereSettingSail: @ 81E9CE5
-	.string "MR. BRINEY: PETALBURG, is it?\p"
+	.string "MR. BRINEY: Petalburg, is it?\p"
 	.string "Anchors aweigh!\n"
 	.string "PEEKO, we're setting sail, my darling!$"
 

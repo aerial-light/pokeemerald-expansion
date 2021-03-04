@@ -1314,7 +1314,7 @@ static void TradeMenuMoveCursor(u8 *cursorPosition, u8 direction)
 {
     u8 newPosition = GetNewTradeMenuPosition(*cursorPosition, direction);
 
-    if (newPosition == (PARTY_SIZE * 2)) // CANCEL
+    if (newPosition == (PARTY_SIZE * 2)) // Cancel
     {
         StartSpriteAnim(&gSprites[sTradeMenuData->cursorSpriteIdx], 1);
         gSprites[sTradeMenuData->cursorSpriteIdx].pos1.x = 224;

@@ -131,7 +131,7 @@ AquaHideout_B2F_Text_Grunt4PostBattle: @ 8234112
 	.string "Is this good enough?$"
 
 AquaHideout_B2F_Text_Grunt6Intro: @ 823412D
-	.string "Warp panels, the HIDEOUT's pride\n"
+	.string "Warp panels, the Hideout's pride\n"
 	.string "and joy!\p"
 	.string "You're clueless about where you are,\n"
 	.string "aren't you?\p"
@@ -149,7 +149,7 @@ AquaHideout_B2F_Text_Grunt6PostBattle: @ 82341FE
 	.string "chew me out…$"
 
 AquaHideout_B2F_Text_Grunt8Intro: @ 823426F
-	.string "When I joined TEAM AQUA, the first\n"
+	.string "When I joined Team Aqua, the first\n"
 	.string "thing I had to learn was how these\l"
 	.string "warp panels connected.$"
 

@@ -39,7 +39,7 @@ PacifidlogTown_Text_NeatHousesOnWater: @ 81EBB6C
 	.string "I was born here!$"
 
 PacifidlogTown_Text_SkyPillarTooScary: @ 81EBBAC
-	.string "The SKY PILLAR?\p"
+	.string "The Sky Pillar?\p"
 	.string "…Oh, you must mean that tall, tall\n"
 	.string "tower a little further out.\p"
 	.string "If you asked me, I wouldn't climb it.\n"
@@ -48,7 +48,7 @@ PacifidlogTown_Text_SkyPillarTooScary: @ 81EBBAC
 	.string "that suits me fine.$"
 
 PacifidlogTown_Text_TownSign: @ 81EBC7A
-	.string "PACIFIDLOG TOWN\p"
+	.string "Pacifidlog Town\p"
 	.string "“Where the morning sun smiles upon\n"
 	.string "the waters.”$"
 

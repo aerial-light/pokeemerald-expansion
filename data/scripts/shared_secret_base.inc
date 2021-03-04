@@ -221,4 +221,4 @@ SecretBase_Text_DiscoveredSmallCavern:: @ 823B73E
     .string "Discovered a small cavern!$"
 
 SecretBase_Text_WantToMakeYourSecretBaseHere: @ 823B759
-    .string "Want to make your SECRET BASE here?$"
+    .string "Want to make your Secret Base here?$"

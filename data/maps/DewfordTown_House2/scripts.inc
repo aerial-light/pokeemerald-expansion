@@ -44,15 +44,15 @@ DewfordTown_House2_Text_NoRoom: @ 81FE356
 
 DewfordTown_House2_Text_ExplainSilkScarf: @ 81FE3D1
 	.string "The SILK SCARF raises the power of\n"
-	.string "NORMAL-type moves.\p"
+	.string "Normal-type moves.\p"
 	.string "It's a marvelous SCARF that will go\n"
-	.string "with almost all POKéMON!$"
+	.string "with almost all Pokémon!$"
 
 DewfordTown_House2_Text_BrawlySoCool: @ 81FE444
 	.string "Wow, you bothered to cross the sea\n"
 	.string "to visit DEWFORD?\p"
 	.string "Did you maybe come here because you\n"
-	.string "heard about BRAWLY?\p"
+	.string "heard about Brawly?\p"
 	.string "He's so cool…\n"
 	.string "Everyone idolizes him.$"
 

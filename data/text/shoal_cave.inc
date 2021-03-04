@@ -27,7 +27,7 @@ ShoalCave_LowTideEntranceRoom_Text_MakeShellBellRightAway: @ 82A7FAC
 	.string "There! Done!$"
 
 ShoalCave_LowTideEntranceRoom_Text_ExplainShellBell: @ 82A8012
-	.string "Have a POKéMON hold on to that.\n"
+	.string "Have a Pokémon hold on to that.\n"
 	.string "It'll love it, that's for certain.\p"
 	.string "Why, the SHELL BELL's chime…\n"
 	.string "It's simply sublime!\p"
@@ -39,7 +39,7 @@ ShoalCave_LowTideEntranceRoom_Text_WantedToMakeShellBell: @ 82A80C6
 	.string "I wanted to make a SHELL BELL…$"
 
 ShoalCave_LowTideEntranceRoom_Text_NoSpaceInYourBag: @ 82A80F5
-	.string "You don't have space in your BAG\n"
+	.string "You don't have space in your Bag\n"
 	.string "if I were to make it for you.\p"
 	.string "You should make room and come back\n"
 	.string "for a SHELL BELL.$"

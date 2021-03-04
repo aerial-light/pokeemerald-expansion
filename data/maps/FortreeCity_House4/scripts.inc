@@ -66,14 +66,14 @@ FortreeCity_House4_EventScript_Wingull:: @ 8217D20
 	end
 
 FortreeCity_House4_Text_BringsWorldCloserTogether: @ 8217D33
-	.string "By being together with POKéMON,\n"
+	.string "By being together with Pokémon,\n"
 	.string "people make more and more friends.\p"
 	.string "And that brings the world closer\n"
 	.string "together. I think it's wonderful!$"
 
 FortreeCity_House4_Text_GoBirdPokemon: @ 8217DB9
 	.string "There!\n"
-	.string "Go, BIRD POKéMON!$"
+	.string "Go, Bird Pokémon!$"
 
 FortreeCity_House4_Text_AskedWingullToRunErrand: @ 8217DD2
 	.string "Heheh, I asked my WINGULL to run\n"
@@ -86,7 +86,7 @@ FortreeCity_House4_Text_WelcomeWingullTakeMentalHerb: @ 8217E05
 	.string "What is it holding?\p"
 	.string "A MENTAL HERB?\n"
 	.string "It must have picked it up somewhere.\p"
-	.string "But I'm not a TRAINER, so you can\n"
+	.string "But I'm not a Trainer, so you can\n"
 	.string "have it.$"
 
 FortreeCity_House4_Text_FriendsFarAwayThanksToWingull: @ 8217EA8

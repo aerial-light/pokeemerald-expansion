@@ -157,7 +157,7 @@ MossdeepCity_StevensHouse_EventScript_DiveItemBall:: @ 8222926
 	end
 
 MossdeepCity_StevensHouse_Text_YouveEarnedHMDive: @ 8222936
-	.string "STEVEN: {PLAYER}{KUN}…\p"
+	.string "Steven: {PLAYER}{KUN}…\p"
 	.string "As you can see, there's not much here,\n"
 	.string "but this is my home.\p"
 	.string "Thank you for all that you've done.\p"
@@ -167,7 +167,7 @@ MossdeepCity_StevensHouse_Text_YouveEarnedHMDive: @ 8222936
 	.string "this HM.$"
 
 MossdeepCity_StevensHouse_Text_ExplainDive: @ 8222A0E
-	.string "STEVEN: While you're using SURF, you\n"
+	.string "Steven: While you're using SURF, you\n"
 	.string "should notice dark patches of water.\p"
 	.string "Use DIVE if you come to deep water\n"
 	.string "like it. You'll drop to the seafloor.\p"
@@ -177,7 +177,7 @@ MossdeepCity_StevensHouse_Text_ExplainDive: @ 8222A0E
 	.string "for you to surface, though.$"
 
 MossdeepCity_StevensHouse_Text_UnderwateCavernBetweenMossdeepSootopolis: @ 8222B11
-	.string "STEVEN: Apparently, there's an\n"
+	.string "Steven: Apparently, there's an\n"
 	.string "underwater cavern between\l"
 	.string "MOSSDEEP and SOOTOPOLIS.\p"
 	.string "You know, the one that CAPT. STERN\n"
@@ -185,7 +185,7 @@ MossdeepCity_StevensHouse_Text_UnderwateCavernBetweenMossdeepSootopolis: @ 8222B
 
 MossdeepCity_StevensHouse_Text_TakeBallContainingBeldum: @ 8222B9E
 	.string "{PLAYER} checked the POKé BALL.\p"
-	.string "It contained the POKéMON\n"
+	.string "It contained the Pokémon\n"
 	.string "BELDUM.\p"
 	.string "Take the POKé BALL?$"
 
@@ -194,7 +194,7 @@ MossdeepCity_StevensHouse_Text_ObtainedBeldum: @ 8222BED
 
 @ Unused
 MossdeepCity_StevensHouse_Text_NoSpaceForAnotherMon: @ 8222C03
-	.string "There is no space for another POKéMON.$"
+	.string "There is no space for another Pokémon.$"
 
 MossdeepCity_StevensHouse_Text_LeftPokeBallWhereItWas: @ 8222C2A
 	.string "{PLAYER} left the POKé BALL where\n"
@@ -212,12 +212,12 @@ MossdeepCity_StevensHouse_Text_LetterFromSteven: @ 8222C4E
 	.string "I want you to take the POKé BALL on\n"
 	.string "the desk.\p"
 	.string "Inside it is a BELDUM, my favorite\n"
-	.string "POKéMON.\p"
+	.string "Pokémon.\p"
 	.string "I'm counting on you.\p"
 	.string "May our paths cross someday.\p"
-	.string "STEVEN STONE$"
+	.string "Steven Stone$"
 
 MossdeepCity_StevensHouse_Text_CollectionOfRareRocks: @ 8222D97
 	.string "It's a collection of rare rocks and\n"
-	.string "stones assembled by STEVEN.$"
+	.string "stones assembled by Steven.$"
 

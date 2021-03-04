@@ -68,8 +68,8 @@ SSTidalRooms_Text_TakeRestOnBed: @ 823CAF2
 	.string "Let's take a rest.$"
 
 SSTidalRooms_Text_ColtonIntro: @ 823CB14
-	.string "I often sail to LILYCOVE CITY.\p"
-	.string "I enjoy attending CONTESTS,\n"
+	.string "I often sail to Lilycove City.\p"
+	.string "I enjoy attending Contests,\n"
 	.string "you see.$"
 
 SSTidalRooms_Text_ColtonDefeat: @ 823CB58
@@ -77,8 +77,8 @@ SSTidalRooms_Text_ColtonDefeat: @ 823CB58
 
 SSTidalRooms_Text_ColtonPostBattle: @ 823CB75
 	.string "I get so excited imagining what kinds\n"
-	.string "of POKéMON I'll get to see in the next\l"
-	.string "CONTEST. The anticipation of it thrills!$"
+	.string "of Pokémon I'll get to see in the next\l"
+	.string "Contest. The anticipation of it thrills!$"
 
 SSTidalRooms_Text_MicahIntro: @ 823CBEB
 	.string "Are your friends strong?$"
@@ -88,7 +88,7 @@ SSTidalRooms_Text_MicahDefeat: @ 823CC04
 
 SSTidalRooms_Text_MicahPostBattle: @ 823CC26
 	.string "Friends need not be human.\n"
-	.string "For me, POKéMON are treasured friends!$"
+	.string "For me, Pokémon are treasured friends!$"
 
 SSTidalRooms_Text_ThomasIntro: @ 823CC68
 	.string "Child…\n"
@@ -112,10 +112,10 @@ SSTidalRooms_Text_JedDefeat: @ 823CD54
 SSTidalRooms_Text_JedPostBattle: @ 823CD5F
 	.string "JED: It's the first time that our lovey-\n"
 	.string "dovey power couldn't prevail!\l"
-	.string "You must be an awesome TRAINER!$"
+	.string "You must be an awesome Trainer!$"
 
 SSTidalRooms_Text_JedNotEnoughMons: @ 823CDC6
-	.string "JED: You only have one POKéMON?\n"
+	.string "JED: You only have one Pokémon?\n"
 	.string "Isn't that just too lonesome?$"
 
 SSTidalRooms_Text_LeaIntro: @ 823CE04
@@ -128,11 +128,11 @@ SSTidalRooms_Text_LeaDefeat: @ 823CE4B
 SSTidalRooms_Text_LeaPostBattle: @ 823CE59
 	.string "LEA: I can't believe it!\n"
 	.string "Our lovey-dovey power failed…\l"
-	.string "You must be an awesome TRAINER!$"
+	.string "You must be an awesome Trainer!$"
 
 SSTidalRooms_Text_LeaNotEnoughMons: @ 823CEB0
 	.string "LEA: I wanted to battle…\n"
-	.string "But you don't even have two POKéMON…$"
+	.string "But you don't even have two Pokémon…$"
 
 SSTidalRooms_Text_GarretIntro: @ 823CEEE
 	.string "Ah, you've come just in time.\p"
@@ -145,10 +145,10 @@ SSTidalRooms_Text_GarretDefeat: @ 823CF36
 SSTidalRooms_Text_GarretPostBattle: @ 823CF45
 	.string "Perhaps I shall get Father to acquire\n"
 	.string "a yacht for me.\l"
-	.string "A yacht for me and POKéMON!$"
+	.string "A yacht for me and Pokémon!$"
 
 SSTidalRooms_Text_NaomiIntro: @ 823CF97
-	.string "Oh, you're such an adorable TRAINER.\n"
+	.string "Oh, you're such an adorable Trainer.\n"
 	.string "Would you like to have tea?\l"
 	.string "Or would you rather battle?$"
 

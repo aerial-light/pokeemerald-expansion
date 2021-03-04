@@ -273,7 +273,7 @@ BattleFrontier_BattleFactoryBattleRoom_Text_GetAMoveOn: @ 825B1E2
 BattleFrontier_BattleFactoryBattleRoom_Text_NolandImFactoryHead: @ 825B1FB
 	.string "Hey, my name's NOLAND!\n"
 	.string "I'm basically in charge of this place,\l"
-	.string "which is why I'm the FACTORY HEAD!\p"
+	.string "which is why I'm the Factory Head!\p"
 	.string "I had a look at your Battle Swap data.\p"
 	.string "You seem to have the right idea,\n"
 	.string "but you're still square in your head!\p"
@@ -285,7 +285,7 @@ BattleFrontier_BattleFactoryBattleRoom_Text_NolandImFactoryHead: @ 825B1FB
 	.string "your heart and your body, understand?\p"
 	.string "I'll take you on under the same\n"
 	.string "conditions as you.\p"
-	.string "I'll be using rental POKéMON, too!$"
+	.string "I'll be using rental Pokémon, too!$"
 
 BattleFrontier_BattleFactoryBattleRoom_Text_ShakeOutKnowledgeBringItOn: @ 825B3F1
 	.string "Shake out every last bit of your\n"
@@ -293,11 +293,11 @@ BattleFrontier_BattleFactoryBattleRoom_Text_ShakeOutKnowledgeBringItOn: @ 825B3F
 
 BattleFrontier_BattleFactoryBattleRoom_Text_NolandLetsSeeFrontierPass: @ 825B42D
 	.string "NOLAND: Smart going!\n"
-	.string "Let's see your FRONTIER PASS.$"
+	.string "Let's see your Frontier Pass.$"
 
 BattleFrontier_BattleFactoryBattleRoom_Text_ReceivedKnowledgeSymbol: @ 825B460
 	.string "The Knowledge Symbol was embossed\n"
-	.string "on the FRONTIER PASS!$"
+	.string "on the Frontier Pass!$"
 
 BattleFrontier_BattleFactoryBattleRoom_Text_NextTimeNoHoldsBarred: @ 825B498
 	.string "Heh…\n"
@@ -323,7 +323,7 @@ BattleFrontier_BattleFactoryBattleRoom_Text_OutOfMyLeagueLetsSeePass: @ 825B5E7
 	.string "NOLAND: What the…\n"
 	.string "You're getting out of my league!\p"
 	.string "Sheesh!\n"
-	.string "Let's see that FRONTIER PASS!$"
+	.string "Let's see that Frontier Pass!$"
 
 BattleFrontier_BattleFactoryBattleRoom_Text_KnowledgeSymbolTookGoldenShine: @ 825B640
 	.string "The Knowledge Symbol took on\n"

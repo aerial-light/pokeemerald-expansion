@@ -444,7 +444,7 @@ RusturfTunnel_Text_Peeko: @ 822D1F7
 
 RusturfTunnel_Text_GruntIntro: @ 822D20A
 	.string "Grah, keelhaul it all!\p"
-	.string "That hostage POKéMON turned out to\n"
+	.string "That hostage Pokémon turned out to\n"
 	.string "be worthless!\p"
 	.string "And to think I made a getaway…\n"
 	.string "In this tunnel to nowhere!\p"
@@ -479,7 +479,7 @@ RusturfTunnel_Text_ThankYouLetsGoHomePeeko: @ 822D3BA
 	.string "Now, if there's anything that troubles\n"
 	.string "you, don't hesitate to tell me!\p"
 	.string "You can usually find me in my cottage\n"
-	.string "by the sea near PETALBURG WOODS.\p"
+	.string "by the sea near Petalburg Woods.\p"
 	.string "Come, PEEKO, we should make our way\n"
 	.string "home.\p"
 	.string "PEEKO: Pihyoh!$"
@@ -488,16 +488,16 @@ RusturfTunnel_Text_WhyCantTheyKeepDigging: @ 822D510
 	.string "… …\p"
 	.string "Why can't they keep digging?\n"
 	.string "Is the bedrock too hard?\p"
-	.string "My beloved awaits me in VERDANTURF\n"
+	.string "My beloved awaits me in Verdanturf\n"
 	.string "TOWN just beyond here…\p"
-	.string "If RUSTBORO and VERDANTURF were\n"
+	.string "If RUSTBORO and Verdanturf were\n"
 	.string "joined by this tunnel, I could visit\l"
 	.string "her every day…\p"
 	.string "But this…\n"
 	.string "What am I to do?$"
 
 RusturfTunnel_Text_ToGetToVerdanturf: @ 822D5F3
-	.string "To get from RUSTBORO to VERDANTURF,\n"
+	.string "To get from RUSTBORO to Verdanturf,\n"
 	.string "you need to go to DEWFORD, then pass\l"
 	.string "through SLATEPORT and MAUVILLE…$"
 
@@ -509,14 +509,14 @@ RusturfTunnel_Text_YouShatteredBoulderTakeHM: @ 822D65C
 
 RusturfTunnel_Text_ExplainStrength: @ 822D6D2
 	.string "That HM contains STRENGTH.\p"
-	.string "If a muscular POKéMON were to learn\n"
+	.string "If a muscular Pokémon were to learn\n"
 	.string "that, it would be able to move even\l"
 	.string "large boulders.$"
 
 RusturfTunnel_Text_WandaReunion: @ 822D745
-	.string "WANDA!\n"
+	.string "Wanda!\n"
 	.string "Now I can see you anytime!\p"
-	.string "WANDA: That's…wonderful.\p"
+	.string "Wanda: That's…wonderful.\p"
 	.string "Please, take some rest at my home.$"
 
 RusturfTunnel_Text_BoyfriendOnOtherSideOfRock: @ 822D7A3
@@ -530,15 +530,15 @@ RusturfTunnel_Text_BoyfriendOnOtherSideOfRock: @ 822D7A3
 RusturfTunnel_Text_MikeIntro: @ 822D84D
 	.string "What do you call a wild man up in the\n"
 	.string "mountains? A mountain man, right?\p"
-	.string "So why don't they call a POKéMON in\n"
-	.string "the mountains a mountain POKéMON?$"
+	.string "So why don't they call a Pokémon in\n"
+	.string "the mountains a mountain Pokémon?$"
 
 RusturfTunnel_Text_MikeDefeat: @ 822D8DB
-	.string "My POKéMON…\n"
+	.string "My Pokémon…\n"
 	.string "Ran out of power…$"
 
 RusturfTunnel_Text_MikePostBattle: @ 822D8F9
 	.string "They halted development here to\n"
-	.string "protect POKéMON, right?\l"
+	.string "protect Pokémon, right?\l"
 	.string "There's a feel-good story!$"
 

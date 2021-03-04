@@ -580,7 +580,7 @@ extern const u8 SecretBase_EventScript_CaveUseSecretPower[];
 extern const u8 SecretBase_EventScript_TreeUseSecretPower[];
 extern const u8 SecretBase_EventScript_ShrubUseSecretPower[];
 
-// trainer hill
+// Trainer Hill
 extern const u8 TrainerHill_EventScript_TrainerBattle[];
 
 // Item Use

@@ -27,10 +27,10 @@ MysteryEventScript_BattleCardInfo: @ 8675179
 sText_MysteryGiftBattleCountCard:
 	.string "Thank you for using the MYSTERY\n"
 	.string "GIFT System.\p"
-	.string "Your BATTLE COUNT CARD keeps\n"
+	.string "Your Battle COUNT CARD keeps\n"
 	.string "track of your battle record against\l"
 	.string "TRAINERS with the same CARD.\p"
-	.string "Look for and battle TRAINERS who\n"
+	.string "Look for and battle Trainers who\n"
 	.string "have the same CARD as you.\p"
 	.string "You may check the overall rankings\n"
 	.string "by reading the NEWS.\p"

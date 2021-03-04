@@ -331,7 +331,7 @@ static const struct WindowTemplate sWindowTemplates_MainMenu[] =
         .paletteNum = 15,
         .baseBlock = 0x9D
     },
-    // OPTION / MYSTERY GIFT
+    // OPTION / Mystery Gift
     {
         .bg = 0,
         .tilemapLeft = MENU_LEFT,
@@ -512,8 +512,8 @@ enum
 {
     HAS_NO_SAVED_GAME,  //NEW GAME, OPTION
     HAS_SAVED_GAME,     //CONTINUE, NEW GAME, OPTION
-    HAS_MYSTERY_GIFT,   //CONTINUE, NEW GAME, MYSTERY GIFT, OPTION
-    HAS_MYSTERY_EVENTS, //CONTINUE, NEW GAME, MYSTERY GIFT, MYSTERY EVENTS, OPTION
+    HAS_MYSTERY_GIFT,   //CONTINUE, NEW GAME, Mystery Gift, OPTION
+    HAS_MYSTERY_EVENTS, //CONTINUE, NEW GAME, Mystery Gift, MYSTERY EVENTS, OPTION
 };
 
 enum

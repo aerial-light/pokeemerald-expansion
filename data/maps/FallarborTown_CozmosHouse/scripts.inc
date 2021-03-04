@@ -70,9 +70,9 @@ FallarborTown_CozmosHouse_EventScript_CozmoIsHappy:: @ 8200FE4
 FallarborTown_CozmosHouse_Text_MeteoriteWillNeverBeMineNow: @ 8200FEE
 	.string "PROF. COZMO: Oh…\n"
 	.string "I never should have let myself be\l"
-	.string "conned into telling TEAM MAGMA where\l"
+	.string "conned into telling Team Magma where\l"
 	.string "you can find METEORITES…\p"
-	.string "That METEORITE from METEOR FALLS…\n"
+	.string "That METEORITE from Meteor Falls…\n"
 	.string "It's never going to be mine now…$"
 
 FallarborTown_CozmosHouse_Text_IsThatMeteoriteMayIHaveIt: @ 82010A2
@@ -80,8 +80,8 @@ FallarborTown_CozmosHouse_Text_IsThatMeteoriteMayIHaveIt: @ 82010A2
 	.string "Hah?\p"
 	.string "That item…\p"
 	.string "Could it be?\p"
-	.string "Is it the METEORITE that TEAM MAGMA\n"
-	.string "took from METEOR FALLS?\p"
+	.string "Is it the METEORITE that Team Magma\n"
+	.string "took from Meteor Falls?\p"
 	.string "Please, may I have it?\p"
 	.string "I'm not asking for it for free.\n"
 	.string "How about in exchange for this TM?$"
@@ -107,9 +107,9 @@ FallarborTown_CozmosHouse_Text_MayIHaveMeteorite: @ 8201249
 	.string "How about in exchange for this TM?$"
 
 FallarborTown_CozmosHouse_Text_CozmoWentToMeteorFalls: @ 82012BC
-	.string "PROF. COZMO went off to METEOR FALLS\n"
+	.string "PROF. COZMO went off to Meteor Falls\n"
 	.string "on ROUTE 114 with some people from\l"
-	.string "TEAM MAGMA.$"
+	.string "Team Magma.$"
 
 FallarborTown_CozmosHouse_Text_FeelSorryForCozmo: @ 8201310
 	.string "Poor PROF. COZMO…\n"

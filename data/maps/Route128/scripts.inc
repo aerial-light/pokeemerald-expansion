@@ -279,12 +279,12 @@ Route128_Text_MaxieResposibilityFallsToArchieAndMe: @ 81F6F1E
 
 Route128_Text_MaxieThisDefiesBelief: @ 81F704F
 	.string "MAXIE: This defies belief…\p"
-	.string "Those super-ancient POKéMON…\p"
+	.string "Those super-ancient Pokémon…\p"
 	.string "Their power is unbelievable.\n"
 	.string "They've upset the balance of nature…$"
 
 Route128_Text_StevenWhatIsHappening: @ 81F70C9
-	.string "STEVEN: {PLAYER}{KUN}!\n"
+	.string "Steven: {PLAYER}{KUN}!\n"
 	.string "What is happening?$"
 
 Route128_Text_StevenWholeWorldWillDrown: @ 81F70EA

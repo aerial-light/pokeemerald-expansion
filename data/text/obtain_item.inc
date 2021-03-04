@@ -1,8 +1,11 @@
 gText_ObtainedTheItem:: @ 8272A78
 	.string "Obtained the {STR_VAR_2}!$"
 
+gText_ObtainedTheItems::
+	.string "Obtained {STR_VAR_1} {STR_VAR_2}!$"
+
 gText_TheBagIsFull:: @ 8272A89
-	.string "The BAG is full…$"
+	.string "The Bag is full…$"
 
 gText_PutItemInPocket:: @ 8272A9A
 	.string "{PLAYER} put away the {STR_VAR_2}\n"
@@ -13,11 +16,11 @@ gText_PlayerFoundOneItem:: @ 8272ABF
 
 gText_TooBadBagIsFull:: @ 8272AD0
 	.string "Too bad!\n"
-	.string "The BAG is full…$"
+	.string "The Bag is full…$"
 
 gText_PlayerPutItemInBag:: @ 8272AEA
 	.string "{PLAYER} put away the {STR_VAR_2}\n"
-	.string "in the BAG.$"
+	.string "in the Bag.$"
 
 gText_ObtainedTheDecor:: @ 8272B09
 	.string "Obtained the {STR_VAR_2}!$"

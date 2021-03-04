@@ -23,8 +23,8 @@ const struct CompressedSpriteSheet gTrainerBackPicTable[] =
     TRAINER_BACK_SPRITE(LEAF, gTrainerBackPic_Leaf, 0x2800),
     TRAINER_BACK_SPRITE(RUBY_SAPPHIRE_BRENDAN, gTrainerBackPic_RubySapphireBrendan, 0x2000),
     TRAINER_BACK_SPRITE(RUBY_SAPPHIRE_MAY, gTrainerBackPic_RubySapphireMay, 0x2000),
-    TRAINER_BACK_SPRITE(WALLY, gTrainerBackPic_Wally, 0x2000),
-    TRAINER_BACK_SPRITE(STEVEN, gTrainerBackPic_Steven, 0x2000),
+    TRAINER_BACK_SPRITE(Wally, gTrainerBackPic_Wally, 0x2000),
+    TRAINER_BACK_SPRITE(Steven, gTrainerBackPic_Steven, 0x2000),
 };
 
 #define TRAINER_BACK_PAL(trainerPic, pal) [TRAINER_BACK_PIC_##trainerPic] = {pal, TRAINER_BACK_PIC_##trainerPic}
@@ -37,6 +37,6 @@ const struct CompressedSpritePalette gTrainerBackPicPaletteTable[] =
     TRAINER_BACK_PAL(LEAF, gTrainerBackPicPalette_Leaf),
     TRAINER_BACK_PAL(RUBY_SAPPHIRE_BRENDAN, gTrainerPalette_RubySapphireBrendan),
     TRAINER_BACK_PAL(RUBY_SAPPHIRE_MAY, gTrainerPalette_RubySapphireMay),
-    TRAINER_BACK_PAL(WALLY, gTrainerPalette_Wally),
-    TRAINER_BACK_PAL(STEVEN, gTrainerPalette_Steven),
+    TRAINER_BACK_PAL(Wally, gTrainerPalette_Wally),
+    TRAINER_BACK_PAL(Steven, gTrainerPalette_Steven),
 };

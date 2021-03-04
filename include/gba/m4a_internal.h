@@ -4,7 +4,7 @@
 #include "gba/gba.h"
 
 // ASCII encoding of 'Smsh' in reverse
-// This is presumably short for SMASH, the developer of MKS4AGB.
+// This is presumably short for Smash, the developer of MKS4AGB.
 #define ID_NUMBER 0x68736D53
 
 #define C_V 0x40 // center value for PAN, BEND, and TUNE

@@ -115,13 +115,13 @@ AquaHideout_B1F_EventScript_Grunt7:: @ 8233AEC
 
 AquaHideout_B1F_Text_Grunt2Intro: @ 8233B03
 	.string "If you want to know the secret about\n"
-	.string "our HIDEOUT, you have me to beat!$"
+	.string "our Hideout, you have me to beat!$"
 
 AquaHideout_B1F_Text_Grunt2Defeat: @ 8233B4A
 	.string "I can't win at all…$"
 
 AquaHideout_B1F_Text_Grunt2PostBattle: @ 8233B5E
-	.string "Our HIDEOUT's secret?\p"
+	.string "Our Hideout's secret?\p"
 	.string "Well, let's just say…\n"
 	.string "There's a submarine at the far end!\p"
 	.string "But, by now…\n"
@@ -157,7 +157,7 @@ AquaHideout_B1F_Text_Grunt7Intro: @ 8233D1B
 	.string "Hey!\n"
 	.string "You there!\p"
 	.string "Which do you think is cooler?\n"
-	.string "TEAM AQUA's uniform or TEAM MAGMA's?$"
+	.string "Team Aqua's uniform or Team Magma's?$"
 
 AquaHideout_B1F_Text_Grunt7Defeat: @ 8233D6E
 	.string "I lost in a cool way…$"

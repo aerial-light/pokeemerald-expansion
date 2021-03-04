@@ -189,12 +189,12 @@ const u8 DecorDesc_SAND_ORNAMENT[] = _(
 const u8 DecorDesc_SILVER_SHIELD[] = _(
     "Awarded for 50\n"
         "straight wins at\n"
-        "the BATTLE TOWER.");
+        "the Battle Tower.");
 
 const u8 DecorDesc_GOLD_SHIELD[] = _(
     "Awarded for 100\n"
         "straight wins at\n"
-        "the BATTLE TOWER.");
+        "the Battle Tower.");
 
 const u8 DecorDesc_GLASS_ORNAMENT[] = _(
     "A glass replica of\n"
@@ -282,7 +282,7 @@ const u8 DecorDesc_THUNDER_MAT[] = _(
 
 const u8 DecorDesc_FIRE_BLAST_MAT[] = _(
     "A mat designed with\n"
-        "a FIRE BLAST image.\n"
+        "a Fire BLAST image.\n"
         "Put items on top.");
 
 const u8 DecorDesc_POWDER_SNOW_MAT[] = _(
