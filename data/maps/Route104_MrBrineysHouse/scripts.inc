@@ -144,7 +144,7 @@ Route104_MrBrineysHouse_Text_NeedToDeliverPackageSailToDewford: @ 822A18F
 	.string "Mr. Briney: Ahoy!\n"
 	.string "I know exactly what you want to say!\p"
 	.string "You're to deliver a package to\n"
-	.string "CAPT. STERN in Slateport.\p"
+	.string "Capt. Stern in Slateport.\p"
 	.string "What you need me to do is no problem\n"
 	.string "at all--I'm the man for the job!\p"
 	.string "First, we'll set sail for DEWFORD.$"

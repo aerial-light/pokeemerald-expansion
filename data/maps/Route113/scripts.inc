@@ -158,7 +158,7 @@ Route113_Text_RouteSignFallarbor: @ 81F2456
 	.string "{LEFT_ARROW} Fallarbor Town$"
 
 Route113_Text_TrainerTipsRegisterKeyItems: @ 81F2471
-	.string "Trainer TIPS\p"
+	.string "Trainer Tips\p"
 	.string "You may register one of the KEY ITEMS\n"
 	.string "in your Bag as SELECT.\p"
 	.string "Simply press SELECT to use\n"

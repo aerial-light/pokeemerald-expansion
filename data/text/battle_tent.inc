@@ -1,6 +1,6 @@
 FallarborTown_BattleTentLobby_Text_WelcomeToBattleTent: @ 82C47EB
 	.string "I welcome you to the Battle TENT\n"
-	.string "FALLARBOR SITE!\p"
+	.string "Fallarbor Site!\p"
 	.string "I am your guide to the Set KO Tourney!$"
 
 FallarborTown_BattleTentLobby_Text_TakeChallenge: @ 82C4843
@@ -12,7 +12,7 @@ FallarborTown_BattleTentLobby_Text_AwaitAnotherChallenge: @ 82C487F
 	.string "another occasion!$"
 
 FallarborTown_BattleTentLobby_Text_ExplainFallarborTent: @ 82C48AC
-	.string "In the FALLARBOR Battle TENT,\n"
+	.string "In the Fallarbor Battle TENT,\n"
 	.string "we undertake the Set KO Tourney.\p"
 	.string "All participants enter with a team of\n"
 	.string "three Pokémon.\p"
@@ -119,7 +119,7 @@ FallarborTown_BattleTentLobby_Text_LookingForwardToArrival: @ 82C504C
 
 VerdanturfTown_BattleTentLobby_Text_WelcomeToBattleTent: @ 82C50C3
 	.string "I welcome you to the Battle TENT\n"
-	.string "Verdanturf SITE!\p"
+	.string "Verdanturf Site!\p"
 	.string "Here, the Trainer's trust toward\n"
 	.string "Pokémon is tested.$"
 
@@ -214,7 +214,7 @@ VerdanturfTown_BattleTentLobby_Text_PresentYouWithPrize: @ 82C57CD
 
 SlateportCity_BattleTentLobby_Text_WelcomeToBattleTent: @ 82C5810
 	.string "Welcome to the Battle TENT\n"
-	.string "Slateport SITE!\p"
+	.string "Slateport Site!\p"
 	.string "I am your guide to the Battle Swap\n"
 	.string "Tournament.$"
 

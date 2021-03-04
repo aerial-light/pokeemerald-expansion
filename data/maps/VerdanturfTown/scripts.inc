@@ -116,7 +116,7 @@ VerdanturfTown_Text_WandasHouse: @ 81EBA11
 	.string "Wanda's House$"
 
 VerdanturfTown_Text_BattleTentSign: @ 81EBA1F
-	.string "Battle TENT Verdanturf SITE\n"
+	.string "Battle TENT Verdanturf Site\n"
 	.string "“Feast Your Eyes on Battles!”$"
 
 VerdanturfTown_Text_RusturfTunnelSign: @ 81EBA59

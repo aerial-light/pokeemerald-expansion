@@ -367,7 +367,7 @@ OldaleTown_Text_ThisIsAPokemonMart: @ 81E91FD
 	.string "a promotional item.$"
 
 OldaleTown_Text_PotionExplanation: @ 81E92AF
-	.string "A POTION can be used anytime, so it's\n"
+	.string "A Potion can be used anytime, so it's\n"
 	.string "even more useful than a Pokémon Center\l"
 	.string "in certain situations.$"
 

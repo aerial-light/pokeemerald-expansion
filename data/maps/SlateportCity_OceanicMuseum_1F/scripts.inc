@@ -232,7 +232,7 @@ SlateportCity_OceanicMuseum_1F_Movement_FamiliarGruntExitNorth: @ 820AFCE
 	step_end
 
 SlateportCity_OceanicMuseum_1F_Text_WouldYouLikeToEnter: @ 820AFD5
-	.string "Welcome to the OCEANIC MUSEUM.\p"
+	.string "Welcome to the OCEANIC Museum.\p"
 	.string "The entrance fee is ¥50.\n"
 	.string "Would you like to enter?$"
 
@@ -281,7 +281,7 @@ SlateportCity_OceanicMuseum_1F_Text_LearnAboutSeaForBattling: @ 820B25F
 SlateportCity_OceanicMuseum_1F_Text_SternIsRoleModel: @ 820B2A2
 	.string "I get all giddy and gooey when\n"
 	.string "I see the sea!\p"
-	.string "For me, CAPT. STERN is the number\n"
+	.string "For me, Capt. Stern is the number\n"
 	.string "one role model!$"
 
 SlateportCity_OceanicMuseum_1F_Text_MustBePokemonWeDontKnow: @ 820B302
@@ -324,7 +324,7 @@ SlateportCity_OceanicMuseum_1F_Text_WaterfallExperiment: @ 820B547
 	.string "A red ball is bobbing up and down\n"
 	.string "inside a glass vessel.\p"
 	.string "“This is an experiment simulating a\n"
-	.string "WATERFALL using the ball's buoyancy.”$"
+	.string "Waterfall using the ball's buoyancy.”$"
 
 SlateportCity_OceanicMuseum_1F_Text_OceanSoilDisplay: @ 820B5CA
 	.string "It's a sample of soil from the ocean\n"

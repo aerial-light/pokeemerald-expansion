@@ -559,7 +559,7 @@ gTVRecentHappeningsText05:: @ 082816EB
 
 gTVMassOutbreakText00:: @ 0828178A
 	.string "Greetings!\n"
-	.string "It's time for Pokémon NEWS.\p"
+	.string "It's time for Pokémon News.\p"
 	.string "We've just received word of a very\n"
 	.string "rare occurrence.\p"
 	.string "There have been reports of a mass\n"
@@ -571,7 +571,7 @@ gTVMassOutbreakText00:: @ 0828178A
 	.string "It sounds like a rare opportunity to\n"
 	.string "see the mystifying outbreak of\l"
 	.string "{STR_VAR_2} in the wild.\p"
-	.string "That's the news on Pokémon NEWS.$"
+	.string "That's the news on Pokémon News.$"
 
 gTV3CheersForPokeblocksText00:: @ 082818F4
 	.string "MC: We hope you're in good cheer,\n"
@@ -658,7 +658,7 @@ gTVTrainerFanClubSpecialText00:: @ 08281DFB
 	.string "Trainer Fan Club\n"
 	.string "{STR_VAR_1} SPECIAL!\p"
 	.string "This is a special presentation for\n"
-	.string "the fans of {STR_VAR_1} all over HOENN!\p"
+	.string "the fans of {STR_VAR_1} all over Hoenn!\p"
 	.string "Today, we ask the question, “What do\n"
 	.string "people think of {STR_VAR_1}?”\p"
 	.string "We posed the question to {STR_VAR_2}\n"
@@ -979,7 +979,7 @@ gTVPokemonTodaySuccessfulText04:: @ 08283685
 gTVPokemonTodaySuccessfulText05:: @ 0828370C
 	.string "BIG SIS: {STR_VAR_1}'s {STR_VAR_2} is a\n"
 	.string "memorable Pokémon because it took an\l"
-	.string "invaluable MASTER BALL to catch!\p"
+	.string "invaluable MASTER Ball to catch!\p"
 	.string "BIG BRO: Wow! That's mega-awesome!\p"
 	.string "BIG SIS: {STR_VAR_1} must have really\n"
 	.string "wanted that {STR_VAR_2}, for sure!$"
@@ -1291,7 +1291,7 @@ gTVDewfordTrendWatcherNetworkText06:: @ 08284E34
 	.string "Old man: {STR_VAR_1} {STR_VAR_2}!$"
 
 gTVHoennTreasureInvestigatorsText00:: @ 08284EDF
-	.string "HOENN TREASURE INVESTIGATORS!\p"
+	.string "Hoenn Treasure Investigators!\p"
 	.string "Hi, gang!\n"
 	.string "Score any secret items lately?\p"
 	.string "As always, we'll examine eyewitness\n"
@@ -1302,7 +1302,7 @@ gTVHoennTreasureInvestigatorsText00:: @ 08284EDF
 gTVHoennTreasureInvestigatorsText01:: @ 08284FA1
 	.string "Wow, we'd better check this letter\n"
 	.string "out! Let me read it to you.\p"
-	.string "…Dear INVESTIGATORS,\n"
+	.string "…Dear Investigators,\n"
 	.string "I hope you are well.\p"
 	.string "I recently saw {STR_VAR_2} somewhere\n"
 	.string "around {STR_VAR_3}.\p"
@@ -1310,7 +1310,7 @@ gTVHoennTreasureInvestigatorsText01:: @ 08284FA1
 	.string "{STR_VAR_1}. It made me envious.\p"
 	.string "…Well, good going, {STR_VAR_2}!\p"
 	.string "Viewers, let that motivate you to\n"
-	.string "fire up your ITEMFINDERS and search!\p"
+	.string "fire up your Itemfinders and search!\p"
 	.string "I'll be waiting for exciting news\n"
 	.string "from all of you!$"
 
@@ -1324,7 +1324,7 @@ gTVHoennTreasureInvestigatorsText02:: @ 082850F5
 	.string "{STR_VAR_1}. It made me envious.\p"
 	.string "…Well, good going, {STR_VAR_2}!\p"
 	.string "Viewers, let that motivate you to\n"
-	.string "fire up your ITEMFINDERS and search!\p"
+	.string "fire up your Itemfinders and search!\p"
 	.string "I'll be waiting for exciting news\n"
 	.string "from all of you!$"
 
@@ -1340,12 +1340,12 @@ gTVFindThatGamerText00:: @ 08285240
 
 gTVFindThatGamerText01:: @ 082852F4
 	.string "{STR_VAR_1} played the {STR_VAR_2} game\n"
-	.string "and won a rare {STR_VAR_3} COINS.\p"
+	.string "and won a rare {STR_VAR_3} Coins.\p"
 	.string "“When {STR_VAR_1} comes, we need to\n"
-	.string "make sure we have enough COINS.”\p"
+	.string "make sure we have enough Coins.”\p"
 	.string "That's what the Game Corner clerks\n"
 	.string "mutter when our gamer is in play!\p"
-	.string "Viewers, it's best to watch your COINS\n"
+	.string "Viewers, it's best to watch your Coins\n"
 	.string "like {STR_VAR_1} if you visit the Game\l"
 	.string "Corner and play the {STR_VAR_2} game.\p"
 	.string "This is live from the Game Corner--\n"
@@ -1354,14 +1354,14 @@ gTVFindThatGamerText01:: @ 082852F4
 
 gTVFindThatGamerText02:: @ 08285463
 	.string "{STR_VAR_1} played the {STR_VAR_2} game\n"
-	.string "and lost {STR_VAR_3} COINS.\p"
-	.string "“When {STR_VAR_1} comes, our COIN\n"
+	.string "and lost {STR_VAR_3} Coins.\p"
+	.string "“When {STR_VAR_1} comes, our Coin\n"
 	.string "sales seem to increase.”\p"
 	.string "That's what the Game Corner clerks\n"
 	.string "say when our gamer is in play!$"
 
 gTVFindThatGamerText03:: @ 08285500
-	.string "Viewers, it's best to watch your COINS\n"
+	.string "Viewers, it's best to watch your Coins\n"
 	.string "like {STR_VAR_1} if you visit the Game\l"
 	.string "Corner and play the {STR_VAR_2} game.\p"
 	.string "This is live from the Game Corner--\n"
@@ -1369,7 +1369,7 @@ gTVFindThatGamerText03:: @ 08285500
 	.string "That's all for today!$"
 
 gTVBreakingNewsText00:: @ 082855BF
-	.string "BREAKING NEWS TV!$"
+	.string "BREAKING News TV!$"
 
 gTVBreakingNewsText01:: @ 082855D1
 	.string "Rare {STR_VAR_2} caught by\n"
@@ -1385,8 +1385,8 @@ gTVBreakingNewsText02:: @ 0828563C
 	.string "the Pokémon {STR_VAR_3}.$"
 
 gTVBreakingNewsText03:: @ 08285682
-	.string "In the battle, the number of POKé\n"
-	.string "BALLS thrown by the Trainer was {STR_VAR_1}.\p"
+	.string "In the battle, the number of Poké\n"
+	.string "Balls thrown by the Trainer was {STR_VAR_1}.\p"
 	.string "Ultimately, the rare Pokémon was\n"
 	.string "caught by the {STR_VAR_2} used last.$"
 
@@ -1585,12 +1585,12 @@ gTVSecretBaseVisitText13:: @ 08286340
 gTVPokemonLotteryWinnerFlashReportText00:: @ 082863CC
 	.string "It's exciting!\n"
 	.string "It's dramatic!\p"
-	.string "It's the Pokémon LOTTERY\n"
-	.string "WINNER FLASH REPORT!\p"
+	.string "It's the Pokémon Lottery\n"
+	.string "Winner Flash Report!\p"
 	.string "Hello! We're coming at you live from\n"
-	.string "the Pokémon LOTTERY Corner on\l"
+	.string "the Pokémon Lottery Corner on\l"
 	.string "the ground floor of the Lilycove\l"
-	.string "Department STORE!\p"
+	.string "Department Store!\p"
 	.string "Like it always happens, another\n"
 	.string "lucky Trainer appeared today!\p"
 	.string "That Trainer's name…\n"
@@ -1602,14 +1602,14 @@ gTVPokemonLotteryWinnerFlashReportText00:: @ 082863CC
 	.string "Viewers, don't just watch,\n"
 	.string "get in on the action!\p"
 	.string "All of us at the Lilycove Department\n"
-	.string "STORE look forward to your next visit!\p"
+	.string "Store look forward to your next visit!\p"
 	.string "This has been a live broadcast from\n"
-	.string "the Lilycove Department STORE,\l"
+	.string "the Lilycove Department Store,\l"
 	.string "offering you the greatest selection\l"
-	.string "in all HOENN!$"
+	.string "in all Hoenn!$"
 
 gTVThePokemonBattleSeminarText00:: @ 08286616
-	.string "THE Pokémon Battle SEMINAR!\p"
+	.string "The Pokémon Battle Seminar!\p"
 	.string "We examine battles to see what\n"
 	.string "lessons we may learn from others.\p"
 	.string "Today's case study is on {STR_VAR_1}'s\n"
@@ -1684,7 +1684,7 @@ gTVTrainerFanClubText05:: @ 08286A17
 
 gTVTrainerFanClubText06:: @ 08286A48
 	.string "Fans: The Trainer's amazing\n"
-	.string "BIKE-riding techniques!$"
+	.string "Bike-riding techniques!$"
 
 gTVTrainerFanClubText07:: @ 08286A7C
 	.string "Fans: The Trainer's impressive\n"
@@ -1737,8 +1737,8 @@ gTVTrainerFanClubText11:: @ 08286B4F
 	.string "Fans: {STR_VAR_3}!$"
 
 gTVCutiesText00:: @ 08286D8F
-	.string "SPOT THE CUTIES!\n"
-	.string "Pokémon IN Ribbons!\p"
+	.string "Spot the Cuties!\n"
+	.string "Pokémon in Ribbons!\p"
 	.string "Hello, my sweet viewers!\p"
 	.string "I just know you'll agree, but a Pokémon\n"
 	.string "wearing Ribbons is simply divine!\p"
@@ -1771,7 +1771,7 @@ gTVCutiesText04:: @ 08286FAA
 	.string "Ribbons worn by {STR_VAR_2}.$"
 
 gTVCutiesText05:: @ 08286FE4
-	.string "The CHAMPION Ribbon is especially\n"
+	.string "The Champion Ribbon is especially\n"
 	.string "fetching.\p"
 	.string "{STR_VAR_2} received it upon entering\n"
 	.string "the Hall of Fame.\p"
@@ -1831,23 +1831,23 @@ gTVCutiesText10:: @ 08287387
 	.string "The combination is super effective!$"
 
 gTVCutiesText11:: @ 08287442
-	.string "The WINNING Ribbon is especially\n"
+	.string "The Winning Ribbon is especially\n"
 	.string "fetching.\p"
 	.string "{STR_VAR_2} received it for its feats\n"
 	.string "at the Battle Tower.\p"
 	.string "It verily draws out the mightiness\n"
 	.string "of {STR_VAR_2}.\p"
-	.string "{STR_VAR_2} and the WINNING Ribbon!\n"
+	.string "{STR_VAR_2} and the Winning Ribbon!\n"
 	.string "The combination is super effective!$"
 
 gTVCutiesText12:: @ 08287508
-	.string "The VICTORY Ribbon is especially\n"
+	.string "The Victory Ribbon is especially\n"
 	.string "fetching.\p"
 	.string "{STR_VAR_2} received it for its feats\n"
 	.string "at the Battle Tower.\p"
 	.string "It verily draws out the incredible\n"
 	.string "mightiness of {STR_VAR_2}.\p"
-	.string "{STR_VAR_2} and the VICTORY Ribbon!\n"
+	.string "{STR_VAR_2} and the Victory Ribbon!\n"
 	.string "The combination is super effective!$"
 
 gTVCutiesText13:: @ 082875D9
@@ -1879,50 +1879,50 @@ gTVCutiesText15:: @ 08287779
 
 gTVPokemonNewsBattleFrontierText00:: @ 082877DE
 	.string "Greetings!\n"
-	.string "It's time for Pokémon NEWS.\p"
+	.string "It's time for Pokémon News.\p"
 	.string "We've got some uplifting news from\n"
 	.string "the Battle Frontier.$"
 
 gTVPokemonNewsBattleFrontierText01:: @ 0828783D
 	.string "The Trainer {STR_VAR_1} set a new\n"
 	.string "{STR_VAR_2}-win-streak record while on\l"
-	.string "the Battle Tower's SINGLE Battle\l"
-	.string "ROOM challenge.\p"
+	.string "the Battle Tower's Single Battle\l"
+	.string "Room challenge.\p"
 	.string "Here's to {STR_VAR_1}!$"
 
 gTVPokemonNewsBattleFrontierText02:: @ 082878B3
 	.string "The Trainer {STR_VAR_1} set a new\n"
 	.string "{STR_VAR_2}-win-streak record while on\l"
-	.string "the Battle Tower's DOUBLE Battle\l"
-	.string "ROOM challenge.\p"
+	.string "the Battle Tower's Double Battle\l"
+	.string "Room challenge.\p"
 	.string "Here's to {STR_VAR_1}!$"
 
 gTVPokemonNewsBattleFrontierText03:: @ 08287929
 	.string "The Trainer {STR_VAR_1} set a new\n"
 	.string "{STR_VAR_2}-win-streak record while on\l"
-	.string "the Battle Tower's MULTI Battle\l"
-	.string "ROOM challenge.\p"
+	.string "the Battle Tower's Multi Battle\l"
+	.string "Room challenge.\p"
 	.string "Here's to {STR_VAR_1}!$"
 
 gTVPokemonNewsBattleFrontierText04:: @ 0828799E
 	.string "The Trainer {STR_VAR_1} set a new\n"
 	.string "{STR_VAR_2}-win-streak record while on\l"
-	.string "the Battle Tower's LINK MULTI Battle\l"
-	.string "ROOM challenge.\p"
+	.string "the Battle Tower's Link Multi Battle\l"
+	.string "Room challenge.\p"
 	.string "Here's to {STR_VAR_1}!$"
 
 gTVPokemonNewsBattleFrontierText05:: @ 08287A18
 	.string "The Trainer {STR_VAR_1} set a new\n"
 	.string "{STR_VAR_2}-championship-streak record\l"
 	.string "competing in the Battle Dome's\l"
-	.string "SINGLE Battle Tournaments.\p"
+	.string "Single Battle Tournaments.\p"
 	.string "Here's to {STR_VAR_1}!$"
 
 gTVPokemonNewsBattleFrontierText06:: @ 08287A97
 	.string "The Trainer {STR_VAR_1} set a new\n"
 	.string "{STR_VAR_2}-championship-streak record\l"
 	.string "competing in the Battle Dome's\l"
-	.string "DOUBLE Battle Tournaments.\p"
+	.string "Double Battle Tournaments.\p"
 	.string "Here's to {STR_VAR_1}!$"
 
 gTVPokemonNewsBattleFrontierText07:: @ 08287B16
@@ -1956,14 +1956,14 @@ gTVPokemonNewsBattleFrontierText10:: @ 08287C7D
 gTVPokemonNewsBattleFrontierText11:: @ 08287CF3
 	.string "The Trainer {STR_VAR_1} set a new\n"
 	.string "{STR_VAR_2}-win-streak record while on\l"
-	.string "the Battle Palace's SINGLE Battle\l"
+	.string "the Battle Palace's Single Battle\l"
 	.string "Hall challenge.\p"
 	.string "Here's to {STR_VAR_1}!$"
 
 gTVPokemonNewsBattleFrontierText12:: @ 08287D6A
 	.string "The Trainer {STR_VAR_1} set a new\n"
 	.string "{STR_VAR_2}-win-streak record while on\l"
-	.string "the Battle Palace's DOUBLE Battle\l"
+	.string "the Battle Palace's Double Battle\l"
 	.string "Hall challenge.\p"
 	.string "Here's to {STR_VAR_1}!$"
 
@@ -2000,10 +2000,10 @@ gTVPokemonNewsBattleFrontierText18:: @ 08287F77
 	.string "Let's hope for more record-setting\n"
 	.string "feats from {STR_VAR_1} and the loyal\l"
 	.string "Pokémon!\p"
-	.string "That's the news on Pokémon NEWS!$"
+	.string "That's the news on Pokémon News!$"
 
 gTVWhatsNo1InHoennTodayText00:: @ 08287FE0
-	.string "WHAT's NO. 1 IN HOENN TODAY?\n"
+	.string "What's No. 1 IN Hoenn today?\n"
 	.string "Yes, it's that time again!\p"
 	.string "Hello, viewers! Are you giving your\n"
 	.string "best at whatever you do?\p"
@@ -2039,7 +2039,7 @@ gTVWhatsNo1InHoennTodayText03:: @ 0828821A
 
 gTVWhatsNo1InHoennTodayText04:: @ 082882BE
 	.string "In just one day, {STR_VAR_1} spun\n"
-	.string "the Berry BLENDER {STR_VAR_2} times!\p"
+	.string "the Berry Blender {STR_VAR_2} times!\p"
 	.string "Toward the end, even {STR_VAR_1}\n"
 	.string "seemed to get dizzy.\p"
 	.string "The Trainer appeared to totter\n"
@@ -2148,11 +2148,11 @@ TVSecretBaseSecrets_Text_UsedBalloon:: @ 082889C0
 	.string "the sudden noise!$"
 
 TVSecretBaseSecrets_Text_UsedTent:: @ 08288A3A
-	.string "The visitor entered a TENT!\p"
+	.string "The visitor entered a Tent!\p"
 	.string "The visitor is running around!\p"
 	.string "Oh, my, the visitor is frolicking!\p"
 	.string "The visitor appears surprised by\n"
-	.string "the TENT's size!$"
+	.string "the Tent's size!$"
 
 TVSecretBaseSecrets_Text_UsedPlant:: @ 08288ACA
 	.string "The visitor is examining\n"
@@ -2162,18 +2162,18 @@ TVSecretBaseSecrets_Text_UsedPlant:: @ 08288ACA
 
 TVSecretBaseSecrets_Text_UsedGoldShield:: @ 08288B1E
 	.string "The visitor is examining\n"
-	.string "a GOLD SHIELD!\p"
+	.string "a Gold Shield!\p"
 	.string "The visitor's eyes appear to be\n"
 	.string "lit up with wonder!$"
 
 TVSecretBaseSecrets_Text_UsedSilverShield:: @ 08288B7A
 	.string "The visitor is examining\n"
-	.string "a SILVER SHIELD!\p"
+	.string "a Silver Shield!\p"
 	.string "The visitor appears to be wide-eyed!$"
 
 TVSecretBaseSecrets_Text_UsedGlassOrnament:: @ 08288BC9
 	.string "The visitor is examining\n"
-	.string "a GLASS ORNAMENT!\p"
+	.string "a Glass Ornament!\p"
 	.string "Oh, no!\p"
 	.string "The visitor is touching it!\p"
 	.string "It's getting covered with\n"
@@ -2184,7 +2184,7 @@ TVSecretBaseSecrets_Text_UsedTV:: @ 08288C40
 	.string "Looks like we have a big fan of TV!$"
 
 TVSecretBaseSecrets_Text_UsedMudBall:: @ 08288C88
-	.string "The visitor stomped on a MUD BALL!\p"
+	.string "The visitor stomped on a Mud Ball!\p"
 	.string "The visitor looks delighted!$"
 
 TVSecretBaseSecrets_Text_UsedBag:: @ 08288CC8
@@ -2364,13 +2364,13 @@ TVSecretBaseSecrets_Text_UsedJumpMat:: @ 0828977D
 	.string "What a solo performance!$"
 
 gTVSafariFanClubText00:: @ 08289813
-	.string "SAFARI Fan Club!\p"
+	.string "Safari Fan Club!\p"
 	.string "REPORTER: All right, mates!\n"
-	.string "Tossing them SAFARI BALLS, are you?\p"
-	.string "You can bet I am here in the SAFARI\n"
+	.string "Tossing them Safari Balls, are you?\p"
+	.string "You can bet I am here in the Safari\n"
 	.string "ZONE chock-full of amazing Pokémon!\p"
 	.string "Let's get with it and have a chat with\n"
-	.string "this good fellow of a SAFARI GUIDE!\p"
+	.string "this good fellow of a Safari GUIDE!\p"
 	.string "All right, mate, how are the visiting\n"
 	.string "Trainers looking?$"
 
@@ -2393,7 +2393,7 @@ gTVSafariFanClubText03:: @ 082899DC
 gTVSafariFanClubText04:: @ 08289A29
 	.string "REPORTER: Is that right, then?\p"
 	.string "Sounds like our mate {STR_VAR_1}\n"
-	.string "is a stout SAFARI master!\p"
+	.string "is a stout Safari master!\p"
 	.string "GUIDE: I hope the Trainer comes back\n"
 	.string "and shows us that great technique.$"
 
@@ -2425,14 +2425,14 @@ gTVSafariFanClubText08:: @ 08289C3B
 gTVSafariFanClubText09:: @ 08289C99
 	.string "REPORTER: Is that right, then?\p"
 	.string "Sounds like our mate {STR_VAR_1}\n"
-	.string "needs more SAFARI seasoning.\p"
+	.string "needs more Safari seasoning.\p"
 	.string "GUIDE: I hope the Trainer visits\n"
 	.string "over and over to get the hang of it.$"
 
 gTVSafariFanClubText10:: @ 08289D33
 	.string "REPORTER: Quite right, it is!\n"
 	.string "Facing up to challenges is important!\p"
-	.string "Viewers, come on down to the SAFARI\n"
+	.string "Viewers, come on down to the Safari\n"
 	.string "and make the challenge yourself!\p"
 	.string "Until next time, cheerio!$"
 

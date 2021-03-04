@@ -726,7 +726,7 @@ MatchCall_PersonalizedText9:: @ 82AC682
 	.string "Right now, behind you…\l"
 	.string "Wasn't there something…?\p"
 	.string "The power of the Pokémon that\n"
-	.string "sleep here at MT. PYRE…\p"
+	.string "sleep here at Mt. Pyre…\p"
 	.string "It's telling me about you…\p"
 	.string "You should walk away quickly and\n"
 	.string "never once look back…\p"
@@ -1338,7 +1338,7 @@ MatchCall_PersonalizedText61:: @ 82AF7D8
 	.string "Hi, this is {STR_VAR_1}!\n"
 	.string "We just won a battle!\p"
 	.string "We don't win often, but it was this\n"
-	.string "cool SWIMMER guy.\p"
+	.string "cool Swimmer guy.\p"
 	.string "My sister was steamed!\p"
 	.string "She wanted to pretend that she\n"
 	.string "was weak to make an impression!\p"
@@ -1368,7 +1368,7 @@ MatchCall_PersonalizedText63:: @ 82AFA39
 	.string "It's me, {STR_VAR_1}!\l"
 	.string "I'm out on Route 108 now!\l"
 	.string "In other words, where I always am!\p"
-	.string "Today, a gorgeous SWIMMER \n"
+	.string "Today, a gorgeous Swimmer \n"
 	.string "swam by me!\p"
 	.string "So I startled her with a shout!\p"
 	.string "And she gave me a nasty glare!\p"
@@ -2243,7 +2243,7 @@ MatchCall_Text_Juan2:: @ 82B32EC
 
 MatchCall_Text_Juan3:: @ 82B33AA
 	.string "Juan: Hoho… {PLAYER}{KUN}…\p"
-	.string "Our SOOTOPOLIS Gym has finally\n"
+	.string "Our Sootopolis Gym has finally\n"
 	.string "reopened.\p"
 	.string "If you wish to see me, you are\n"
 	.string "welcome to visit anytime.$"
@@ -2394,7 +2394,7 @@ MatchCall_Text_May7:: @ 2B3E69
 
 MatchCall_Text_May8:: @ 2B3ECD
 	.string "May: {PLAYER}{KUN}, hi.\p"
-	.string "MT. PYRE is a memorial to Pokémon\n"
+	.string "Mt. Pyre is a memorial to Pokémon\n"
 	.string "whose lives have ended.\p"
 	.string "Maybe as a result, it's infested\n"
 	.string "with many Ghost-type Pokémon!$"
@@ -2410,7 +2410,7 @@ MatchCall_Text_May9:: @ 2B3F2B
 MatchCall_Text_May10:: @ 2B3FFB
 	.string "May: Hi, {PLAYER}{KUN}!\n"
 	.string "Did you see the news?\p"
-	.string "They say CAPT. STERN discovered\n"
+	.string "They say Capt. Stern discovered\n"
 	.string "the Seafloor Cavern while on his\l"
 	.string "submarine expedition.$"
 
@@ -2447,14 +2447,14 @@ MatchCall_Text_May13:: @ 2B4228
 MatchCall_Text_May14:: @ 2B42E0
 	.string "May: {PLAYER}{KUN}!\n"
 	.string "I heard the rumors!\p"
-	.string "You beat the SOOTOPOLIS GYM\n"
+	.string "You beat the Sootopolis GYM\n"
 	.string "Leader?\p"
 	.string "That means you don't have far\n"
 	.string "to go, do you?$"
 
 MatchCall_Text_May15:: @ 2B4350
 	.string "May: There isn't a single Trainer\n"
-	.string "left in HOENN who doesn't know who\l"
+	.string "left in Hoenn who doesn't know who\l"
 	.string "you are, {PLAYER}{KUN}!\p"
 	.string "When I tell people that I'm friends\n"
 	.string "with you, {PLAYER}{KUN}, they're all\l"
@@ -2521,7 +2521,7 @@ MatchCall_Text_Brendan7:: @ 2B47F4
 
 MatchCall_Text_Brendan8:: @ 2B4882
 	.string "Brendan: {PLAYER}!\p"
-	.string "MT. PYRE is a memorial to Pokémon\n"
+	.string "Mt. Pyre is a memorial to Pokémon\n"
 	.string "whose lives have ended.\p"
 	.string "That's probably why it's infested\n"
 	.string "with many Ghost-type Pokémon!$"
@@ -2538,7 +2538,7 @@ MatchCall_Text_Brendan9:: @ 2B4909
 MatchCall_Text_Brendan10:: @ 2B49C4
 	.string "Brendan: Hi, {PLAYER}!\n"
 	.string "Did you catch the news?\p"
-	.string "They say CAPT. STERN discovered\n"
+	.string "They say Capt. Stern discovered\n"
 	.string "the Seafloor Cavern while on his\l"
 	.string "submarine expedition.$"
 
@@ -2574,13 +2574,13 @@ MatchCall_Text_Brendan13:: @ 2B4C15
 MatchCall_Text_Brendan14:: @ 2B4CD8
 	.string "Brendan: {PLAYER}!\n"
 	.string "I heard the rumors!\p"
-	.string "You beat the SOOTOPOLIS GYM\n"
+	.string "You beat the Sootopolis GYM\n"
 	.string "Leader? Awesome!\p"
 	.string "You're getting awful close now!$"
 
 MatchCall_Text_Brendan15:: @ 2B4D46
 	.string "Brendan: There isn't a Trainer in\n"
-	.string "all of HOENN who doesn't know who\l"
+	.string "all of Hoenn who doesn't know who\l"
 	.string "you are, {PLAYER}!\p"
 	.string "When I tell people that I'm friends\n"
 	.string "with you, {PLAYER}, they get pretty\l"
@@ -2662,7 +2662,7 @@ MatchCall_Text_Scott2:: @ 2B5275
 MatchCall_Text_Scott3:: @ 2B5323
 	.string "SCOTT: Hi, hi, {PLAYER}{KUN}!\p"
 	.string "Have you had the chance to climb\n"
-	.string "MT. PYRE?\p"
+	.string "Mt. Pyre?\p"
 	.string "The place is a memorial to Pokémon\n"
 	.string "that have passed away.\p"
 	.string "It's somewhere every Trainer\n"
@@ -2743,7 +2743,7 @@ MatchCall_Text_Norman4:: @ 82B58E3
 
 MatchCall_Text_Norman5:: @ 82B5979
 	.string "DAD: Oh, hi, {PLAYER}!\p"
-	.string "What's that? MAGMA EMBLEM?\n"
+	.string "What's that? Magma Emblem?\n"
 	.string "I don't know what that's about.\p"
 	.string "But with a name like that, it may\n"
 	.string "be somehow linked to a volcano!$"
@@ -2873,7 +2873,7 @@ MatchCall_Text_MrStone2:: @ 82B61E6
 	.string "I need you to deliver my letter\n"
 	.string "to Steven in DEWFORD.\p"
 	.string "After that, deliver our parcel to\n"
-	.string "CAPT. STERN in Slateport.\p"
+	.string "Capt. Stern in Slateport.\p"
 	.string "You remember, don't you?\p"
 	.string "Now, since I am a busy PRESIDENT,\n"
 	.string "I have to go! Bye-bye!$"

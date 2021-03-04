@@ -144,7 +144,7 @@ AquaHideout_B2F_Text_Grunt6Defeat: @ 82341CE
 
 AquaHideout_B2F_Text_Grunt6PostBattle: @ 82341FE
 	.string "That reminds me… I can't remember\n"
-	.string "where I put the MASTER BALL.\p"
+	.string "where I put the Master Ball.\p"
 	.string "If I fail to guard it, our BOSS will\n"
 	.string "chew me out…$"
 

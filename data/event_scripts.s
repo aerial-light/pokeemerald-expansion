@@ -851,7 +851,7 @@ gText_MomOrDadMightLikeThisProgram:: @ 8272BCF
 	.string "Better get going!$"
 
 gText_WhichFloorWouldYouLike:: @ 8272C1D
-	.string "Welcome to Lilycove Department STORE.\p"
+	.string "Welcome to Lilycove Department Store.\p"
 	.string "Which floor would you like?$"
 
 gText_SandstormIsVicious:: @ 8272C5F
@@ -949,7 +949,7 @@ gText_PlayerFoundOneTMHM:: @ 82731A9
 
 gText_Sudowoodo_Attacked:: @ 82731BD
 	.string "The weird tree doesn't like the\n"
-	.string "WAILMER PAIL!\p"
+	.string "Wailmer PAIL!\p"
 	.string "The weird tree attacked!$"
 
 gText_LegendaryFlewAway:: @ 8273204

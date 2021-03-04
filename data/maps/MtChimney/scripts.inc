@@ -554,11 +554,11 @@ MtChimney_Text_MeteoriteWillActivateVolcano: @ 822F26A
 	.string "Fufufu…$"
 
 MtChimney_Text_MaxieIntro: @ 822F32E
-	.string "MAXIE: Hm?\n"
+	.string "Maxie: Hm?\n"
 	.string "Who are you?\p"
 	.string "… … … … … …\n"
 	.string "… … … … … …\p"
-	.string "I'd heard ARCHIE bemoaning a child\n"
+	.string "I'd heard Archie bemoaning a child\n"
 	.string "who's been meddling in Team Aqua's\l"
 	.string "affairs.\p"
 	.string "It must be you he meant.\p"
@@ -583,10 +583,10 @@ MtChimney_Text_MaxieIntro: @ 822F32E
 
 MtChimney_Text_MaxieDefeat: @ 822F5CF
 	.string "What?!\p"
-	.string "I, MAXIE, was caught off guard?!$"
+	.string "I, Maxie, was caught off guard?!$"
 
 MtChimney_Text_MaxieYouHaventSeenLastOfMagma: @ 822F5F7
-	.string "MAXIE: But, enough.\n"
+	.string "Maxie: But, enough.\n"
 	.string "I will back off this time.\p"
 	.string "But don't think that this is the last\n"
 	.string "you've seen of Team Magma.\p"
@@ -669,7 +669,7 @@ MtChimney_Text_Bufoh: @ 822FACB
 	.string "Bufoh!$"
 
 MtChimney_Text_ArchieGoStopTeamMagma: @ 822FAD2
-	.string "ARCHIE: Grr, {PLAYER}!\n"
+	.string "Archie: Grr, {PLAYER}!\n"
 	.string "I should've guessed you'd show up!\p"
 	.string "See for yourself what the fanatics\n"
 	.string "of Team Magma are up to!\p"
@@ -679,17 +679,17 @@ MtChimney_Text_ArchieGoStopTeamMagma: @ 822FAD2
 	.string "the volcano's eruption!$"
 
 MtChimney_Text_ArchieIHaveMyHandsFull: @ 822FBC7
-	.string "ARCHIE: Grrr…\p"
-	.string "I want to stop that MAXIE,\n"
+	.string "Archie: Grrr…\p"
+	.string "I want to stop that Maxie,\n"
 	.string "but I can't!\p"
 	.string "Not when I have my hands full battling\n"
 	.string "three opponents at once!$"
 
 MtChimney_Text_ArchieThankYou: @ 822FC3D
-	.string "ARCHIE: {PLAYER}!\n"
+	.string "Archie: {PLAYER}!\n"
 	.string "Thank you!\p"
 	.string "With your help, we thwarted TEAM\n"
-	.string "MAGMA's destructive plan!\p"
+	.string "Magma's destructive plan!\p"
 	.string "But… You…\n"
 	.string "Whose side are you on?\p"
 	.string "Ah, it doesn't matter.\p"

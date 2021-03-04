@@ -273,7 +273,7 @@ RustboroCity_PokemonSchool_Text_AlwaysWantedSeedot: @ 82145CD
 RustboroCity_PokemonSchool_Text_PokemontCantUseManMadeItems: @ 8214604
 	.string "Pokémon can hold items, but they\n"
 	.string "don't know what to do with man-made\l"
-	.string "items like POTION and ANTIDOTE.$"
+	.string "items like Potion and ANTIDOTE.$"
 
 RustboroCity_PokemonSchool_Text_ConfusedPokemonAttacksItself: @ 8214669
 	.string "You know how some Pokémon moves can\n"

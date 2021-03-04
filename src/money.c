@@ -91,7 +91,7 @@ void AddMoney(u32* moneyPtr, u32 toAdd)
 {
     u32 toSet = GetMoney(moneyPtr);
 
-    // can't have more money than MAX
+    // can't have more money than Max
     if (toSet + toAdd > MAX_MONEY)
     {
         toSet = MAX_MONEY;

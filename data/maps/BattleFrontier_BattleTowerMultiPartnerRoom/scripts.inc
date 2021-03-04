@@ -1729,7 +1729,7 @@ BattleFrontier_BattleTowerMultiPartnerRoom_Text_PokefanFReject:: @ 8248908
 	.string "I'll have you know. How annoying!$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_SwimmerFIntro:: @ 824894B
-	.string "Hi, I'm SWIMMER {STR_VAR_1}.$"
+	.string "Hi, I'm Swimmer {STR_VAR_1}.$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_SwimmerFMon1:: @ 824895F
 	.string "One {STR_VAR_1}-using {STR_VAR_2}$"
@@ -1790,7 +1790,7 @@ BattleFrontier_BattleTowerMultiPartnerRoom_Text_SwimmingTriathleteFReject:: @ 82
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_SwimmerMIntro:: @ 8248C2E
 	.string "Hi, there! Hello!\n"
-	.string "I'm {STR_VAR_1}, and I'm a SWIMMER!$"
+	.string "I'm {STR_VAR_1}, and I'm a Swimmer!$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_SwimmerMMon1:: @ 8248C5B
 	.string "Check out what I've been raising!\n"

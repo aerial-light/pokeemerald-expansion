@@ -82,7 +82,7 @@ FallarborTown_Text_HaveYouChallengedFlannery: @ 81EB3CA
 	.string "right.$"
 
 FallarborTown_Text_BattleTentSign: @ 81EB4C2
-	.string "Battle TENT FALLARBOR SITE\n"
+	.string "Battle TENT Fallarbor Site\n"
 	.string "“May the Greatest Teams Gather!”$"
 
 FallarborTown_Text_TownSign: @ 81EB4FE

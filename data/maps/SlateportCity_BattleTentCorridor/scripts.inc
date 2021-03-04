@@ -279,5 +279,5 @@ SlateportCity_ContestHall_Text_GetUrgeToMoveWithMon: @ 82098E6
 @ Unused
 SlateportCity_ContestHall_Text_HyperRankStage: @ 820993D
 	.string "Pokémon Contests\n"
-	.string "HYPER RANK STAGE!$"
+	.string "Hyper Rank STAGE!$"
 

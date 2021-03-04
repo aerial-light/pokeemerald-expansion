@@ -73,7 +73,7 @@ PetalburgCity_Mart_Text_WeakWillGrowStronger: @ 8207DF1
 	.string "Love for your Pokémon!$"
 
 PetalburgCity_Mart_Text_RepelIsUseful: @ 8207E60
-	.string "Do you use REPEL?\n"
+	.string "Do you use Repel?\n"
 	.string "It keeps Pokémon away, so it's\l"
 	.string "useful when you're in a hurry.$"
 

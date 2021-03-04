@@ -262,11 +262,11 @@ MeteorFalls_1F_1R_Text_BeSeeingYouTeamAqua: @ 822C04E
 	.string "We've got the METEORITE, so off to\n"
 	.string "Mt. Chimney we go!\p"
 	.string "Hehehe! Be seeing you, you TEAM\n"
-	.string "AQUA dingbats!$"
+	.string "Aqua dingbats!$"
 
 MeteorFalls_1F_1R_Text_ArchieSeenYouBefore: @ 822C11C
-	.string "ARCHIE: Didn't I see you before?\n"
-	.string "At Slateport's MUSEUM?\p"
+	.string "Archie: Didn't I see you before?\n"
+	.string "At Slateport's Museum?\p"
 	.string "Ah, so your name is {PLAYER}.\p"
 	.string "At the time, I thought you were one\n"
 	.string "of Team Magma's goons.\p"
@@ -284,13 +284,13 @@ MeteorFalls_1F_1R_Text_BossWeShouldChaseMagma: @ 822C268
 	.string "Team Magma…$"
 
 MeteorFalls_1F_1R_Text_ArchieYesNoTellingWhatMagmaWillDo: @ 822C292
-	.string "ARCHIE: Yes, yes, we must!\n"
+	.string "Archie: Yes, yes, we must!\n"
 	.string "We've got to hurry.\p"
 	.string "There's no telling what Team Magma\n"
 	.string "will do at Mt. Chimney!$"
 
 MeteorFalls_1F_1R_Text_ArchieFarewell: @ 822C2FC
-	.string "ARCHIE: {PLAYER}, you should keep\n"
+	.string "Archie: {PLAYER}, you should keep\n"
 	.string "an eye out for Team Magma, too.\p"
 	.string "Farewell!$"
 

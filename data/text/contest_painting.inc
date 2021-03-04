@@ -6,16 +6,16 @@ gUnknown_0827EA17:: @ 827EA17
 	.string "Contest$"
 
 gContestRankNormal::
-	.string "Normal RANK$"
+	.string "Normal Rank$"
 
 gContestRankSuper::
-	.string "SUPER RANK$"
+	.string "Super Rank$"
 
 gContestRankHyper::
-	.string "HYPER RANK$"
+	.string "Hyper Rank$"
 
 gContestRankMaster::
-	.string "MASTER RANK$"
+	.string "MASTER Rank$"
 
 gContestLink::
 	.string "LINK$"

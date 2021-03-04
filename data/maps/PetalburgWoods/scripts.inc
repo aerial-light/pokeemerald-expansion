@@ -328,7 +328,7 @@ PetalburgWoods_Text_NotAOneToBeFound: @ 822E332
 
 PetalburgWoods_Text_HaveYouSeenShroomish: @ 822E34F
 	.string "Hello, have you seen any Pokémon\n"
-	.string "called SHROOMISH around here?\p"
+	.string "called Shroomish around here?\p"
 	.string "I really love that Pokémon.$"
 
 PetalburgWoods_Text_IWasGoingToAmbushYou: @ 822E3AA
@@ -338,7 +338,7 @@ PetalburgWoods_Text_IWasGoingToAmbushYou: @ 822E3AA
 	.string "I got sick of waiting, so here I am!$"
 
 PetalburgWoods_Text_HandOverThosePapers: @ 822E428
-	.string "You! Devon RESEARCHER!\p"
+	.string "You! Devon Researcher!\p"
 	.string "Hand over those papers!$"
 
 PetalburgWoods_Text_YouHaveToHelpMe: @ 822E457
@@ -371,7 +371,7 @@ PetalburgWoods_Text_ThatWasAwfullyClose: @ 822E63D
 	.string "That was awfully close!\p"
 	.string "Thanks to you, he didn't rob me of\n"
 	.string "these important papers.\p"
-	.string "I know, I'll give you a GREAT BALL as\n"
+	.string "I know, I'll give you a Great Ball as\n"
 	.string "my thanks!$"
 
 PetalburgWoods_Text_TeamAquaAfterSomethingInRustboro: @ 822E6C7
@@ -385,7 +385,7 @@ PetalburgWoods_Text_ICantBeWastingTime: @ 822E712
 
 PetalburgWoods_Text_YoureLoadedWithItems: @ 822E741
 	.string "You're loaded with items.\n"
-	.string "I can't give you this GREAT BALL.$"
+	.string "I can't give you this Great Ball.$"
 
 PetalburgWoods_Text_GoBugPokemonTeam: @ 822E77D
 	.string "I caught a whole bunch of Pokémon!\p"
@@ -412,7 +412,7 @@ PetalburgWoods_Text_PeopleRespectYou: @ 822E889
 	.string "people respect you for it.$"
 
 PetalburgWoods_Text_IWantRematch1: @ 822E8C3
-	.string "I want a rematch when my BUG\n"
+	.string "I want a rematch when my Bug\n"
 	.string "Pokémon grow up!\p"
 	.string "I'm registering you in my PokéNav!$"
 
@@ -453,15 +453,15 @@ PetalburgWoods_Text_TryUsingThisItem: @ 822EAFE
 	.string "You should try using this item.$"
 
 PetalburgWoods_Text_MiracleSeedExplanation: @ 822EB63
-	.string "It's a MIRACLE SEED.\n"
+	.string "It's a Miracle Seed.\n"
 	.string "If a Pokémon holds that item, its\l"
-	.string "GRASS-type moves become stronger.\p"
-	.string "Besides MIRACLE SEED, I think there are\n"
+	.string "Grass-type moves become stronger.\p"
+	.string "Besides Miracle Seed, I think there are\n"
 	.string "other convenient items for Pokémon\l"
 	.string "to hold.$"
 
 PetalburgWoods_Text_TrainerTipsExperience: @ 822EC10
-	.string "Trainer TIPS\p"
+	.string "Trainer Tips\p"
 	.string "Any Pokémon that appears even once\n"
 	.string "in a battle is awarded EXP Points.\p"
 	.string "To raise a weak Pokémon, put it at the\n"
@@ -471,7 +471,7 @@ PetalburgWoods_Text_TrainerTipsExperience: @ 822EC10
 	.string "being exposed to any harm.$"
 
 PetalburgWoods_Text_TrainerTipsPP: @ 822ED07
-	.string "Trainer TIPS\p"
+	.string "Trainer Tips\p"
 	.string "In addition to Hit Points (HP), Pokémon\n"
 	.string "have Power Points (PP) that are used to\l"
 	.string "make moves during battle.\p"

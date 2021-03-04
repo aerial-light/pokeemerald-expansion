@@ -1716,7 +1716,7 @@ gText_ApprenticeWhichMon9:: @ 82BF1A8
 gText_ApprenticeMonThanks9:: @ 82BF268
 	.string "Uh-huh, one {STR_VAR_1} it is!\n"
 	.string "OK, A-OK!\l"
-	.string "I'll get one in a BALL, like, cram!\p"
+	.string "I'll get one in a Ball, like, cram!\p"
 	.string "All right, thanks, as always!\n"
 	.string "Adios!$"
 

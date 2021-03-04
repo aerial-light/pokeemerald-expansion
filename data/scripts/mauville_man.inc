@@ -331,7 +331,7 @@ MauvilleCity_PokemonCenter_1F_Text_TrendsStartedStory:: @ 828E9FE
 	.string "This Trainer started new trends\n"
 	.string "{STR_VAR_1} times!\p"
 	.string "{STR_VAR_3} is setting trends for all\n"
-	.string "the HOENN region!$"
+	.string "the Hoenn region!$"
 
 MauvilleCity_PokemonCenter_1F_Text_BerriesPlantedTitle:: @ 828EA7D
     .string "The BERRY-Planting Trainer$"
@@ -473,7 +473,7 @@ MauvilleCity_PokemonCenter_1F_Text_RestedAtHomeStory:: @ 828F071
 	.string "than {STR_VAR_3}!$"
 
 MauvilleCity_PokemonCenter_1F_Text_SafariGamesTitle:: @ 828F0F3
-	.string "The SAFARI-Loving Trainer$"
+	.string "The Safari-Loving Trainer$"
 
 MauvilleCity_PokemonCenter_1F_Text_SafariGamesAction:: @ 828F10D
 	.string "Entered the Safari Zone$"
@@ -752,7 +752,7 @@ MauvilleCity_PokemonCenter_1F_Text_CheckedClockStory:: @ 828FDCE
 	.string "who's conscious of the time.$"
 
 MauvilleCity_PokemonCenter_1F_Text_WonLotteryTitle:: @ 828FE57
-	.string "The Pokémon LOTTERY Wizard$"
+	.string "The Pokémon Lottery Wizard$"
 
 MauvilleCity_PokemonCenter_1F_Text_WonLotteryAction:: @ 828FE72
 	.string "Won Pokémon LOTTERIES$"

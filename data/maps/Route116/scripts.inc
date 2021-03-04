@@ -409,7 +409,7 @@ Route116_Text_ThankYouTokenOfAppreciation: @ 81F3317
 	.string "me in Petalburg Woods, but also got\l"
 	.string "back my stolen package and then even\l"
 	.string "graciously delivered it to Slateport!\p"
-	.string "CAPT. STERN informed us that the\n"
+	.string "Capt. Stern informed us that the\n"
 	.string "package arrived, too!\p"
 	.string "I thank you very, very much!\p"
 	.string "Why, if I were a rain cloud, I would\n"
@@ -430,7 +430,7 @@ Route116_Text_NewBallAvailableAtMart: @ 81F3521
 
 Route116_Text_BagIsJamPacked: @ 81F3593
 	.string "Your Bag is jam-packed.\n"
-	.string "I can't give you this REPEAT BALL.$"
+	.string "I can't give you this REPEAT Ball.$"
 
 Route116_Text_TokenOfAppreciation: @ 81F35CE
 	.string "As a token of our appreciation for\n"
@@ -477,7 +477,7 @@ Route116_Text_TunnelersRestHouse: @ 81F380F
 	.string "TUNNELER's REST HOUSE$"
 
 Route116_Text_TrainerTipsBToStopEvolution: @ 81F3825
-	.string "Trainer TIPS\p"
+	.string "Trainer Tips\p"
 	.string "If you want to stop a Pokémon from\n"
 	.string "evolving, press the B Button while it\l"
 	.string "is trying to evolve.\l"
@@ -485,7 +485,7 @@ Route116_Text_TrainerTipsBToStopEvolution: @ 81F3825
 	.string "This is called an evolution cancel.$"
 
 Route116_Text_TrainerTipsBagHasPockets: @ 81F38D4
-	.string "Trainer TIPS\p"
+	.string "Trainer Tips\p"
 	.string "Your Bag has several POCKETS.\p"
 	.string "Items you obtain are automatically\n"
 	.string "placed in the appropriate POCKETS.\p"

@@ -270,7 +270,7 @@ MauvilleCity_Gym_Text_GymGuideAdvice: @ 820E17F
 	.string "bound {PLAYER}?\p"
 	.string "Wattson, the Leader of Mauville\n"
 	.string "GYM, uses Electric-type Pokémon.\p"
-	.string "If you challenge him with WATER-type\n"
+	.string "If you challenge him with Water-type\n"
 	.string "Pokémon, he'll zap them! Bzzt!\p"
 	.string "And, he's put in switch-controlled\n"
 	.string "doors all over his GYM! Eccentric!\p"

@@ -164,7 +164,7 @@ BattleFrontier_Lounge2_Text_SalonMaidenSilverMons:: @ 8260A1E
 	.string "When she's measuring up her opponent,\n"
 	.string "she apparently uses these Pokémon:\p"
 	.string "A Psychic-type PSI Pokémon,\n"
-	.string "a FIRE-type VOLCANO Pokémon,\l"
+	.string "a Fire-type VOLCANO Pokémon,\l"
 	.string "and a Normal-type SLEEPING Pokémon.$"
 
 BattleFrontier_Lounge2_Text_SalonMaidenGoldMons:: @ 8260AE7
@@ -238,7 +238,7 @@ BattleFrontier_Lounge2_Text_PikeQueenSilverMons:: @ 82610CC
 	.string "she uses these three Pokémon:\p"
 	.string "A Poison-type FANG SNAKE Pokémon,\n"
 	.string "a Bug & Rock MOLD Pokémon,\l"
-	.string "and a WATER-type TENDER Pokémon.$"
+	.string "and a Water-type TENDER Pokémon.$"
 
 BattleFrontier_Lounge2_Text_PikeQueenGoldMons:: @ 8261194
 	.string "Have you battled the Pike Queen\n"
@@ -247,7 +247,7 @@ BattleFrontier_Lounge2_Text_PikeQueenGoldMons:: @ 8261194
 	.string "she uses these three Pokémon:\p"
 	.string "A Poison-type FANG SNAKE Pokémon,\n"
 	.string "a Steel & Ground Iron SNAKE Pokémon,\l"
-	.string "and a WATER- & Flying-type ATROCIOUS\l"
+	.string "and a Water- & Flying-type ATROCIOUS\l"
 	.string "Pokémon.$"
 
 BattleFrontier_Lounge2_Text_ArenaTycoonIsThere:: @ 8261282
@@ -273,7 +273,7 @@ BattleFrontier_Lounge2_Text_ArenaTycoonGoldMons:: @ 8261403
 	.string "she supposedly uses these Pokémon:\p"
 	.string "A Dark-type MOONLIGHT Pokémon,\n"
 	.string "a Ghost & Poison SHADOW Pokémon\l"
-	.string "and a GRASS- & Fighting-type\l"
+	.string "and a Grass- & Fighting-type\l"
 	.string "MUSHROOM Pokémon.$"
 
 BattleFrontier_Lounge2_Text_PalaceMavenIsThere:: @ 82614E6
@@ -290,16 +290,16 @@ BattleFrontier_Lounge2_Text_PalaceMavenSilverMons:: @ 8261591
 	.string "spirit, he's said to use these Pokémon:\p"
 	.string "A Poison & Flying-type BAT Pokémon,\n"
 	.string "a Normal-type LAZY Pokémon, and a\l"
-	.string "WATER- & Ice-type TRANSPORT Pokémon.$"
+	.string "Water- & Ice-type TRANSPORT Pokémon.$"
 
 BattleFrontier_Lounge2_Text_PalaceMavenGoldMons:: @ 826166F
 	.string "Have you battled the Palace Maven\n"
 	.string "when he's serious?\p"
 	.string "When he throws his entire might into\n"
 	.string "battle, he's said to use these Pokémon:\p"
-	.string "A FIRE-type LEGENDARY Pokémon,\n"
+	.string "A Fire-type LEGENDARY Pokémon,\n"
 	.string "a Normal-type LAZY Pokémon,\l"
-	.string "and a WATER-type AURORA Pokémon.$"
+	.string "and a Water-type AURORA Pokémon.$"
 
 BattleFrontier_Lounge2_Text_PyramidKingIsThere:: @ 826174D
 	.string "Bet you didn't know this!\p"
@@ -324,7 +324,7 @@ BattleFrontier_Lounge2_Text_PyramidKingGoldMons:: @ 82618C4
 	.string "he apparently uses these Pokémon:\p"
 	.string "An Ice & Flying FREEZE Pokémon, an\n"
 	.string "Electric & Flying Electric Pokémon,\l"
-	.string "and a FIRE- & Flying-type FLAME\l"
+	.string "and a Fire- & Flying-type FLAME\l"
 	.string "Pokémon.$"
 
 BattleFrontier_Lounge2_Text_DoubleBattleAdvice1:: @ 82619AC

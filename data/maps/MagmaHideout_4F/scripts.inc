@@ -157,7 +157,7 @@ MagmaHideout_4F_Text_Grunt12Defeat: @ 823A81B
 	.string "I've come so far, but now this?$"
 
 MagmaHideout_4F_Text_Grunt12PostBattle: @ 823A841
-	.string "MAXIE, sir!\n"
+	.string "Maxie, sir!\n"
 	.string "An intruder is headed your way!$"
 
 MagmaHideout_4F_Text_Grunt13Intro: @ 823A86D
@@ -175,7 +175,7 @@ MagmaHideout_4F_Text_TabithaIntro: @ 823A8E1
 	.string "You made it this far, so I'll tell you!\p"
 	.string "That's right!\n"
 	.string "Up ahead, GROUDON is sleeping!\p"
-	.string "MAXIE went to GROUDON just seconds\n"
+	.string "Maxie went to GROUDON just seconds\n"
 	.string "ago!\p"
 	.string "It's going to awaken real soon!\n"
 	.string "Hehe! Hehehe!$"
@@ -186,10 +186,10 @@ MagmaHideout_4F_Text_TabithaDefeat: @ 823A994
 
 MagmaHideout_4F_Text_TabithaPostBattle: @ 823A9AC
 	.string "…And while you wasted time with me,\n"
-	.string "MAXIE should have awakened GROUDON…$"
+	.string "Maxie should have awakened GROUDON…$"
 
 MagmaHideout_4F_Text_MaxieAwakenGroudon: @ 823A9F4
-	.string "MAXIE: GROUDON…\p"
+	.string "Maxie: GROUDON…\p"
 	.string "Nothing could awaken you from your\n"
 	.string "sleep bathed in magma…\p"
 	.string "This Blue ORB is what you sought.\n"
@@ -200,14 +200,14 @@ MagmaHideout_4F_Text_MaxieAwakenGroudon: @ 823A9F4
 	.string "Show me the full extent of your power!$"
 
 MagmaHideout_4F_Text_MaxieGroudonWhatsWrong: @ 823AADA
-	.string "MAXIE: GROUDON!\n"
+	.string "Maxie: GROUDON!\n"
 	.string "What's wrong?\p"
 	.string "Wasn't the Blue ORB the key?\p"
 	.string "GROUDON!\n"
 	.string "Where have you gone…$"
 
 MagmaHideout_4F_Text_MaxieOhItWasYou: @ 823AB33
-	.string "MAXIE: Oh, so it was you?\p"
+	.string "Maxie: Oh, so it was you?\p"
 	.string "I've seen you poking around uninvited\n"
 	.string "here and there…\p"
 	.string "I get it now!\n"
@@ -218,7 +218,7 @@ MagmaHideout_4F_Text_MaxieDefeat: @ 823ABB5
 	.string "Pokémon?$"
 
 MagmaHideout_4F_Text_MaxieImGoingAfterGroudon: @ 823ABE2
-	.string "MAXIE: There has to be some reason\n"
+	.string "Maxie: There has to be some reason\n"
 	.string "why GROUDON fled…\p"
 	.string "That's what you're trying to say,\n"
 	.string "aren't you?\p"

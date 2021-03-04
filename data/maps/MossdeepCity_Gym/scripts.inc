@@ -410,8 +410,8 @@ MossdeepCity_Gym_Text_VirgilPostBattle: @ 8220F3A
 	.string "than them…$"
 
 MossdeepCity_Gym_Text_BlakeIntro: @ 8220FB0
-	.string "Fufufufu… Watch me levitate a POKé\n"
-	.string "BALL telekinetically!\p"
+	.string "Fufufufu… Watch me levitate a Poké\n"
+	.string "Ball telekinetically!\p"
 	.string "Wrooooooooaaaar!\n"
 	.string "… … … … … … …\p"
 	.string "Sometimes, I'm out of sync…$"
@@ -576,7 +576,7 @@ MossdeepCity_Gym_Text_ExplainMindBadgeTakeThis: @ 8221999
 	.string "Tate: The MIND Badge enhances the\n"
 	.string "Sp. Atk and Sp. Def of Pokémon.\p"
 	.string "Liza: It also lets you use the HM move\n"
-	.string "DIVE outside of battle.\p"
+	.string "Dive outside of battle.\p"
 	.string "Tate: You should also take this, too.$"
 
 MossdeepCity_Gym_Text_ExplainCalmMind: @ 8221A40

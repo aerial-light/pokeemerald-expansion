@@ -93,7 +93,7 @@ LilycoveCity_CoveLilyMotel_2F_Text_ImTheProgrammer: @ 82188D6
 
 LilycoveCity_CoveLilyMotel_2F_Text_ImTheGraphicArtist: @ 821892B
 	.string "I'm the GRAPHIC ARTIST! Aren't the\n"
-	.string "Pokémon of HOENN interesting?$"
+	.string "Pokémon of Hoenn interesting?$"
 
 LilycoveCity_CoveLilyMotel_2F_Text_GirlsAreCute: @ 821896C
 	.string "The girl TUBERS, they're cute, hey?\n"

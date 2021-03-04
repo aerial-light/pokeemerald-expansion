@@ -583,7 +583,7 @@ LilycoveCity_Text_IfWorldBecomesOurs: @ 81E3CBE
 	.string "place for Pokémon, too.$"
 
 LilycoveCity_Text_WailmerLeapOutOfWater: @ 81E3D1F
-	.string "There! WAILMER!\n"
+	.string "There! Wailmer!\n"
 	.string "Leap out of the water now!$"
 
 LilycoveCity_Text_GetLostMessingUpTraining: @ 81E3D4A
@@ -610,7 +610,7 @@ LilycoveCity_Text_GoingToMoveDeleterForHMs: @ 81E3E7D
 
 LilycoveCity_Text_ImFromKanto: @ 81E3F05
 	.string "I came from KANTO.\p"
-	.string "The HOENN region is beautiful with\n"
+	.string "The Hoenn region is beautiful with\n"
 	.string "all its water and verdant nature.\p"
 	.string "Hunh? Wait a second…\p"
 	.string "Could there be rare Pokémon that live\n"
@@ -618,7 +618,7 @@ LilycoveCity_Text_ImFromKanto: @ 81E3F05
 
 LilycoveCity_Text_TeamAquaBeenTrainingWailmer: @ 81E3FAB
 	.string "Team Aqua's been training their\n"
-	.string "WAILMER in the cove.\p"
+	.string "Wailmer in the cove.\p"
 	.string "We SAILORS can't get our boats out\n"
 	.string "to sea with them in the way!$"
 
@@ -626,7 +626,7 @@ LilycoveCity_Text_SomeonePuntedTeamAquaOut: @ 81E4020
 	.string "Ahoy, did you know?\p"
 	.string "Someone punted Team Aqua out of\n"
 	.string "the way for us!\p"
-	.string "That got the WAILMER out of the cove,\n"
+	.string "That got the Wailmer out of the cove,\n"
 	.string "so we can get our boats out again.$"
 
 LilycoveCity_Text_SomeoneStoleMyPokemon: @ 81E40AD
@@ -641,10 +641,10 @@ LilycoveCity_Text_MissingPokemonCameBack: @ 81E4145
 	.string "It came back without me noticing!$"
 
 LilycoveCity_Text_ImArtDealer: @ 81E417B
-	.string "I'm an ART DEALER.\p"
+	.string "I'm an Art Dealer.\p"
 	.string "I am a buyer and seller of fine art,\n"
 	.string "especially paintings.\p"
-	.string "I've heard that the MUSEUM here has\n"
+	.string "I've heard that the Museum here has\n"
 	.string "magnificent works on exhibit…$"
 
 LilycoveCity_Text_SeaRemainsForeverYoung: @ 81E420B
@@ -692,12 +692,12 @@ LilycoveCity_Text_MotelSign: @ 81E44FC
 	.string "Lilycove.”$"
 
 LilycoveCity_Text_MuseumSign: @ 81E4534
-	.string "Lilycove MUSEUM\p"
+	.string "Lilycove Museum\p"
 	.string "“Pokémon Masterpiece Collection\n"
 	.string "on exhibit!”$"
 
 LilycoveCity_Text_MuseumSignPlayersExhibit: @ 81E4571
-	.string "Lilycove MUSEUM\p"
+	.string "Lilycove Museum\p"
 	.string "“{PLAYER}'s Pokémon Collection\n"
 	.string "on exhibit!”$"
 
@@ -719,7 +719,7 @@ LilycoveCity_Text_TrainerFanClubSign: @ 81E466E
 	.string "all over the sign…$"
 
 LilycoveCity_Text_DepartmentStoreSign: @ 81E46BE
-	.string "Lilycove Department STORE\p"
+	.string "Lilycove Department Store\p"
 	.string "“Overflowing with great merchandise\n"
 	.string "and excitement!\p"
 	.string "“A great place to find that something\n"
@@ -761,7 +761,7 @@ LilycoveCity_Text_JustArrivedAndSawRarePokemon: @ 81E494D
 	.string "We happened to see a Dragon-type\n"
 	.string "Pokémon flying way up in the sky.\p"
 	.string "Do cool Pokémon like that live in\n"
-	.string "the HOENN region?$"
+	.string "the Hoenn region?$"
 
 LilycoveCity_Text_HoneymoonVowToSeeRarePokemon: @ 81E49F4
 	.string "On our honeymoon, we vowed to see as\n"

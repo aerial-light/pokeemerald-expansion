@@ -230,11 +230,11 @@ RustboroCity_DevonCorp_3F_Text_MrStoneExplainPokenavRestUp: @ 8212837
 	.string "for short.\p"
 	.string "It's an indispensable tool for any\n"
 	.string "Trainer on an adventure.\p"
-	.string "It has a map of the HOENN region.\p"
+	.string "It has a map of the Hoenn region.\p"
 	.string "You can check the locations of\n"
 	.string "DEWFORD and Slateport easily!\p"
 	.string "By the way, I've heard that sinister\n"
-	.string "criminals--MAGMA and AQUA, I believe--\l"
+	.string "criminals--Magma and Aqua, I believe--\l"
 	.string "have been making trouble far and wide.\p"
 	.string "I think it would be best if you rested\n"
 	.string "up before you go on your way.$"
@@ -297,11 +297,11 @@ RustboroCity_DevonCorp_3F_Text_PleaseGoAhead: @ 8212E2F
 
 RustboroCity_DevonCorp_3F_Text_VisitCaptSternShipyard: @ 8212E41
 	.string "If you visit the SHIPYARD in Slateport,\n"
-	.string "you should go see CAPT. STERN.$"
+	.string "you should go see Capt. Stern.$"
 
 RustboroCity_DevonCorp_3F_Text_RepeatAndTimerHugelyPopular: @ 8212E88
-	.string "Devon's new products, the REPEAT BALL\n"
-	.string "and TIMER BALL, have become hugely\l"
+	.string "Devon's new products, the REPEAT Ball\n"
+	.string "and TIMER Ball, have become hugely\l"
 	.string "popular among Trainers.$"
 
 RustboroCity_DevonCorp_3F_Text_RareRocksDisplay: @ 8212EE9

@@ -1039,9 +1039,9 @@ SlateportCity_Text_BushedHikingFromMauville: @ 81DDA9A
 
 SlateportCity_Text_EveryoneCallsHimCaptStern: @ 81DDB21
 	.string "STERN, the fellow who built the\n"
-	.string "MUSEUM, also happens to be the leader\l"
+	.string "Museum, also happens to be the leader\l"
 	.string "of an undersea exploration team.\p"
-	.string "So, everyone calls him CAPT. STERN.$"
+	.string "So, everyone calls him Capt. Stern.$"
 
 SlateportCity_Text_WhatsLongLineOverThere: @ 81DDBAC
 	.string "What is that over there?\n"
@@ -1049,7 +1049,7 @@ SlateportCity_Text_WhatsLongLineOverThere: @ 81DDBAC
 
 SlateportCity_Text_VisitedMuseumOften: @ 81DDBD5
 	.string "When I was a child, I visited\n"
-	.string "the MUSEUM often.\p"
+	.string "the Museum often.\p"
 	.string "I used to dream about the mysteries of\n"
 	.string "the sea after seeing the exhibits.$"
 
@@ -1065,7 +1065,7 @@ SlateportCity_Text_AquaHasPolicy: @ 81DDC8A
 SlateportCity_Text_BossIsBrilliant: @ 81DDCD5
 	.string "Our BOSS is brilliant.\p"
 	.string "What would he want to do with\n"
-	.string "a MUSEUM now?$"
+	.string "a Museum now?$"
 
 SlateportCity_Text_WhatsNewSchemeIWonder: @ 81DDD18
 	.string "What's the new scheme, I wonder?\p"
@@ -1074,7 +1074,7 @@ SlateportCity_Text_WhatsNewSchemeIWonder: @ 81DDD18
 
 SlateportCity_Text_ShouldTakeItAll: @ 81DDD7D
 	.string "If there's something we need in\n"
-	.string "the MUSEUM, we should take it all!$"
+	.string "the Museum, we should take it all!$"
 
 SlateportCity_Text_DontButtIn: @ 81DDDC0
 	.string "Hey, you there!\n"
@@ -1154,7 +1154,7 @@ SlateportCity_Text_CaptSternBeingInterviewed: @ 81DE28E
 	.string "I was hoping that it was a famous star\n"
 	.string "so I could get an autograph.\p"
 	.string "But who's that being interviewed?\n"
-	.string "Isn't that CAPT. STERN?$"
+	.string "Isn't that Capt. Stern?$"
 
 SlateportCity_Text_InterviewerSoCool: @ 81DE30C
 	.string "That lady interviewer is so cool\n"
@@ -1163,7 +1163,7 @@ SlateportCity_Text_InterviewerSoCool: @ 81DE30C
 	.string "an international journalist!$"
 
 SlateportCity_Text_SternSaysDiscoveredSomething: @ 81DE376
-	.string "CAPT. STERN says they discovered\n"
+	.string "Capt. Stern says they discovered\n"
 	.string "something at the bottom of the sea.\p"
 	.string "I wonder what it is?\n"
 	.string "What could it be?$"
@@ -1182,7 +1182,7 @@ SlateportCity_Text_CaptainsACelebrity: @ 81DE460
 	.string "The CAPTAIN's a celebrity!$"
 
 SlateportCity_Text_BigSmileForCamera: @ 81DE491
-	.string "TY: Okay, CAPT. STERN, a big smile\n"
+	.string "TY: Okay, Capt. Stern, a big smile\n"
 	.string "for the camera!$"
 
 SlateportCity_Text_MostInvaluableExperience: @ 81DE4C4
@@ -1190,18 +1190,18 @@ SlateportCity_Text_MostInvaluableExperience: @ 81DE4C4
 	.string "invaluable experience…$"
 
 SlateportCity_Text_SternMoveAheadWithExploration: @ 81DE502
-	.string "CAPT. STERN: Yes, indeed. We intend to\n"
+	.string "Capt. Stern: Yes, indeed. We intend to\n"
 	.string "move ahead with our exploration.$"
 
 SlateportCity_Text_GabbyWonderfulThanksForInterview: @ 81DE54A
-	.string "GABBY: That's wonderful, CAPT. STERN!\n"
+	.string "GABBY: That's wonderful, Capt. Stern!\n"
 	.string "Thank you for taking the time from\l"
 	.string "your busy schedule to talk to us.\p"
 	.string "We hope we can interview you again\n"
 	.string "with news of more discoveries!$"
 
 SlateportCity_Text_SternWhewFirstInterview: @ 81DE5F7
-	.string "CAPT. STERN: Whew…\p"
+	.string "Capt. Stern: Whew…\p"
 	.string "That was my first time to be filmed for\n"
 	.string "TV. That was nerve-wracking.$"
 
@@ -1217,17 +1217,17 @@ SlateportCity_Text_OhPlayerWeMadeDiscovery: @ 81DE64F
 
 SlateportCity_Text_AquaWillAssumeControlOfSubmarine: @ 81DE724
 	.string "Fufufu…\n"
-	.string "CAPT. STERN, I presume.\p"
+	.string "Capt. Stern, I presume.\p"
 	.string "We of Team Aqua will assume\n"
 	.string "control of your submarine!\p"
 	.string "Your objections are meaningless!\n"
 	.string "We expect your total cooperation!\p"
 	.string "Fufufu…\n"
 	.string "Just watch and learn what TEAM\l"
-	.string "AQUA has planned!$"
+	.string "Aqua has planned!$"
 
 SlateportCity_Text_SternWhatWasAllThat: @ 81DE7F7
-	.string "CAPT. STERN: What was that all about?\p"
+	.string "Capt. Stern: What was that all about?\p"
 	.string "It sounded like someone using\n"
 	.string "a megaphone…\p"
 	.string "Where did it come from?$"
@@ -1242,7 +1242,7 @@ SlateportCity_Text_PleaseComeWithMe: @ 81DE8A0
 	.string "Please, come with me!$"
 
 SlateportCity_Text_BattleTentSign: @ 81DE8BC
-	.string "Battle TENT Slateport SITE\n"
+	.string "Battle TENT Slateport Site\n"
 	.string "“Find it! The ultimate Pokémon!”$"
 
 SlateportCity_Text_SternsShipyardWantedSign: @ 81DE8F8
@@ -1269,7 +1269,7 @@ SlateportCity_Text_PokemonFanClubSign: @ 81DEA0B
 SlateportCity_Text_OceanicMuseumSign: @ 81DEA3B
 	.string "“The endless sea sustains\n"
 	.string "all life.”\p"
-	.string "OCEANIC MUSEUM$"
+	.string "OCEANIC Museum$"
 
 SlateportCity_Text_CitySign: @ 81DEA6F
 	.string "Slateport City\p"
@@ -1371,7 +1371,7 @@ SlateportCity_Text_LetsRegisterEachOther: @ 81DF12B
 	.string "SCOTT: All right! I think you're going\n"
 	.string "to become a good friend.\p"
 	.string "So, let's register each other in our\n"
-	.string "POKéNAVS.\p"
+	.string "PokéNavs.\p"
 	.string "… … … … … …$"
 
 SlateportCity_Text_RegisteredScott: @ 81DF1A6

@@ -220,10 +220,10 @@ Text_CantWaterfall: @ 8290A8E
 
 Text_WantToWaterfall: @ 8290AC3
 	.string "It's a large waterfall.\n"
-	.string "Would you like to use WATERFALL?$"
+	.string "Would you like to use Waterfall?$"
 
 Text_MonUsedWaterfall: @ 8290AFC
-	.string "{STR_VAR_1} used WATERFALL.$"
+	.string "{STR_VAR_1} used Waterfall.$"
 
 EventScript_UseDive:: @ 8290B0F
 	lockall
@@ -282,10 +282,10 @@ Text_CantDive: @ 8290BAA
 
 Text_WantToDive: @ 8290BE8
 	.string "The sea is deep here.\n"
-	.string "Would you like to use DIVE?$"
+	.string "Would you like to use Dive?$"
 
 Text_MonUsedDive: @ 8290C1A
-	.string "{STR_VAR_1} used DIVE.$"
+	.string "{STR_VAR_1} used Dive.$"
 
 Text_CantSurface: @ 8290C28
 	.string "Light is filtering down from above.\n"
@@ -293,7 +293,7 @@ Text_CantSurface: @ 8290C28
 
 Text_WantToSurface: @ 8290C6E
 	.string "Light is filtering down from above.\n"
-	.string "Would you like to use DIVE?$"
+	.string "Would you like to use Dive?$"
 
 EventScript_FailSweetScent:: @ 8290CAE
 	msgbox Text_FailSweetScent, MSGBOX_SIGN

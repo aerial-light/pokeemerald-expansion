@@ -152,11 +152,11 @@ LilycoveCity_DepartmentStore_1F_EventScript_FloorNamesSign:: @ 821F85D
 	end
 
 LilycoveCity_DepartmentStore_1F_Text_WelcomeToDeptStore: @ 821F866
-	.string "Welcome to Lilycove Department STORE.$"
+	.string "Welcome to Lilycove Department Store.$"
 
 LilycoveCity_DepartmentStore_1F_Text_IBuyAllSortsOfThings: @ 821F88C
 	.string "Whenever I come to the Department\n"
-	.string "STORE, I always end up buying all sorts\l"
+	.string "Store, I always end up buying all sorts\l"
 	.string "of things because it's so fun.$"
 
 LilycoveCity_DepartmentStore_1F_Text_MomBuyingMeFurniture: @ 821F8F5

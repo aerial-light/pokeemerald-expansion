@@ -335,11 +335,11 @@ MossdeepCity_Text_WhatToDoWithWeirdRock: @ 81E4DD7
 
 MossdeepCity_Text_WailmerWatching: @ 81E4E22
 	.string "Around MOSSDEEP, you can see wild\n"
-	.string "WAILMER.\p"
+	.string "Wailmer.\p"
 	.string "It's called, uh…\n"
 	.string "What was it now…\p"
 	.string "WAI, WAI, WAI…\p"
-	.string "WAILMER watching!$"
+	.string "Wailmer watching!$"
 
 MossdeepCity_Text_SpaceCenterReceivedLetter: @ 81E4E90
 	.string "The island's SPACE CENTER has been\n"
@@ -431,7 +431,7 @@ MossdeepCity_Text_SootopolisNewGymLeader: @ 81E5581
 	.string "Ahh… It feels great letting the waves\n"
 	.string "wash over my feet…\p"
 	.string "Speaking of the waves, you know that\n"
-	.string "island city SOOTOPOLIS?\p"
+	.string "island city Sootopolis?\p"
 	.string "I think the Gym there had a new\n"
 	.string "Leader come in.\p"
 	.string "People tell me the new Leader once\n"

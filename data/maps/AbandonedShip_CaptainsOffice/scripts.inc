@@ -25,14 +25,14 @@ AbandonedShip_CaptainsOffice_EventScript_ThisIsSSCactus:: @ 823881A
 
 AbandonedShip_CaptainsOffice_Text_NoSuccessFindingScanner: @ 8238824
 	.string "I'm investigating this ship on behalf\n"
-	.string "of CAPT. STERN.\p"
+	.string "of Capt. Stern.\p"
 	.string "He also asked me to find a SCANNER,\n"
 	.string "but I haven't had any success…$"
 
 AbandonedShip_CaptainsOffice_Text_OhCanYouDeliverScanner: @ 823889D
 	.string "Oh! That's a SCANNER!\p"
 	.string "Listen, can I get you to deliver that\n"
-	.string "to CAPT. STERN?\p"
+	.string "to Capt. Stern?\p"
 	.string "I want to investigate this ship a\n"
 	.string "little more.$"
 

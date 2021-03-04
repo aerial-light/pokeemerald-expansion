@@ -53,7 +53,7 @@ VerdanturfTown_Mart_Text_NoStrategyGuidesForBattleTent: @ 820264C
 	.string "own wits after all…$"
 
 VerdanturfTown_Mart_Text_NestBallOnWeakenedPokemon: @ 82026C9
-	.string "The NEST BALL works better on\n"
+	.string "The NEST Ball works better on\n"
 	.string "weakened Pokémon.\p"
 	.string "Verdanturf is the only place you can\n"
 	.string "buy it.$"

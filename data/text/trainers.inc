@@ -395,13 +395,13 @@ Route104_Text_CindyPostBattle: @ 8295AC3
 Route104_Text_CindyRegister1: @ 8295B01
 	.string "Hello, we meet again.\p"
 	.string "We seem to be drawn together. Let's\n"
-	.string "register each other in our POKéNAVS.$"
+	.string "register each other in our POKéNavs.$"
 
 Route104_Text_CindyRegister2: @ 8295B60
 	.string "We should commemorate how we seem\n"
 	.string "to be drawn to each other.\p"
 	.string "Let's register each other in our\n"
-	.string "POKéNAVS.$"
+	.string "POKéNavs.$"
 
 Route104_Text_CindyRematchIntro: @ 8295BC8
 	.string "Hello, we meet again.\n"
@@ -463,7 +463,7 @@ Route105_Text_DominikDefeated: @ 8295EEA
 
 Route105_Text_DominikPostBattle: @ 8295F08
 	.string "Why is the sea blue?\p"
-	.string "I learned about that at the MUSEUM in\n"
+	.string "I learned about that at the Museum in\n"
 	.string "Slateport, but I forgot.$"
 
 Route105_Text_BeverlyIntro: @ 8295F5C
@@ -762,7 +762,7 @@ Route108_Text_MissyPostBattle: @ 8296F2A
 	.string "It's so healthy!$"
 
 Route108_Text_CoryIntro: @ 8296F5D
-	.string "I love WATER-type Pokémon.\n"
+	.string "I love Water-type Pokémon.\n"
 	.string "I love other Pokémon, too!$"
 
 Route108_Text_CoryDefeated: @ 8296F93
@@ -952,7 +952,7 @@ Route109_Text_PaulNotEnoughPokemon: @ 829781D
 
 Route109_Text_MelIntro: @ 8297872
 	.string "Mel: We're, like, totally in love.\n"
-	.string "Our romance is heating up all of HOENN!$"
+	.string "Our romance is heating up all of Hoenn!$"
 
 Route109_Text_MelDefeated: @ 82978BD
 	.string "Mel: We lost, and it's my fault!\n"
@@ -1304,7 +1304,7 @@ Route111_Text_DustyRegister: @ 8298C00
 	.string "I haven't been searching for any\n"
 	.string "tough Pokémon.\p"
 	.string "But, for some reason, I sure do like\n"
-	.string "POKéNAVS.$"
+	.string "POKéNavs.$"
 
 Route111_Text_DustyRematchIntro: @ 8298C5F
 	.string "For thirty years I have searched for\n"
@@ -3236,7 +3236,7 @@ Route121_Text_JessicaDefeat: @ 829F641
 
 Route121_Text_JessicaPostBattle: @ 829F66F
 	.string "Maybe I'll go catch more Pokémon at\n"
-	.string "the SAFARI.$"
+	.string "the Safari.$"
 
 Route121_Text_JessicaRegister: @ 829F69F
 	.string "I took it easy on you this time!\n"
@@ -3252,7 +3252,7 @@ Route121_Text_JessicaRematchDefeat: @ 829F710
 
 Route121_Text_JessicaPostRematch: @ 829F740
 	.string "Maybe I'll go catch more Pokémon at\n"
-	.string "the SAFARI.$"
+	.string "the Safari.$"
 
 Route121_Text_CristinIntro: @ 829F770
 	.string "I have this routine.\n"
@@ -3298,7 +3298,7 @@ Route121_Text_CaleDefeat: @ 829F97B
 
 Route121_Text_CalePostBattle: @ 829F9AE
 	.string "I bought too much stuff at\n"
-	.string "the Lilycove DEPT. STORE.\p"
+	.string "the Lilycove Dept. Store.\p"
 	.string "It's up the road from here.\n"
 	.string "I wish I had a Bag like yours.$"
 
@@ -3670,7 +3670,7 @@ Route124_Text_ChadDefeat: @ 82A0DFF
 
 Route124_Text_ChadPostBattle: @ 82A0E1E
 	.string "I have it on good authority that\n"
-	.string "there's a DIVE spot around here.\p"
+	.string "there's a Dive spot around here.\p"
 	.string "It gives me the urge to go deep\n"
 	.string "again…$"
 
@@ -3682,7 +3682,7 @@ Route124_Text_LilaIntro: @ 82A0E87
 	.string "on that!$"
 
 Route124_Text_LilaDefeat: @ 82A0EFE
-	.string "Lila: ROY! It's your fault we lost!\n"
+	.string "Lila: Roy! It's your fault we lost!\n"
 	.string "You're in for it later!$"
 
 Route124_Text_LilaPostBattle: @ 82A0F3A
@@ -3724,7 +3724,7 @@ Route124_Text_LilaRematchIntro: @ 82A111E
 	.string "so I won't have to dwell on things!$"
 
 Route124_Text_LilaRematchDefeat: @ 82A11B2
-	.string "Lila: ROY!\n"
+	.string "Lila: Roy!\n"
 	.string "It's your fault we lost again!\p"
 	.string "We're having a training session later!$"
 
@@ -3800,7 +3800,7 @@ Route125_Text_StanDefeat: @ 82A15C7
 	.string "I floundered…$"
 
 Route125_Text_StanPostBattle: @ 82A15D5
-	.string "I was blown away by HORSEA's charm,\n"
+	.string "I was blown away by Horsea's charm,\n"
 	.string "so I started swimming, too.$"
 
 Route125_Text_TanyaIntro: @ 82A1615
@@ -3826,7 +3826,7 @@ Route125_Text_SharonPostBattle: @ 82A16CE
 	.string "I'm amazed!$"
 
 Route125_Text_ErnestIntro: @ 82A16FC
-	.string "Ahoy! I'm a buff, tough SAILOR!\n"
+	.string "Ahoy! I'm a buff, tough Sailor!\n"
 	.string "I've braved the world's seas!$"
 
 Route125_Text_ErnestDefeat: @ 82A173A
@@ -3903,7 +3903,7 @@ Route125_Text_PresleyDefeat: @ 82A1B4E
 Route125_Text_PresleyPostBattle: @ 82A1B70
 	.string "I put a message in a bottle and put\n"
 	.string "it out to sea.\p"
-	.string "I'm sure that a girl SWIMMER will\n"
+	.string "I'm sure that a girl Swimmer will\n"
 	.string "find it!$"
 
 Route125_Text_AuronIntro: @ 82A1BCE
@@ -3941,7 +3941,7 @@ Route126_Text_DeanDefeat: @ 82A1D63
 
 Route126_Text_DeanPostBattle: @ 82A1D72
 	.string "I can't find the entrance to\n"
-	.string "SOOTOPOLIS. Where could it be?$"
+	.string "Sootopolis. Where could it be?$"
 
 Route126_Text_NikkiIntro: @ 82A1DAE
 	.string "Ufufufufu!\n"
@@ -3984,7 +3984,7 @@ Route126_Text_PabloRegister: @ 82A1F5A
 
 Route126_Text_PabloRematchIntro: @ 82A1F98
 	.string "Check out this beautiful body!\n"
-	.string "I'm more shapely than a SWIMMER!$"
+	.string "I'm more shapely than a Swimmer!$"
 
 Route126_Text_PabloRematchDefeat: @ 82A1FD8
 	.string "Whoops! Really too strong!\n"
@@ -3997,7 +3997,7 @@ Route126_Text_PabloPostRematch: @ 82A200C
 
 Route126_Text_LeonardoIntro: @ 82A2063
 	.string "I couldn't even swim last year,\n"
-	.string "but now I'm a decent SWIMMER.\p"
+	.string "but now I'm a decent Swimmer.\p"
 	.string "I think I'm capable of anything now.$"
 
 Route126_Text_LeonardoDefeat: @ 82A20C6
@@ -4228,17 +4228,17 @@ Route128_Text_RubenPostBattle: @ 82A2D0D
 	.string "than you!$"
 
 Route128_Text_WayneIntro: @ 82A2D3D
-	.string "I want to visit EVER GRANDE, so I\n"
+	.string "I want to visit Ever Grande, so I\n"
 	.string "caught myself a Pokémon that knows\l"
-	.string "the move WATERFALL to crest the falls.$"
+	.string "the move Waterfall to crest the falls.$"
 
 Route128_Text_WayneDefeat: @ 82A2DA9
 	.string "I'm crestfallen!$"
 
 Route128_Text_WaynePostBattle: @ 82A2DBA
 	.string "Awww, phooey!\p"
-	.string "My Pokémon knows WATERFALL, but\n"
-	.string "I don't have the SOOTOPOLIS Gym Badge!$"
+	.string "My Pokémon knows Waterfall, but\n"
+	.string "I don't have the Sootopolis Gym Badge!$"
 
 Route128_Text_HarrisonIntro: @ 82A2E0F
 	.string "You're looking awfully tough.\n"
@@ -4250,7 +4250,7 @@ Route128_Text_HarrisonDefeat: @ 82A2E44
 
 Route128_Text_HarrisonPostBattle: @ 82A2E6C
 	.string "There are tough Trainers galore\n"
-	.string "around EVER GRANDE.\p"
+	.string "around Ever Grande.\p"
 	.string "Do you think I may be out\n"
 	.string "of my league?$"
 

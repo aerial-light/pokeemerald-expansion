@@ -120,7 +120,7 @@ Route112_Text_YeahWeNeedMeteorite: @ 81F1F7A
 
 Route112_Text_OhThatsWhyCrewWentToFallarbor: @ 81F1FBA
 	.string "Oh, I get it now. That's why the rest\n"
-	.string "of the crew went out to FALLARBOR.$"
+	.string "of the crew went out to Fallarbor.$"
 
 Route112_Text_CantLetAnyonePassUntilTheyreBack: @ 81F2003
 	.string "You got it. And until they come back,\n"
