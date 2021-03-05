@@ -135,7 +135,7 @@ bool8 IsBagPocketNonEmpty(u8 pocket)
 
 bool8 CheckBagHasItem(u16 itemId, u16 count)
 {
-    u8 i;
+    u16 i;
     u8 pocket;
 
     if (ItemId_GetPocket(itemId) == 0)
@@ -180,7 +180,7 @@ bool8 HasAtLeastOneBerry(void)
 
 bool8 CheckBagHasSpace(u16 itemId, u16 count)
 {
-    u8 i;
+    u16 i;
     u8 pocket;
     u16 slotCapacity;
     u16 ownedCount;
@@ -244,7 +244,7 @@ bool8 CheckBagHasSpace(u16 itemId, u16 count)
 
 bool8 AddBagItem(u16 itemId, u16 count)
 {
-    u8 i;
+    u16 i;
 
     if (ItemId_GetPocket(itemId) == POCKET_NONE)
         return FALSE;
@@ -356,7 +356,7 @@ bool8 AddBagItem(u16 itemId, u16 count)
 
 bool8 RemoveBagItem(u16 itemId, u16 count)
 {
-    u8 i;
+    u16 i;
     u16 totalQuantity = 0;
 
     if (ItemId_GetPocket(itemId) == POCKET_NONE || itemId == ITEM_NONE)
@@ -447,7 +447,7 @@ u8 GetPocketByItemId(u16 itemId)
     return ItemId_GetPocket(itemId);
 }
 
-void ClearItemSlots(struct ItemSlot *itemSlots, u8 itemCount)
+void ClearItemSlots(struct ItemSlot *itemSlots, u16 itemCount)
 {
     u16 i;
 

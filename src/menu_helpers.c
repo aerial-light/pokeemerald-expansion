@@ -344,7 +344,7 @@ void sub_812220C(struct ItemSlot *slots, u8 count, u8 *arg2, u8 *usedSlotsCount,
         *arg2 = (*usedSlotsCount);
 }
 
-void sub_812225C(u16 *scrollOffset, u16 *cursorPos, u8 maxShownItems, u8 numItems)
+void sub_812225C(u16 *scrollOffset, u16 *cursorPos, u8 maxShownItems, u16 numItems)
 {
     if (*scrollOffset != 0 && *scrollOffset + maxShownItems > numItems)
         *scrollOffset = numItems - maxShownItems;
@@ -358,7 +358,7 @@ void sub_812225C(u16 *scrollOffset, u16 *cursorPos, u8 maxShownItems, u8 numItem
     }
 }
 
-void sub_8122298(u16 *arg0, u16 *arg1, u8 arg2, u8 arg3, u8 arg4)
+void sub_8122298(u16 *arg0, u16 *arg1, u8 arg2, u16 arg3, u8 arg4)
 {
     u8 i;
 
