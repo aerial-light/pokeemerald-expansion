@@ -961,7 +961,7 @@ LittlerootTown_EventScript_GiveRunningShoes:: @ 81E8693
 	return
 
 LittlerootTown_Text_OurNewHomeLetsGoInside: @ 81E86BC
-	.string "MOM: {PLAYER}, we're here, honey!\p"
+	.string "Mom: {PLAYER}, we're here, honey!\p"
 	.string "It must be tiring riding with our things\n"
 	.string "in the moving truck.\p"
 	.string "Well, this is Littleroot Town.\p"
@@ -973,10 +973,10 @@ LittlerootTown_Text_OurNewHomeLetsGoInside: @ 81E86BC
 	.string "Let's go inside.$"
 
 LittlerootTown_Text_WaitPlayer: @ 81E87E1
-	.string "MOM: Wait, {PLAYER}!$"
+	.string "Mom: Wait, {PLAYER}!$"
 
 LittlerootTown_Text_WearTheseRunningShoes: @ 81E87F0
-	.string "MOM: {PLAYER}! {PLAYER}! Did you\n"
+	.string "Mom: {PLAYER}! {PLAYER}! Did you\n"
 	.string "introduce yourself to Prof. Birch?\p"
 	.string "Oh! What an adorable Pokémon!\n"
 	.string "You got it from Prof. Birch. How nice!\p"
@@ -991,7 +991,7 @@ LittlerootTown_Text_SwitchShoesWithRunningShoes: @ 81E8925
 	.string "RUNNING SHOES.$"
 
 LittlerootTown_Text_ExplainRunningShoes: @ 81E894F
-	.string "MOM: {PLAYER}, those shoes came with\n"
+	.string "Mom: {PLAYER}, those shoes came with\n"
 	.string "instructions.\p"
 	.string "“Press the B Button while wearing these\n"
 	.string "RUNNING SHOES to run extra-fast!\p"
@@ -1068,5 +1068,5 @@ LittlerootTown_Text_BirchSomethingToShowYouAtLab: @ 81E8DA2
 	.string "Oh, yes. Do you still have the Pokédex\n"
 	.string "I gave you?\p"
 	.string "I have something to show you.\n"
-	.string "Let's go to my LAB.$"
+	.string "Let's go to my Lab.$"
 

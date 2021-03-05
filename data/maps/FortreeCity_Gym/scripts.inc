@@ -140,7 +140,7 @@ FortreeCity_Gym_Text_GymGuideAdvice: @ 8216785
 	.string "bound {PLAYER}?\p"
 	.string "Fortree Gym Leader Winona is\n"
 	.string "a master of Flying-type Pokémon.\p"
-	.string "She's waiting at the back of this GYM,\n"
+	.string "She's waiting at the back of this Gym,\n"
 	.string "behind the rotating doors.\p"
 	.string "She's waiting for new challengers\n"
 	.string "who are trying to take wing!\p"
@@ -166,7 +166,7 @@ FortreeCity_Gym_Text_JaredPostBattle: @ 82168E7
 
 FortreeCity_Gym_Text_EdwardoIntro: @ 821695A
 	.string "The lovers of BIRD Pokémon aspire\n"
-	.string "to join this GYM.\p"
+	.string "to join this Gym.\p"
 	.string "As a member of the Fortree Gym,\n"
 	.string "I'm not allowed to lose!$"
 
@@ -181,7 +181,7 @@ FortreeCity_Gym_Text_EdwardoPostBattle: @ 82169F1
 	.string "myself even stronger.$"
 
 FortreeCity_Gym_Text_FlintIntro: @ 8216A66
-	.string "There's no need for Winona, our GYM\n"
+	.string "There's no need for Winona, our Gym\n"
 	.string "Leader, to deal with you!\p"
 	.string "I'm plenty good enough for you!$"
 
@@ -235,7 +235,7 @@ FortreeCity_Gym_Text_DariusPostBattle: @ 8216D0F
 
 FortreeCity_Gym_Text_WinonaIntro: @ 8216D75
 	.string "I am Winona. I am the Leader of\n"
-	.string "the Fortree Pokémon GYM.\p"
+	.string "the Fortree Pokémon Gym.\p"
 	.string "I have become one with BIRD Pokémon\n"
 	.string "and have soared the skies…\p"
 	.string "However grueling the battle, we have\n"
@@ -278,11 +278,11 @@ FortreeCity_Gym_Text_WinonaPostBattle: @ 8217071
 	.string "devoted to BIRD Pokémon.$"
 
 FortreeCity_Gym_Text_GymStatue: @ 82170AE
-	.string "Fortree City Pokémon GYM$"
+	.string "Fortree City Pokémon Gym$"
 
 FortreeCity_Gym_Text_GymStatueCertified: @ 82170C7
-	.string "Fortree City Pokémon GYM\p"
-	.string "Winona's CERTIFIED Trainers:\n"
+	.string "Fortree City Pokémon Gym\p"
+	.string "Winona's certified Trainers:\n"
 	.string "{PLAYER}$"
 
 FortreeCity_Gym_Text_WinonaPreRematch: @ 8217100

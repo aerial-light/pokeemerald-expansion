@@ -1056,7 +1056,7 @@ RustboroCity_Text_SneakyLookingManWentAroundCorner: @ 81E12AC
 	.string "looking guy went around the corner.$"
 
 RustboroCity_Text_HaveYouChallengedGym: @ 81E130D
-	.string "Have you taken the Pokémon GYM\n"
+	.string "Have you taken the Pokémon Gym\n"
 	.string "challenge?\p"
 	.string "When you get that shiny Gym Badge\n"
 	.string "in hand, I guess Trainers begin to\l"
@@ -1116,7 +1116,7 @@ RustboroCity_Text_PokemonChangeShape: @ 81E174B
 RustboroCity_Text_TradePokemonGrowFast: @ 81E1789
 	.string "A Pokémon you get in a trade from\n"
 	.string "someone grows fast.\p"
-	.string "But if you don't have certain GYM\n"
+	.string "But if you don't have certain Gym\n"
 	.string "Badges, it may not obey you…$"
 
 RustboroCity_Text_OutOfTheWay: @ 81E17FE
@@ -1263,7 +1263,7 @@ RustboroCity_Text_DevonCorpSign: @ 81E2128
 	.string "it all.”$"
 
 RustboroCity_Text_GymSign: @ 81E2167
-	.string "Rustboro City Pokémon GYM\n"
+	.string "Rustboro City Pokémon Gym\n"
 	.string "Leader: Roxanne\p"
 	.string "“The Rock-loving honors student!”$"
 

@@ -486,7 +486,7 @@ MauvilleCity_Text_UncleYourePushingIt: @ 81DF8B9
 	.string "Since you started living with Pokémon,\n"
 	.string "you have grown quite a lot stronger.\p"
 	.string "But don't you think you're pushing it\n"
-	.string "to suddenly challenge a GYM?$"
+	.string "to suddenly challenge a Gym?$"
 
 MauvilleCity_Text_WallyWeCanBeatAnyone: @ 81DF963
 	.string "Wally: I'm not pushing it.\p"
@@ -646,7 +646,7 @@ MauvilleCity_Text_CitySign: @ 81E0485
 	.string "“The bright and shiny city of fun!”$"
 
 MauvilleCity_Text_GymSign: @ 81E04B7
-	.string "Mauville City Pokémon GYM\n"
+	.string "Mauville City Pokémon Gym\n"
 	.string "Leader: Wattson\l"
 	.string "“The cheerfully electrifying man!”$"
 

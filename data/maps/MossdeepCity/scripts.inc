@@ -402,7 +402,7 @@ MossdeepCity_Text_ItsAWhiteRock: @ 81E5396
 	.string "It's a white rock.$"
 
 MossdeepCity_Text_GymSign: @ 81E53A9
-	.string "Mossdeep City Pokémon GYM\n"
+	.string "Mossdeep City Pokémon Gym\n"
 	.string "LEADERS: Liza & Tate\p"
 	.string "“The mystic combination!”$"
 

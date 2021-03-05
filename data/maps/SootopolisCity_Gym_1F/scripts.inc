@@ -209,7 +209,7 @@ SootopolisCity_Gym_1F_Text_JuanIntro: @ 8225268
 	.string "Once, I had given up my position as\n"
 	.string "the Gym Leader.\p"
 	.string "In my place, I had entrusted Wallace\n"
-	.string "with the GYM.\p"
+	.string "with the Gym.\p"
 	.string "However, a compelling reason arose for\n"
 	.string "me to make a comeback.\p"
 	.string "Ah, but enough chatter.\n"
@@ -281,11 +281,11 @@ SootopolisCity_Gym_1F_Text_GoGetFortreeBadge: @ 8225865
 	.string "Badge from the Gym in Fortree.$"
 
 SootopolisCity_Gym_1F_Text_GymStatue: @ 82258FA
-	.string "Sootopolis City Pokémon GYM$"
+	.string "Sootopolis City Pokémon Gym$"
 
 SootopolisCity_Gym_1F_Text_GymStatueCertified: @ 8225916
-	.string "Sootopolis City Pokémon GYM\p"
-	.string "Juan's CERTIFIED Trainers:\n"
+	.string "Sootopolis City Pokémon Gym\p"
+	.string "Juan's certified Trainers:\n"
 	.string "{PLAYER}$"
 
 SootopolisCity_Gym_1F_Text_JuanPreRematch: @ 8225950

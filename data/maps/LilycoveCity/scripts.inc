@@ -459,7 +459,7 @@ LilycoveCity_Text_MayDefeat: @ 81E3275
 
 LilycoveCity_Text_MayGoingBackToLittleroot: @ 81E32FB
 	.string "May: I'm thinking of going back to\n"
-	.string "LITTLEROOT soon.\p"
+	.string "LittleRoot soon.\p"
 	.string "I've caught a decent group of Pokémon,\n"
 	.string "and my Pokédex is coming along, so\l"
 	.string "I'm going home to show my dad.$"
@@ -521,7 +521,7 @@ LilycoveCity_Text_BrendanDefeat: @ 81E3777
 
 LilycoveCity_Text_BrendanGoingBackToLittleroot: @ 81E37D7
 	.string "Brendan: I…\n"
-	.string "I plan on going home to LITTLEROOT.\p"
+	.string "I plan on going home to LittleRoot.\p"
 	.string "You know I'm helping out my dad on his\n"
 	.string "Pokédex. It's coming together pretty\l"
 	.string "decently, so I should go show him.$"

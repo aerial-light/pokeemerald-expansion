@@ -115,7 +115,7 @@ RustboroCity_Gym_Text_GymGuideAdvice: @ 821309D
 	.string "That's settled, then! We'll aim for the\n"
 	.string "Pokémon CHAMPIONSHIP together!\p"
 	.string "It's your job as a Trainer to collect\n"
-	.string "GYM Badges, am I right?\p"
+	.string "Gym Badges, am I right?\p"
 	.string "But Gym LEADERS aren't pushovers!\p"
 	.string "And that's where I come in!\n"
 	.string "I'm here to provide expert advice!\p"
@@ -227,11 +227,11 @@ RustboroCity_Gym_Text_RoxannePostBattle: @ 82139A7
 	.string "learn many things.$"
 
 RustboroCity_Gym_Text_GymStatue: @ 8213A21
-	.string "Rustboro City Pokémon GYM$"
+	.string "Rustboro City Pokémon Gym$"
 
 RustboroCity_Gym_Text_GymStatueCertified: @ 8213A3B
-	.string "Rustboro City Pokémon GYM\p"
-	.string "Roxanne's CERTIFIED Trainers:\n"
+	.string "Rustboro City Pokémon Gym\p"
+	.string "Roxanne's certified Trainers:\n"
 	.string "{PLAYER}$"
 
 RustboroCity_Gym_Text_RoxanneRegisterCall: @ 8213A76
@@ -244,7 +244,7 @@ RustboroCity_Gym_Text_RoxanneRegisterCall: @ 8213A76
 	.string "Trainers at an incredible clip.\p"
 	.string "Well, I'd rather not think that\n"
 	.string "I can't beat you.\p"
-	.string "I promise, I will shape up my GYM\n"
+	.string "I promise, I will shape up my Gym\n"
 	.string "so that you may challenge us again.\p"
 	.string "I hope you'll be looking forward to\n"
 	.string "that occasion as much as me!\p"

@@ -589,7 +589,7 @@ MossdeepCity_Gym_Text_ExplainCalmMind: @ 8221A40
 	.string "… … … … … …$"
 
 MossdeepCity_Gym_Text_RegisteredTateAndLiza: @ 8221AEA
-	.string "Registered Gym LEADERS Tate & Liza\n"
+	.string "Registered Gym Leaders Tate & Liza\n"
 	.string "in the PokéNav.$"
 
 MossdeepCity_Gym_Text_TateAndLizaPostBattle: @ 8221B1D
@@ -601,7 +601,7 @@ MossdeepCity_Gym_Text_TateAndLizaPostBattle: @ 8221B1D
 
 MossdeepCity_Gym_Text_TateAndLizaNeedTwoMons: @ 8221BCE
 	.string "Tate: Hehehe… Were you surprised?\p"
-	.string "Liza: That there are two Gym LEADERS?\p"
+	.string "Liza: That there are two Gym Leaders?\p"
 	.string "Tate: Oops, you have only one…\n"
 	.string "Liza: Pokémon that can battle.\p"
 	.string "Tate: We can't battle that way!\p"
@@ -609,11 +609,11 @@ MossdeepCity_Gym_Text_TateAndLizaNeedTwoMons: @ 8221BCE
 	.string "bring some more Pokémon.$"
 
 MossdeepCity_Gym_Text_GymStatue: @ 8221CB0
-	.string "Mossdeep City Pokémon GYM$"
+	.string "Mossdeep City Pokémon Gym$"
 
 MossdeepCity_Gym_Text_GymStatueCertified: @ 8221CCA
-	.string "Mossdeep City Pokémon GYM\p"
-	.string "Liza AND Tate's CERTIFIED Trainers:\n"
+	.string "Mossdeep City Pokémon Gym\p"
+	.string "Liza and Tate's certified Trainers:\n"
 	.string "{PLAYER}$"
 
 MossdeepCity_Gym_Text_TateAndLizaPreRematch: @ 8221D0B

@@ -68,7 +68,7 @@ CaveOfOrigin_B1F_Text_WallaceStory: @ 823586E
 	.string "I was once the Gym Leader of\n"
 	.string "Sootopolis, but something came up.\p"
 	.string "So now, I've entrusted my mentor Juan\n"
-	.string "with the GYM's operation.\p"
+	.string "with the Gym's operation.\p"
 	.string "… … … … … …\n"
 	.string "… … … … … …\p"
 	.string "GROUDON and KYOGRE, the two Pokémon\n"

@@ -73,7 +73,7 @@ FallarborTown_Text_Azurill: @ 81EB3B5
 
 FallarborTown_Text_HaveYouChallengedFlannery: @ 81EB3CA
 	.string "Have you already challenged Flannery,\n"
-	.string "the Leader of LAVARIDGE GYM?\p"
+	.string "the Leader of LAVARIDGE Gym?\p"
 	.string "The girl's grandfather was famous.\n"
 	.string "He was one of the Elite Four in the\l"
 	.string "Pokémon League at one point.\p"

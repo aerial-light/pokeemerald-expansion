@@ -526,7 +526,7 @@ Route119_Text_MayExplainFly: @ 81F4B56
 	.string "the Gym Badge from Fortree City.\l"
 	.string "That's important, so don't forget.\p"
 	.string "You should FLY home and visit\n"
-	.string "LITTLEROOT for a change.\p"
+	.string "LittleRoot for a change.\p"
 	.string "I bet your mom's worried about you,\n"
 	.string "{PLAYER}{KUN}.\p"
 	.string "Well, let's meet again somewhere!$"
@@ -568,7 +568,7 @@ Route119_Text_ScottWayToGoBeSeeingYou: @ 81F4E60
 	.string "a face all red from anger.\p"
 	.string "I sure seem to run into you often.\n"
 	.string "Are you off to Fortree Gym next?\p"
-	.string "I expect that you'll do well at the GYM.\n"
+	.string "I expect that you'll do well at the Gym.\n"
 	.string "Well, I'll be seeing you!$"
 
 

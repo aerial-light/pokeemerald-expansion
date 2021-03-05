@@ -1253,12 +1253,12 @@ gTVDewfordTrendWatcherNetworkText00:: @ 08284A3E
 
 gTVDewfordTrendWatcherNetworkText01:: @ 08284C55
 	.string "Old man: {STR_VAR_1} {STR_VAR_2}\n"
-	.string "was what {STR_VAR_3} from LITTLEROOT\l"
+	.string "was what {STR_VAR_3} from LittleRoot\l"
 	.string "taught me as being trendy…$"
 
 gTVDewfordTrendWatcherNetworkText02:: @ 08284C9B
 	.string "Old man: {STR_VAR_1} {STR_VAR_2}\n"
-	.string "was what {STR_VAR_3} from LITTLEROOT\l"
+	.string "was what {STR_VAR_3} from LittleRoot\l"
 	.string "taught me as being trendy…$"
 
 gTVDewfordTrendWatcherNetworkText03:: @ 08284CE1

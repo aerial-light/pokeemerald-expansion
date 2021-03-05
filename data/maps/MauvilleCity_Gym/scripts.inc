@@ -269,11 +269,11 @@ MauvilleCity_Gym_Text_GymGuideAdvice: @ 820E17F
 	.string "Hey, how's it going, CHAMPION-\n"
 	.string "bound {PLAYER}?\p"
 	.string "Wattson, the Leader of Mauville\n"
-	.string "GYM, uses Electric-type Pokémon.\p"
+	.string "Gym, uses Electric-type Pokémon.\p"
 	.string "If you challenge him with Water-type\n"
 	.string "Pokémon, he'll zap them! Bzzt!\p"
 	.string "And, he's put in switch-controlled\n"
-	.string "doors all over his GYM! Eccentric!\p"
+	.string "doors all over his Gym! Eccentric!\p"
 	.string "Hey, go for it!$"
 
 MauvilleCity_Gym_Text_GymGuidePostVictory: @ 820E283
@@ -306,7 +306,7 @@ MauvilleCity_Gym_Text_ShawnPostBattle: @ 820E3C1
 	.string "daddy was born, that tough coot.$"
 
 MauvilleCity_Gym_Text_BenIntro: @ 820E443
-	.string "This GYM's got puzzles!\n"
+	.string "This Gym's got puzzles!\n"
 	.string "Isn't it fun?$"
 
 MauvilleCity_Gym_Text_BenDefeat: @ 820E469
@@ -338,21 +338,21 @@ MauvilleCity_Gym_Text_AngeloDefeat: @ 820E5A8
 	.string "My eyes are frazzled…$"
 
 MauvilleCity_Gym_Text_AngeloPostBattle: @ 820E5C2
-	.string "Mauville GYM's Wattson has a shiny\n"
+	.string "Mauville Gym's Wattson has a shiny\n"
 	.string "forehead. It makes me happy!$"
 
 MauvilleCity_Gym_Text_WattsonIntro: @ 820E602
 	.string "I've given up on my plans to convert\n"
 	.string "the city, I have.\p"
 	.string "And so, I put my time into making\n"
-	.string "door traps in my GYM.\p"
+	.string "door traps in my Gym.\p"
 	.string "Oh? Now, what are you doing here?\p"
 	.string "What's that? You say you've gotten\n"
 	.string "past all my rigged doors?\p"
 	.string "Wahahahah!\n"
 	.string "Now, that is amusing!\p"
 	.string "Then, I, Wattson, the Leader of\n"
-	.string "Mauville GYM, shall electrify you!$"
+	.string "Mauville Gym, shall electrify you!$"
 
 MauvilleCity_Gym_Text_WattsonDefeat: @ 820E734
 	.string "Wahahahah!\n"
@@ -391,11 +391,11 @@ MauvilleCity_Gym_Text_WattsonGoForthAndEndeavor: @ 820E925
 	.string "Go forth and endeavor, youngster!$"
 
 MauvilleCity_Gym_Text_GymStatue: @ 820E952
-	.string "Mauville City Pokémon GYM$"
+	.string "Mauville City Pokémon Gym$"
 
 MauvilleCity_Gym_Text_GymStatueCertified: @ 820E96C
-	.string "Mauville City Pokémon GYM\p"
-	.string "Wattson's CERTIFIED Trainers:\n"
+	.string "Mauville City Pokémon Gym\p"
+	.string "Wattson's certified Trainers:\n"
 	.string "{PLAYER}$"
 
 MauvilleCity_Gym_Text_WattsonPreRematch: @ 820E9A7
